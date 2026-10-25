@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**3,492 collection entries · 23 categories · nested browser · portable AI instructions**
+**3,529 collection entries · 23 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -68,7 +68,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,492 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,529 empty folders would add clutter.
 
 ## Use with an AI
 

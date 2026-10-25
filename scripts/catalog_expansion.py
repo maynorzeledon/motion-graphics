@@ -59,6 +59,15 @@ STYLE_CREATORS={
 'XpressTV':'Fact title cards|Numbered item transitions|Photo and footage montage|Object emphasis graphics|Caption hierarchy|Fact comparison layouts'
 }
 def extend(group):
+ group('Storytelling and editing','Comedy formats','Literal jokes',{
+  'Idioms acted out':['Break the ice → break a block of ice','Hold your horses → physically hold toy horses','On the fence → sit on an actual fence','Spill the beans → spill a bag of beans','A piece of cake → reveal an actual piece of cake'],
+  'Metaphors made physical':['Time flies → a clock grows wings','Lost my train of thought → a toy train disappears','Food for thought → serve a brain-shaped snack','Heavy conversation → speech bubbles become heavy','Running out of time → a clock runs away'],
+  'Ambiguous words and requests':['Give me a hand → pass over a mannequin hand','Make it snappy → answer with finger snaps','Take a seat → carry a chair away','Draw the curtains → sketch a pair of curtains','Watch your step → point a camera at a staircase'],
+  'Story construction':['Ordinary conversation setup','Hide the literal interpretation until the reveal','Reveal the physical meaning','Character treats the literal result as normal','Escalate the same literal rule','Callback to an earlier expression'],
+  'Punchline delivery':['Visual-only literal reveal','Dialogue plus literal prop reveal','Deadpan literal answer','Delayed realization','Second meaning revealed by a wider shot'],
+  'Reference studies':['Video and transcript reference','Timecoded visual joke breakdown','Expression → literal meaning → visual payoff','Reusable literal-joke script blueprint','Original literal-joke ideas']
+ })
+ group('Styles and inspiration','Comedy editing styles','Literal-joke visual treatment','Prop reveal framing|Wide-shot meaning reveal|Literal text-to-object transformation|Deadpan reaction hold|Match cut from phrase to object|On-screen wordplay emphasis')
  for creator,(genre,hook,development,ending) in CREATORS.items():
   # Four separate folders per creator; observations stay empty until real examples arrive.
   group('Storytelling and editing','Creator studies — '+genre,creator, {'Reference library':['Video, script and visual study 01','Video, script and visual study 02','Reusable story blueprint'],'Hooks and premise':hook.split('|'),'Progression and escalation':development.split('|'),'Payoff and ending':ending.split('|'),'Analysis worksheets':['Timecoded script','Visual beat sheet','Open loops and callbacks','Narrator-to-visual relationship']})

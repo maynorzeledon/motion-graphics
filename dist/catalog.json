@@ -25351,6 +25351,120 @@
           ]
         },
         {
+          "id": "styles-and-inspiration/comedy-editing-styles",
+          "name": "Comedy editing styles",
+          "children": [
+            {
+              "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment",
+              "name": "Literal-joke visual treatment",
+              "children": [
+                {
+                  "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment/prop-reveal-framing",
+                  "name": "Prop reveal framing",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-editing-styles",
+                    "literal-joke-visual-treatment"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment/wide-shot-meaning-reveal",
+                  "name": "Wide-shot meaning reveal",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-editing-styles",
+                    "literal-joke-visual-treatment"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment/literal-text-to-object-transformation",
+                  "name": "Literal text-to-object transformation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-editing-styles",
+                    "literal-joke-visual-treatment"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment/deadpan-reaction-hold",
+                  "name": "Deadpan reaction hold",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-editing-styles",
+                    "literal-joke-visual-treatment"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment/match-cut-from-phrase-to-object",
+                  "name": "Match cut from phrase to object",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-editing-styles",
+                    "literal-joke-visual-treatment"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/comedy-editing-styles/literal-joke-visual-treatment/on-screen-wordplay-emphasis",
+                  "name": "On-screen wordplay emphasis",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-editing-styles",
+                    "literal-joke-visual-treatment"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "styles-and-inspiration/creator-editing-studies",
           "name": "Creator editing studies",
           "children": [
@@ -49122,6 +49236,581 @@
                   "files": [],
                   "license": null,
                   "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "storytelling-and-editing/comedy-formats",
+          "name": "Comedy formats",
+          "children": [
+            {
+              "id": "storytelling-and-editing/comedy-formats/literal-jokes",
+              "name": "Literal jokes",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/literal-jokes/idioms-acted-out",
+                  "name": "Idioms acted out",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/idioms-acted-out/break-the-ice-break-a-block-of-ice",
+                      "name": "Break the ice → break a block of ice",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "idioms-acted-out"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/idioms-acted-out/hold-your-horses-physically-hold-toy-horses",
+                      "name": "Hold your horses → physically hold toy horses",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "idioms-acted-out"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/idioms-acted-out/on-the-fence-sit-on-an-actual-fence",
+                      "name": "On the fence → sit on an actual fence",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "idioms-acted-out"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/idioms-acted-out/spill-the-beans-spill-a-bag-of-beans",
+                      "name": "Spill the beans → spill a bag of beans",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "idioms-acted-out"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/idioms-acted-out/a-piece-of-cake-reveal-an-actual-piece-of-cake",
+                      "name": "A piece of cake → reveal an actual piece of cake",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "idioms-acted-out"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/literal-jokes/metaphors-made-physical",
+                  "name": "Metaphors made physical",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/metaphors-made-physical/time-flies-a-clock-grows-wings",
+                      "name": "Time flies → a clock grows wings",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "metaphors-made-physical"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/metaphors-made-physical/lost-my-train-of-thought-a-toy-train-disappears",
+                      "name": "Lost my train of thought → a toy train disappears",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "metaphors-made-physical"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/metaphors-made-physical/food-for-thought-serve-a-brain-shaped-snack",
+                      "name": "Food for thought → serve a brain-shaped snack",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "metaphors-made-physical"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/metaphors-made-physical/heavy-conversation-speech-bubbles-become-heavy",
+                      "name": "Heavy conversation → speech bubbles become heavy",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "metaphors-made-physical"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/metaphors-made-physical/running-out-of-time-a-clock-runs-away",
+                      "name": "Running out of time → a clock runs away",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "metaphors-made-physical"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/literal-jokes/ambiguous-words-and-requests",
+                  "name": "Ambiguous words and requests",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/ambiguous-words-and-requests/give-me-a-hand-pass-over-a-mannequin-hand",
+                      "name": "Give me a hand → pass over a mannequin hand",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "ambiguous-words-and-requests"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/ambiguous-words-and-requests/make-it-snappy-answer-with-finger-snaps",
+                      "name": "Make it snappy → answer with finger snaps",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "ambiguous-words-and-requests"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/ambiguous-words-and-requests/take-a-seat-carry-a-chair-away",
+                      "name": "Take a seat → carry a chair away",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "ambiguous-words-and-requests"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/ambiguous-words-and-requests/draw-the-curtains-sketch-a-pair-of-curtains",
+                      "name": "Draw the curtains → sketch a pair of curtains",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "ambiguous-words-and-requests"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/ambiguous-words-and-requests/watch-your-step-point-a-camera-at-a-staircase",
+                      "name": "Watch your step → point a camera at a staircase",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "ambiguous-words-and-requests"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction",
+                  "name": "Story construction",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction/ordinary-conversation-setup",
+                      "name": "Ordinary conversation setup",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "story-construction"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction/hide-the-literal-interpretation-until-the-reveal",
+                      "name": "Hide the literal interpretation until the reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "story-construction"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction/reveal-the-physical-meaning",
+                      "name": "Reveal the physical meaning",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "story-construction"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction/character-treats-the-literal-result-as-normal",
+                      "name": "Character treats the literal result as normal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "story-construction"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction/escalate-the-same-literal-rule",
+                      "name": "Escalate the same literal rule",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "story-construction"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/story-construction/callback-to-an-earlier-expression",
+                      "name": "Callback to an earlier expression",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "story-construction"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/literal-jokes/punchline-delivery",
+                  "name": "Punchline delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/punchline-delivery/visual-only-literal-reveal",
+                      "name": "Visual-only literal reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "punchline-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/punchline-delivery/dialogue-plus-literal-prop-reveal",
+                      "name": "Dialogue plus literal prop reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "punchline-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/punchline-delivery/deadpan-literal-answer",
+                      "name": "Deadpan literal answer",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "punchline-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/punchline-delivery/delayed-realization",
+                      "name": "Delayed realization",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "punchline-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/punchline-delivery/second-meaning-revealed-by-a-wider-shot",
+                      "name": "Second meaning revealed by a wider shot",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "punchline-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/literal-jokes/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/reference-studies/video-and-transcript-reference",
+                      "name": "Video and transcript reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/reference-studies/timecoded-visual-joke-breakdown",
+                      "name": "Timecoded visual joke breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/reference-studies/expression-literal-meaning-visual-payoff",
+                      "name": "Expression → literal meaning → visual payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/reference-studies/reusable-literal-joke-script-blueprint",
+                      "name": "Reusable literal-joke script blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/literal-jokes/reference-studies/original-literal-joke-ideas",
+                      "name": "Original literal-joke ideas",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "literal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
                 }
               ]
             }
