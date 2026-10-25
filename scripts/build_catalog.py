@@ -225,6 +225,71 @@ for name,items in {
 'File and quality variants':'Seamless tile|Non-tiling plate|Portrait overlay|Landscape overlay|Square tile|2K texture|4K texture|8K source|PNG transparency|EXR linear map|Color space metadata|Physical scale record|Loop seam review|Source and license record'
 }.items():group('Textures','Motion, maps and delivery',name,items)
 
+# Media and editorial collections: targets only, with provenance recorded when collected.
+for name,items in {
+'People and everyday life':'Walking crowd|Commuting|Studying|Reading|Writing notes|Cooking|Eating|Shopping|Conversation|Waiting|Sleeping|Celebrating|Working at a desk|Family moment|Hands using a phone|Hands typing|Hands exchanging an object',
+'Technology and AI':'Phone closeup|Laptop typing|Server racks|Data center exterior|Circuit board macro|Robot arm|Factory automation|VR headset use|Game controller use|App interaction recording|AI chat screen capture|Coding screen|Camera equipment|Satellite dish|Computer repair',
+'Business and money':'Office teamwork|Meeting room|Presentation|Small business storefront|Warehouse packing|Delivery|Cash counting|Card payment|ATM use|Stock exchange exterior|Financial dashboard recording|Contract signing|Job interview|Construction progress',
+'Cities and transport':'City establishing shot|Street crossing|Traffic timelapse|Night traffic|Subway platform|Train arrival|Train window|Plane takeoff|Airport terminal|Port cranes|Cargo ship|Highway aerial|Walking POV|Driving POV|Cycling POV|Road sign insert',
+'Nature and geography':'Mountain aerial|Forest canopy|River aerial|Ocean coastline|Waves closeup|Desert dunes|Rain on window|Storm clouds|Sunrise|Sunset|Night sky|Flower macro|Wildlife|Underwater|Snow landscape|Volcano landscape',
+'Science and education':'Classroom|Laboratory|Microscope|Chemical reaction|Physics demonstration|Whiteboard writing|Library shelves|Telescope|Hospital corridor|Medical equipment|Renewable energy|Space launch|Astronaut archive pointer',
+'Sport and entertainment':'Football stadium|Ball closeup|Training drills|Running|Gym workout|Crowd cheering|Concert crowd|Musician hands|Headphone listening|Gaming setup|Theater seats|Backstage preparation',
+'Abstract and metaphorical':'Clock passing time|Hourglass|Falling dominoes|Puzzle pieces|Maze|Empty chair|Opening door|Bridge crossing|Crossroads|Spinning coin|Chess move|Growing plant|Burning match|Water drop|Stacking blocks'
+}.items():group('B-roll','Subject collections',name,items)
+for name,items in {
+'Shot types':'Wide establishing shot|Medium action shot|Closeup insert|Extreme macro|Over-the-shoulder|POV shot|Top-down shot|Low-angle shot|High-angle shot|Drone reveal|Tracking shot|Locked-off shot|Slow motion|Timelapse|Hyperlapse|Seamless loop',
+'Editorial purpose':'Location setup|Time passing|Process demonstration|Evidence illustration|Visual metaphor|Transition bridge|Narration coverage|Detail emphasis|Scale comparison|Atmosphere bed|Problem example|Outcome example',
+'Collection metadata':'Source and creator record|Usage rights record|Model release record|Property release record|Capture date and location|Resolution and frame rate|Duration and usable range|Camera movement tags|Orientation variants|Original audio record|Clean plate variant|Transcript or shot description'
+}.items():group('B-roll','Shot selection and delivery',name,items)
+for name,items in {
+'Reaction moods':'Confusion|Disbelief|Shock|Suspicion|Realization|Awkward silence|Embarrassment|Frustration|Anger|Disappointment|Celebration|Relief|Approval|Disapproval|Panic|Sadness|Boredom|Anticipation|Smug confidence|Dramatic defeat',
+'Familiar reaction references':'Confused math lady|Blinking white guy|Dramatic chipmunk|This is fine|Surprised Pikachu|Disappointed cricket fan|Facepalm reaction|Slow clap reaction|Spit take reaction|Record scratch freeze|Wait a minute reaction|Mind blown reaction|Confused Travolta|Shocked crowd|Happy dance reaction',
+'Comedic actions':'Double take|Slow turn|Zoom into face|Walking away|Running away|Falling over|Chair spin|Head shake|Nervous glance|Thumbs up|Suspicious squint|Mic drop|Desk slam|Celebration jump|Looking into camera|Dramatic entrance',
+'Animals and characters':'Confused dog|Side-eye dog|Surprised cat|Keyboard cat reference|Dancing animal|Judgmental bird|Goofy walk|Cartoon panic|Cartoon impact|Stickman reaction|Mascot reaction|Video game NPC reaction',
+'Editing formats':'Full-frame cutaway|Corner reaction insert|Green-screen cutout|Transparent reaction loop|Freeze-frame punchline|Captioned reaction|Silent reaction|Reaction with original audio|Sound-only punchline pointer|Split-screen comparison|Vertical crop|Looping GIF reference|Before/after punchline',
+'Comedic timing':'Setup pause|Anticipation hold|Hard cut punchline|Delayed reaction|Rapid repeat|Escalating repeat|Smash zoom|Deadpan hold|Awkward extended hold|Fake-out reveal|Callback insert|Cut on sound',
+'Context and source notes':'Original source link|Original context summary|Creator and rights record|Timestamp and usable segment|Reaction meaning|Suggested edit use|Audio transcript|Language and translation|Clean language variant|Crop-safe area|Caption-safe area|Attribution requirements'
+}.items():group('Meme clips and reactions','Reaction library',name,items)
+for name,items in {
+'Historical material':'Historic street footage|Historic city photograph|Public speech recording|Newsreel reference|Historic map|Old newspaper page|Scanned letter|Diary page|Government report|Patent drawing|Scientific illustration|Historic advertisement|Election material|Museum object photograph',
+'Evidence and documents':'Research paper extract|Book excerpt reference|Official statistics table|Court document pointer|Company filing pointer|Press release|Public statement|Verified quotation|Original interview pointer|Web page capture|Document comparison|Source citation card',
+'Editorial source organization':'Archive institution record|Original publication date|Event date|Author and creator record|Provenance chain|Source URL|Archive identifier|Rights statement|Caption and context|Transcript pointer|Translation note|Restoration history'
+}.items():group('Archival media and documents','Evidence collections',name,items)
+for name,items in {
+'Portraits and people':'Headshot|Full-body portrait|Side profile|Expressive portrait|Hands detail|Crowd image|Athlete portrait|Musician portrait|Scientist portrait|Historical figure reference|Silhouette|Background-removed person',
+'Products and places':'Product packshot|Product detail|Device screen image|Packaging|Building exterior|Room interior|City skyline|Landmark|Landscape|Food photograph|Vehicle|Aerial image',
+'Cutouts and editorial assets':'Transparent object cutout|Hair-edge portrait cutout|Paper-edged photo cutout|Sticker-style cutout|Shadow-only layer|Foreground isolation|Background isolation|Depth-separated photo|Object mask|Face-safe crop|Caption-safe crop|Portrait/landscape crop variants',
+'Photo animation preparation':'2.5D parallax layers|Depth map|Inpainted background plate|Subject anchor points|Ken Burns crop path|Focus region|Photo carousel sequence|Contact sheet|Source and license record|Image caption and alt text'
+}.items():group('Photography and cutouts','Still image collections',name,items)
+for name,items in {
+'Practical visual elements':'Smoke plume|Fog layer|Fire element|Spark shower|Ember drift|Water splash|Rain layer|Snow layer|Dust hit|Debris burst|Glass fragments|Ink in water|Light beam|Lens flare element',
+'Keying and masks':'Green-screen reference|Blue-screen reference|Garbage matte|Chroma key settings|Spill suppression|Hair edge refinement|Rotoscope mask|Luma key|Depth matte|Object occlusion mask|Holdout matte|Edge feather control',
+'Tracking and integration':'Point tracking reference|Planar tracking reference|Camera solve reference|Phone screen replacement|Laptop screen replacement|Billboard replacement|Text attached to surface|Moving object label|Perspective corner pin|Shadow matching|Light wrap|Reflection matching',
+'Composite building blocks':'Foreground plate|Background plate|Clean plate|Shadow pass|Reflection pass|Depth pass|Motion vector pass|Alpha premultiplication record|Blend mode comparison|Color match pass|Grain match pass|Before/after composite'
+}.items():group('VFX and compositing','Compositing library',name,items)
+for name,items in {
+'Color systems':'Monochrome palette|Two-color palette|Three-color palette|Pastel palette|Neon palette|Earth-tone palette|Editorial palette|Technology palette|Sports palette|Warm/cool contrast|Category color mapping|Accessible contrast pair',
+'Layout recipes':'Centered hero|Editorial column|Split-screen|Asymmetric composition|Bento grid|Card grid|Photo collage|Timeline layout|Comparison layout|Map plus sidebar|Chart plus annotation|Full-screen quote|Poster layout|Device showcase',
+'Brand ingredients':'Logo variants|Logo clear space|Brand palette|Typography pairing|Icon style guide|Corner radius system|Stroke width system|Shadow system|Spacing scale|Background treatment|Motion timing tokens|Sound identity',
+'Composition guides':'Rule of thirds|Centered symmetry|Golden ratio guide|Baseline grid|Eight-point spacing grid|Portrait safe areas|Landscape safe areas|Caption exclusion area|Logo exclusion area|Visual hierarchy check|Foreground/background separation|Negative space planning'
+}.items():group('Palettes and design systems','Reusable design recipes',name,items)
+for name,items in {
+'Story beats':'Curiosity hook|Question opener|Claim reveal|Context setup|Problem setup|Evidence reveal|Mechanism explanation|Counterexample|Comparison|Escalation|Twist|Payoff|Recap|Call to action',
+'Editing patterns':'Narration-led montage|Beat-led montage|J-cut|L-cut|Match on action|Cutaway insert|Reaction insert|Parallel editing|Split-screen comparison|Time compression|Time expansion|Freeze and annotate|Zoom and explain|Visual callback',
+'Sequence planning':'Script-to-shot breakdown|Storyboard panels|Shot list|Animatic|Narration cue sheet|Music cue sheet|Sound cue sheet|Scene duration plan|Transition plan|Reusable scene graph|Source checklist|Render review sheet',
+'Pacing references':'Fast educational pacing|Calm documentary pacing|Comedy pause timing|Product reveal pacing|Suspense buildup|Impact beat|Breathing room|Information-dense sequence|Mobile short pacing|Looping ending'
+}.items():group('Storytelling and editing','Editorial recipes',name,items)
+for name,items in {
+'Caption styles':'Clean subtitles|Word-highlight captions|Karaoke captions|Speaker-labeled captions|Two-line subtitles|Bilingual captions|Vertical short captions|Transcript overlay|Quote emphasis|Sound description captions',
+'Localization':'English version|Spanish version|Translation glossary|Pronunciation notes|Subtitle timing adaptation|Text expansion layout|Right-to-left layout|Locale number formats|Locale date formats|Culturally specific reference notes',
+'Accessibility and delivery':'Readable contrast|Minimum type size guide|Reduced motion variant|Flash and strobe review|Color-independent labels|Safe caption position|Dialogue intelligibility|Music ducking|Descriptive transcript|Alt text for stills|SRT file|WebVTT file|Burned-in captions|Clean video without captions'
+}.items():group('Captions and localization','Text and accessibility',name,items)
+for name,items in {
+'Voice direction':'Calm explainer|Energetic explainer|Documentary narrator|News presenter|Conversational read|Dramatic read|Deadpan comedy|Warm instructional read|Character reaction|Whispered line',
+'Voice production':'Script with emphasis marks|Pronunciation guide|Spanish pronunciation sample|English pronunciation sample|Pacing reference|Breath placement|Pause markers|Pickup line record|Clean narration take|Room tone|Noise removal settings|De-essing settings|Loudness target record|Music ducking envelope',
+'Alignment and assets':'Sentence timing markers|Word timing markers|Phoneme timing markers|Caption alignment|Character lip-sync reference|Voice consent and usage record|Speaker identity record|Language and accent tags|Raw take pointer|Edited take pointer'
+}.items():group('Voiceover and narration','Narration library',name,items)
+
 # Generate stable IDs; do not create speculative combinations across every subject.
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 count=0

@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**1,736 collection entries · 14 categories · nested browser · portable AI instructions**
+**2,296 collection entries · 23 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -26,6 +26,15 @@ Progress is stored in the current browser, not automatically committed to GitHub
 12. Code recipes and integrations — implementation and rendering approaches.
 13. Color grading and looks — series-inspired grades, filter families, LUTs, and color controls.
 14. Textures — surfaces, print, film, animated overlays, and 3D texture maps.
+15. B-roll — subject collections, shot types, editorial purpose, and delivery.
+16. Meme clips and reactions — reactions, named references, comedic timing, and edit formats.
+17. Archival media and documents — historical material, evidence, and source records.
+18. Photography and cutouts — portraits, objects, isolated layers, and photo animation preparation.
+19. VFX and compositing — practical elements, keying, tracking, and scene integration.
+20. Palettes and design systems — reusable color, layout, brand, and composition recipes.
+21. Storytelling and editing — hooks, story beats, editing patterns, storyboards, and pacing.
+22. Captions and localization — caption styles, translation, and accessibility.
+23. Voiceover and narration — voice direction, recording, pronunciation, and timing.
 
 Browse the full [text checklist](docs/CATALOG.md). Edit `scripts/build_catalog.py`, then run `npm run build` to regenerate the catalog and checklist. IDs derive from the full hierarchy: preserve existing names and IDs when possible because saved progress uses IDs.
 
@@ -49,7 +58,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—1,736 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—2,296 empty folders would add clutter.
 
 ## Use with an AI
 
