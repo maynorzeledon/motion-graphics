@@ -1,0 +1,21 @@
+{
+  "id": "replace-with-entry-slug",
+  "catalogId": "animations/interface-controls/toggles/spring-toggle",
+  "title": "Spring toggle — reference 01",
+  "status": "planned",
+  "tags": ["ui", "spring", "toggle"],
+  "references": [],
+  "preview": null,
+  "contactSheet": null,
+  "code": null,
+  "renderer": null,
+  "dependencies": {},
+  "dimensions": {"width": 1920, "height": 1080, "fps": 30},
+  "durationSeconds": null,
+  "parameters": {},
+  "assets": [],
+  "license": {"source": null, "creator": null, "license": null, "attribution": null, "usageNotes": null},
+  "techniques": [],
+  "verification": {"rendered": false, "visuallyReviewed": false, "notes": ""},
+  "notes": "Template only. Replace metadata with actual collected files and evidence."
+}

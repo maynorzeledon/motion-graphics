@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Atlas"
+  short_description: "Find and reuse motion references, assets, and implementations"
+  default_prompt: "Use Motion Atlas to plan a motion design and find relevant collected references and code."
