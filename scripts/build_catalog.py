@@ -3,7 +3,7 @@ import json, re, pathlib
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 T={}
 def group(category, section, name, items):
-    T.setdefault(category,{}).setdefault(section,{})[name]=items.split('|')
+    T.setdefault(category,{}).setdefault(section,{})[name]=items.split('|') if isinstance(items,str) else items
 # INTERACTION AND INTERFACES
 for name,items in {
 'Toggles':'Basic on/off|Spring toggle|Day/night toggle|Icon morph toggle|Liquid toggle|Segmented toggle|Checkbox switch|Theme switch|Sound toggle|3D rocker switch',
@@ -290,6 +290,9 @@ for name,items in {
 'Alignment and assets':'Sentence timing markers|Word timing markers|Phoneme timing markers|Caption alignment|Character lip-sync reference|Voice consent and usage record|Speaker identity record|Language and accent tags|Raw take pointer|Edited take pointer'
 }.items():group('Voiceover and narration','Narration library',name,items)
 
+from catalog_expansion import extend, organize
+extend(group)
+
 # Generate stable IDs; do not create speculative combinations across every subject.
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 count=0
@@ -300,7 +303,13 @@ def node(label,value,path):
  if isinstance(value,list):return {'id':ident,'name':label,'children':[node(k,None,current) for k in value]}
  count+=1
  return {'id':ident,'name':label,'status':'planned','priority':'normal','tags':[slug(p) for p in path[-2:]],'notes':'','references':[],'preview':None,'code':None,'files':[],'license':None,'variants':[]}
-catalog={'version':1,'title':'Motion Atlas','description':'A growing collection of motion references, assets and reusable implementations.','categories':[node(k,v,[]) for k,v in T.items()]}
+catalog={'version':1,'title':'Motion Atlas','description':'A growing collection of motion references, assets and reusable implementations.','categories':organize([node(k,v,[]) for k,v in T.items()],slug)}
 (ROOT/'dist/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n')
-(ROOT/'docs/CATALOG.md').write_text('# Collection checklist\n\nGenerated from scripts/build_catalog.py. All entries begin as planned.\n\n'+'\n'.join('## '+c+'\n\n'+'\n'.join('### '+s+'\n\n'+'\n'.join('**'+n+'**\n\n'+'\n'.join('- [ ] '+i for i in items)+'\n' for n,items in families.items()) for s,families in sections.items()) for c,sections in T.items()))
+def checklist(n,depth=0):
+ if 'children' in n:
+  prefix='#' * min(depth+2,6)
+  return prefix+' '+n['name']+'\n\n'+''.join(checklist(x,depth+1) for x in n['children'])
+ return '- [ ] '+n['name']+'\n'
+(ROOT/'docs/CATALOG.md').write_text('# Collection checklist\n\nGenerated from scripts/build_catalog.py. Entries begin as planned. Creator folders are study targets, not completed analyses.\n\n'+''.join(checklist(c) for c in catalog['categories']))
+
 print(f'{len(T)} categories; {count} specific collection entries')

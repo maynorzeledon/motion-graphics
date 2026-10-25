@@ -5,7 +5,8 @@
   "description": "An expandable motion reference library",
   "scripts": {
     "build": "python3 scripts/build_catalog.py",
-    "check": "node --check dist/app.js && python3 scripts/validate_catalog.py",
+    "check": "node --check dist/app.js && node --check dist/media.js && python3 scripts/validate_catalog.py",
     "serve": "python3 -m http.server 3000 --directory dist"
-  }
+  },
+  "type": "module"
 }

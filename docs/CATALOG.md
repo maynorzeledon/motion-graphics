@@ -1,12 +1,12 @@
 # Collection checklist
 
-Generated from scripts/build_catalog.py. All entries begin as planned.
+Generated from scripts/build_catalog.py. Entries begin as planned. Creator folders are study targets, not completed analyses.
 
 ## Animations
 
 ### Interface controls
 
-**Toggles**
+#### Toggles
 
 - [ ] Basic on/off
 - [ ] Spring toggle
@@ -18,8 +18,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Theme switch
 - [ ] Sound toggle
 - [ ] 3D rocker switch
-
-**Loading**
+#### Loading
 
 - [ ] Spinner
 - [ ] Bouncing dots
@@ -34,8 +33,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] File upload progress
 - [ ] Download progress
 - [ ] Success completion
-
-**Dropdowns and selection**
+#### Dropdowns and selection
 
 - [ ] Dropdown open/close
 - [ ] Searchable select
@@ -49,8 +47,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Combobox results
 - [ ] Context menu
 - [ ] Date selection
-
-**Sliders**
+#### Sliders
 
 - [ ] Volume slider
 - [ ] Brightness slider
@@ -62,8 +59,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Spring thumb
 - [ ] Tooltip value
 - [ ] Before/after slider
-
-**Buttons**
+#### Buttons
 
 - [ ] Hover fill
 - [ ] Magnetic button
@@ -75,8 +71,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Hold to confirm
 - [ ] Destructive confirmation
 - [ ] Share expansion
-
-**Cards and panels**
+#### Cards and panels
 
 - [ ] Card flip
 - [ ] Card stack
@@ -90,8 +85,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Bottom sheet
 - [ ] Modal dialog
 - [ ] Side drawer
-
-**Navigation**
+#### Navigation
 
 - [ ] Tab underline
 - [ ] Pill tab
@@ -103,8 +97,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Radial menu
 - [ ] Pagination
 - [ ] Scroll progress
-
-**Notifications**
+#### Notifications
 
 - [ ] Toast slide
 - [ ] Notification stack
@@ -116,8 +109,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Success check
 - [ ] Inline validation
 - [ ] Undo snackbar
-
-**Input and feedback**
+#### Input and feedback
 
 - [ ] Typing cursor
 - [ ] Text selection
@@ -131,10 +123,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Pull to refresh
 - [ ] Empty state
 - [ ] Offline state
-
 ### App and operating system UI
 
-**Instagram**
+#### Instagram
 
 - [ ] Feed post
 - [ ] Story progress
@@ -148,8 +139,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Save post
 - [ ] Share sheet
 - [ ] Live badges
-
-**TikTok**
+#### TikTok
 
 - [ ] Vertical feed
 - [ ] Like burst
@@ -161,8 +151,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Live overlay
 - [ ] Search results
 - [ ] Record controls
-
-**Spotify**
+#### Spotify
 
 - [ ] Now playing
 - [ ] Album art transition
@@ -175,8 +164,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Library grid
 - [ ] Wrapped cards
 - [ ] Device picker
-
-**YouTube**
+#### YouTube
 
 - [ ] Subscribe button
 - [ ] Notification bell
@@ -189,8 +177,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] End screen
 - [ ] Like counter
 - [ ] Mini player
-
-**iPhone / iOS**
+#### iPhone / iOS
 
 - [ ] Dynamic Island expand
 - [ ] Lock screen
@@ -207,8 +194,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Face ID
 - [ ] Battery charging
 - [ ] Live Activity
-
-**Samsung / Android**
+#### Samsung / Android
 
 - [ ] One UI home
 - [ ] Quick settings
@@ -222,8 +208,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Material sheet
 - [ ] Charging screen
 - [ ] Permission dialog
-
-**macOS**
+#### macOS
 
 - [ ] Dock hover
 - [ ] Finder window
@@ -235,8 +220,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Terminal typing
 - [ ] Stage Manager
 - [ ] Notification panel
-
-**Windows**
+#### Windows
 
 - [ ] Start menu
 - [ ] Taskbar
@@ -248,8 +232,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Notification panel
 - [ ] Terminal
 - [ ] Desktop switch
-
-**Browser**
+#### Browser
 
 - [ ] Address bar typing
 - [ ] Tab open/close
@@ -263,8 +246,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Responsive preview
 - [ ] Cookie banner
 - [ ] Back navigation
-
-**Calendar**
+#### Calendar
 
 - [ ] Month view
 - [ ] Week view
@@ -276,8 +258,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Availability grid
 - [ ] Meeting invitation
 - [ ] Time zone view
-
-**Widgets**
+#### Widgets
 
 - [ ] Weather card
 - [ ] Clock widget
@@ -289,8 +270,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Habit tracker
 - [ ] Stock ticker
 - [ ] Photo widget
-
-**ChatGPT**
+#### ChatGPT
 
 - [ ] Prompt typing
 - [ ] Message stream
@@ -302,8 +282,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Tool result
 - [ ] Model selector
 - [ ] Canvas panel
-
-**Claude**
+#### Claude
 
 - [ ] Prompt composer
 - [ ] Streaming reply
@@ -313,8 +292,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Code preview
 - [ ] Conversation list
 - [ ] Thinking disclosure
-
-**Gemini**
+#### Gemini
 
 - [ ] Prompt input
 - [ ] Response reveal
@@ -323,8 +301,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Voice input
 - [ ] Result card
 - [ ] Conversation list
-
-**Grok**
+#### Grok
 
 - [ ] Chat input
 - [ ] Streaming response
@@ -332,8 +309,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Voice interface
 - [ ] Result cards
 - [ ] Conversation panel
-
-**X / Twitter**
+#### X / Twitter
 
 - [ ] Tweet compose
 - [ ] Post card
@@ -344,8 +320,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Notifications
 - [ ] Profile
 - [ ] Spaces audio
-
-**Reddit**
+#### Reddit
 
 - [ ] Post card
 - [ ] Upvote counter
@@ -355,8 +330,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Flair selection
 - [ ] Feed sort
 - [ ] Image gallery
-
-**Facebook**
+#### Facebook
 
 - [ ] Feed card
 - [ ] Reaction picker
@@ -366,8 +340,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Profile cover
 - [ ] Share dialog
 - [ ] Event card
-
-**Pinterest**
+#### Pinterest
 
 - [ ] Masonry grid
 - [ ] Pin zoom
@@ -376,8 +349,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Search suggestions
 - [ ] Related pins
 - [ ] Video pin player
-
-**Snapchat**
+#### Snapchat
 
 - [ ] Camera controls
 - [ ] Chat list
@@ -386,8 +358,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Map avatar
 - [ ] Lens selector
 - [ ] Streak badge
-
-**Google Workspace**
+#### Google Workspace
 
 - [ ] Gmail inbox
 - [ ] Gmail compose
@@ -399,8 +370,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Drive file grid
 - [ ] Meet call
 - [ ] Forms response
-
-**Microsoft 365**
+#### Microsoft 365
 
 - [ ] Outlook inbox
 - [ ] Word typing
@@ -410,8 +380,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Teams meeting
 - [ ] OneDrive upload
 - [ ] OneNote page
-
-**Camera**
+#### Camera
 
 - [ ] Focus reticle
 - [ ] Shutter flash
@@ -421,8 +390,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Exposure slider
 - [ ] Portrait depth
 - [ ] Camera grid
-
-**Photo Gallery**
+#### Photo Gallery
 
 - [ ] Photo grid
 - [ ] Pinch zoom
@@ -432,8 +400,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Selection check
 - [ ] Edit sliders
 - [ ] Before/after edit
-
-**App Store**
+#### App Store
 
 - [ ] App card
 - [ ] Install progress
@@ -442,8 +409,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Screenshot carousel
 - [ ] Search results
 - [ ] Subscription sheet
-
-**Play Store**
+#### Play Store
 
 - [ ] App listing
 - [ ] Install progress
@@ -452,8 +418,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Screenshot carousel
 - [ ] Search results
 - [ ] Update list
-
-**CapCut**
+#### CapCut
 
 - [ ] Timeline edit
 - [ ] Clip split
@@ -461,8 +426,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Effects picker
 - [ ] Keyframe panel
 - [ ] Export progress
-
-**After Effects**
+#### After Effects
 
 - [ ] Timeline layers
 - [ ] Keyframe graph
@@ -470,8 +434,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Effects controls
 - [ ] Mask path
 - [ ] Render queue
-
-**DaVinci Resolve**
+#### DaVinci Resolve
 
 - [ ] Edit timeline
 - [ ] Color wheels
@@ -479,8 +442,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Waveform scopes
 - [ ] Fusion nodes
 - [ ] Deliver progress
-
-**Premiere Pro**
+#### Premiere Pro
 
 - [ ] Timeline tracks
 - [ ] Source monitor
@@ -488,8 +450,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Effect controls
 - [ ] Audio meters
 - [ ] Export screen
-
-**Duolingo**
+#### Duolingo
 
 - [ ] Lesson path
 - [ ] Answer feedback
@@ -499,8 +460,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] League promotion
 - [ ] Lesson completion
 - [ ] Mascot reaction
-
-**Netflix**
+#### Netflix
 
 - [ ] Title browse
 - [ ] Hero preview
@@ -509,8 +469,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Episode list
 - [ ] Player controls
 - [ ] Title reveal
-
-**Disney+**
+#### Disney+
 
 - [ ] Brand row
 - [ ] Title carousel
@@ -518,8 +477,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Detail page
 - [ ] Player controls
 - [ ] Watchlist save
-
-**Amazon**
+#### Amazon
 
 - [ ] Product card
 - [ ] Cart update
@@ -528,8 +486,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Review stars
 - [ ] Search results
 - [ ] Prime Video player
-
-**GitHub**
+#### GitHub
 
 - [ ] Contribution grid
 - [ ] Commit graph
@@ -539,10 +496,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Star counter
 - [ ] Repository tree
 - [ ] Action progress
-
 ### Typography and writing
 
-**Text reveals**
+#### Text reveals
 
 - [ ] Word pop
 - [ ] Character stagger
@@ -559,8 +515,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Karaoke highlight
 - [ ] Caption emphasis
 - [ ] Number to word morph
-
-**Numbers and symbols**
+#### Numbers and symbols
 
 - [ ] Odometer
 - [ ] Rolling counter
@@ -575,8 +530,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Fraction morph
 - [ ] Ticker
 - [ ] Price change
-
-**Writing tools**
+#### Writing tools
 
 - [ ] Pen drawing
 - [ ] Pencil sketch
@@ -587,8 +541,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Ink spread
 - [ ] Eraser wipe
 - [ ] Notebook writing
-
-**Layouts**
+#### Layouts
 
 - [ ] Headline stack
 - [ ] Quote card
@@ -600,10 +553,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Source citation
 - [ ] List build
 - [ ] Comparison labels
-
 ### Objects, nature and characters
 
-**Nature and space**
+#### Nature and space
 
 - [ ] Butterfly flight
 - [ ] Pigeon flight
@@ -621,8 +573,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Snow
 - [ ] Lightning
 - [ ] Ocean wave
-
-**Objects and symbols**
+#### Objects and symbols
 
 - [ ] Watch hands
 - [ ] Clock tick
@@ -639,8 +590,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Music player
 - [ ] Balance scale
 - [ ] Camera shutter
-
-**Characters and anatomy**
+#### Characters and anatomy
 
 - [ ] Brain pulse
 - [ ] Neural connection
@@ -656,8 +606,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Hand pointing
 - [ ] Heartbeat trace
 - [ ] Breathing loop
-
-**Particles and materials**
+#### Particles and materials
 
 - [ ] Confetti
 - [ ] Raining money
@@ -675,8 +624,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Flocking particles
 - [ ] Magnetic particles
 - [ ] Energy trail
-
-**Backgrounds**
+#### Backgrounds
 
 - [ ] Animated mesh gradient
 - [ ] Aurora
@@ -692,8 +640,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Paper texture drift
 - [ ] Retro grid
 - [ ] Fluid gradient
-
-**Thought bubbles and icons**
+#### Thought bubbles and icons
 
 - [ ] Thought bubble appear
 - [ ] Thought bubble morph
@@ -707,10 +654,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Icon stroke loop
 - [ ] Mood icon change
 - [ ] Sound wave pulse
-
 ### Data and explanation
 
-**Charts**
+#### Charts
 
 - [ ] Bar chart
 - [ ] Grouped bar
@@ -732,8 +678,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Gantt chart
 - [ ] Candlestick
 - [ ] Waffle chart
-
-**Graphs and explanation**
+#### Graphs and explanation
 
 - [ ] Node network
 - [ ] Tree diagram
@@ -749,8 +694,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Annotated screenshot
 - [ ] News headline stack
 - [ ] Newspaper collage
-
-**Data motion**
+#### Data motion
 
 - [ ] Axis draw
 - [ ] Data point reveal
@@ -764,12 +708,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Missing data gap
 - [ ] Dataset morph
 - [ ] Source label
+### Timing and interaction studies
 
+#### Timing recipes
+
+- [ ] Anticipation pose
+- [ ] Overshoot and settle
+- [ ] Follow-through delay
+- [ ] Stagger directions
+- [ ] Loop seam
+- [ ] Hold and release
+#### Responsive variants
+
+- [ ] Portrait layout
+- [ ] Landscape layout
+- [ ] Reduced motion
+- [ ] Touch interaction
+- [ ] Mouse interaction
+- [ ] Keyboard focus motion
 ## Maps and geography
 
-### Map system
+### Base maps and projections
 
-**World and projection**
+#### World and projection
 
 - [ ] Flat world map
 - [ ] Orthographic globe
@@ -781,8 +742,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Regional inset
 - [ ] Antimeridian crossing
 - [ ] Globe to flat morph
-
-**Visual layers**
+#### Visual layers
 
 - [ ] Political map
 - [ ] Terrain relief
@@ -798,8 +758,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Historic map
 - [ ] Minimal outline
 - [ ] 3D extruded map
+### Places and boundaries
 
-**Borders and places**
+#### Borders and places
 
 - [ ] Country borders
 - [ ] Disputed boundaries
@@ -816,8 +777,24 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Coordinate grid
 - [ ] Scale bar
 - [ ] Compass
+#### Physical geography
 
-**Transport networks**
+- [ ] Rivers
+- [ ] Lakes
+- [ ] Coastlines
+- [ ] Mountain ranges
+- [ ] Elevation
+- [ ] Deserts
+- [ ] Forests
+- [ ] Volcanoes
+- [ ] Tectonic plates
+- [ ] Ocean currents
+- [ ] Watersheds
+- [ ] Ice coverage
+- [ ] Time zones
+### Transport and routes
+
+#### Transport networks
 
 - [ ] Major roads
 - [ ] Motorways
@@ -834,24 +811,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Cycling routes
 - [ ] Walking routes
 - [ ] Bridges and tunnels
+### Camera and controls
 
-**Physical geography**
-
-- [ ] Rivers
-- [ ] Lakes
-- [ ] Coastlines
-- [ ] Mountain ranges
-- [ ] Elevation
-- [ ] Deserts
-- [ ] Forests
-- [ ] Volcanoes
-- [ ] Tectonic plates
-- [ ] Ocean currents
-- [ ] Watersheds
-- [ ] Ice coverage
-- [ ] Time zones
-
-**Animated moves**
+#### Animated moves
 
 - [ ] Globe spin
 - [ ] Country zoom
@@ -869,8 +831,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Map wipe
 - [ ] Multi-stop trip
 - [ ] Camera match cut
-
-**Controls and variants**
+#### Controls and variants
 
 - [ ] Layer switcher
 - [ ] Projection switcher
@@ -885,8 +846,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Portrait framing
 - [ ] Landscape framing
 - [ ] Square framing
+### Geographic data
 
-**Data preparation**
+#### Data preparation
 
 - [ ] GeoJSON countries
 - [ ] TopoJSON simplification
@@ -900,34 +862,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Route dataset
 - [ ] Flight dataset
 - [ ] Rail dataset
+### Scene recipes
 
+#### Geography stories
+
+- [ ] Country comparison
+- [ ] Border change timeline
+- [ ] Trade route explanation
+- [ ] City growth study
+- [ ] Terrain cross-section
+- [ ] Route with altitude
+#### Reference packets
+
+- [ ] Source map
+- [ ] Camera path
+- [ ] Layer manifest
+- [ ] Timecoded narration
+- [ ] Map legend
+- [ ] Boundary date record
 ## 2D assets
 
-### Asset packs
+### People and objects
 
-**Devices**
-
-- [ ] iPhone front
-- [ ] iPhone back
-- [ ] iPhone side
-- [ ] iPhone frame
-- [ ] Samsung phone front
-- [ ] Samsung foldable
-- [ ] Android phone
-- [ ] iPad
-- [ ] Android tablet
-- [ ] MacBook
-- [ ] Windows laptop
-- [ ] Desktop monitor
-- [ ] Smartwatch
-- [ ] Headphones
-- [ ] Earbuds
-- [ ] Microphone
-- [ ] Camera
-- [ ] Game controller
-- [ ] VR headset
-
-**People and characters**
+#### People and characters
 
 - [ ] Stickman poses
 - [ ] Hand gestures
@@ -941,8 +898,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Mascot poses
 - [ ] Walk cycle frames
 - [ ] Speech bubbles
-
-**Objects**
+#### Objects
 
 - [ ] Heart
 - [ ] Rose
@@ -969,8 +925,64 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Keys
 - [ ] Gift
 - [ ] Shopping bag
+### Devices and interface kits
 
-**Environment**
+#### Devices
+
+- [ ] iPhone front
+- [ ] iPhone back
+- [ ] iPhone side
+- [ ] iPhone frame
+- [ ] Samsung phone front
+- [ ] Samsung foldable
+- [ ] Android phone
+- [ ] iPad
+- [ ] Android tablet
+- [ ] MacBook
+- [ ] Windows laptop
+- [ ] Desktop monitor
+- [ ] Smartwatch
+- [ ] Headphones
+- [ ] Earbuds
+- [ ] Microphone
+- [ ] Camera
+- [ ] Game controller
+- [ ] VR headset
+#### Interface kits
+
+- [ ] Generic mobile kit
+- [ ] Generic desktop kit
+- [ ] Social post kit
+- [ ] Chat kit
+- [ ] Video player kit
+- [ ] Music player kit
+- [ ] Dashboard kit
+- [ ] Browser frame kit
+- [ ] Calendar kit
+- [ ] Widget kit
+- [ ] App icon frames
+- [ ] Cursor pack
+- [ ] Notification kit
+#### Icons
+
+- [ ] Navigation
+- [ ] Media controls
+- [ ] Files
+- [ ] Communication
+- [ ] Weather
+- [ ] Finance
+- [ ] Health
+- [ ] Education
+- [ ] Technology
+- [ ] Transport
+- [ ] Social logos
+- [ ] Arrows
+- [ ] Status indicators
+- [ ] Settings
+- [ ] Commerce
+### Environments and surfaces
+
+#### Environment
 
 - [ ] Trees
 - [ ] Leaves
@@ -988,42 +1000,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Planets
 - [ ] Earth texture
 - [ ] Water texture
-
-**Interface kits**
-
-- [ ] Generic mobile kit
-- [ ] Generic desktop kit
-- [ ] Social post kit
-- [ ] Chat kit
-- [ ] Video player kit
-- [ ] Music player kit
-- [ ] Dashboard kit
-- [ ] Browser frame kit
-- [ ] Calendar kit
-- [ ] Widget kit
-- [ ] App icon frames
-- [ ] Cursor pack
-- [ ] Notification kit
-
-**Icons**
-
-- [ ] Navigation
-- [ ] Media controls
-- [ ] Files
-- [ ] Communication
-- [ ] Weather
-- [ ] Finance
-- [ ] Health
-- [ ] Education
-- [ ] Technology
-- [ ] Transport
-- [ ] Social logos
-- [ ] Arrows
-- [ ] Status indicators
-- [ ] Settings
-- [ ] Commerce
-
-**Textures and overlays**
+#### Textures and overlays
 
 - [ ] Paper
 - [ ] Film grain
@@ -1040,12 +1017,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Light leak
 - [ ] Vignette
 - [ ] Scan lines
+### Reusable scene kits
 
+#### Character kits
+
+- [ ] Front and side poses
+- [ ] Expression sheet
+- [ ] Hand gestures
+- [ ] Mouth shapes
+- [ ] Layered source
+- [ ] Pose pivots
+#### Scene kits
+
+- [ ] Interior props
+- [ ] Street props
+- [ ] Desk objects
+- [ ] Science lab props
+- [ ] Nature foregrounds
+- [ ] Scale reference figures
 ## 3D assets
 
-### Models and production
+### Devices and technology
 
-**iPhone**
+#### iPhone
 
 - [ ] Front/back model
 - [ ] Screen replacement
@@ -1057,8 +1051,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Multiple phone layout
 - [ ] Color variants
 - [ ] Foldout packaging
-
-**Samsung and Android**
+#### Samsung and Android
 
 - [ ] Galaxy style phone
 - [ ] Foldable open/close
@@ -1068,8 +1061,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Stylus
 - [ ] Color variants
 - [ ] Tablet
-
-**Computers**
+#### Computers
 
 - [ ] MacBook style laptop
 - [ ] Windows laptop
@@ -1081,8 +1073,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Mouse
 - [ ] Trackpad
 - [ ] Mechanical keyboard
-
-**Audio and wearables**
+#### Audio and wearables
 
 - [ ] Over-ear headphones
 - [ ] Earbuds case
@@ -1093,8 +1084,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Microphone
 - [ ] Vinyl turntable
 - [ ] Music disc
+### Scenes and objects
 
-**Objects and scenes**
+#### Objects and scenes
 
 - [ ] Logo extrusion
 - [ ] 3D icons
@@ -1112,8 +1104,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Plane
 - [ ] Satellite
 - [ ] Earth globe
+### Materials and rigging
 
-**Materials**
+#### Materials
 
 - [ ] Glass
 - [ ] Frosted glass
@@ -1129,8 +1122,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Emissive
 - [ ] Clay
 - [ ] Toon
-
-**Rigging and delivery**
+#### Rigging and delivery
 
 - [ ] GLB model
 - [ ] GLTF with textures
@@ -1144,12 +1136,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] LODs
 - [ ] Transparent render
 - [ ] Shadow catcher
+### Scene and animation kits
 
+#### Animation-ready kits
+
+- [ ] Object pivots
+- [ ] Articulated joints
+- [ ] Named materials
+- [ ] Screen UVs
+- [ ] Camera targets
+- [ ] Animation clips
+#### Lighting scenes
+
+- [ ] Soft product studio
+- [ ] Dark rim-light stage
+- [ ] Outdoor daylight
+- [ ] Medical cutaway stage
+- [ ] Miniature scene
+- [ ] Transparent object setup
 ## Sound effects
 
-### Sound families
+### Interface and technology
 
-**UI feedback**
+#### UI feedback
 
 - [ ] Click soft
 - [ ] Click mechanical
@@ -1169,8 +1178,23 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Backspace
 - [ ] Upload complete
 - [ ] Unlock
+#### Technology
 
-**Movement**
+- [ ] Digital glitch
+- [ ] Data blip
+- [ ] Radar ping
+- [ ] Scanner
+- [ ] Computer startup
+- [ ] Power down
+- [ ] Robot servo
+- [ ] Electric hum
+- [ ] Radio static
+- [ ] Camera shutter
+- [ ] Camera focus
+- [ ] Phone vibration
+### Movement and impact
+
+#### Movement
 
 - [ ] Short whoosh
 - [ ] Long whoosh
@@ -1186,8 +1210,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Page turn
 - [ ] Paper shuffle
 - [ ] Transition sweep
-
-**Impacts and emphasis**
+#### Impacts and emphasis
 
 - [ ] Soft thump
 - [ ] Deep hit
@@ -1202,8 +1225,21 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Cinematic boom
 - [ ] Sub pulse
 - [ ] Logo sting
+#### Transition design
 
-**Nature and ambience**
+- [ ] Riser
+- [ ] Downlifter
+- [ ] Reverse cymbal
+- [ ] Cymbal swell
+- [ ] Tape stop
+- [ ] Record scratch
+- [ ] Vinyl crackle
+- [ ] Stutter
+- [ ] Granular sweep
+- [ ] Silence break
+### World and voice
+
+#### Nature and ambience
 
 - [ ] Fire crackle
 - [ ] Water splash
@@ -1219,36 +1255,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Heartbeat
 - [ ] Breathing
 - [ ] Clock tick
-
-**Technology**
-
-- [ ] Digital glitch
-- [ ] Data blip
-- [ ] Radar ping
-- [ ] Scanner
-- [ ] Computer startup
-- [ ] Power down
-- [ ] Robot servo
-- [ ] Electric hum
-- [ ] Radio static
-- [ ] Camera shutter
-- [ ] Camera focus
-- [ ] Phone vibration
-
-**Transition design**
-
-- [ ] Riser
-- [ ] Downlifter
-- [ ] Reverse cymbal
-- [ ] Cymbal swell
-- [ ] Tape stop
-- [ ] Record scratch
-- [ ] Vinyl crackle
-- [ ] Stutter
-- [ ] Granular sweep
-- [ ] Silence break
-
-**Voice**
+#### Voice
 
 - [ ] Narration reference
 - [ ] English pronunciation
@@ -1258,12 +1265,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Character voice direction
 - [ ] Breath cleanup
 - [ ] Room tone sample
+### Sound design recipes
 
+#### Layered moments
+
+- [ ] Toggle click plus spring
+- [ ] Whoosh plus impact
+- [ ] Logo sound mark
+- [ ] Tension riser to silence
+- [ ] Comic pause and hit
+- [ ] Text pop variations
+#### Clip preparation
+
+- [ ] Dry version
+- [ ] Reverb version
+- [ ] Short tail
+- [ ] Long tail
+- [ ] Volume matched
+- [ ] Clean loop
 ## Music
 
-### Music collection
+### Mood and genre
 
-**Mood**
+#### Mood
 
 - [ ] Uplifting
 - [ ] Curious
@@ -1278,8 +1302,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Dreamy
 - [ ] Urgent
 - [ ] Elegant
-
-**Genre**
+#### Genre
 
 - [ ] Ambient
 - [ ] Corporate electronic
@@ -1295,8 +1318,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Percussion
 - [ ] Chiptune
 - [ ] Cinematic hybrid
+### Scene scoring
 
-**Use and structure**
+#### Use and structure
 
 - [ ] Explainer bed
 - [ ] Technology demo
@@ -1312,8 +1336,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Climax
 - [ ] Quiet section
 - [ ] Logo sonic mark
+### Stems and deliverables
 
-**Production files**
+#### Production files
 
 - [ ] Full mix
 - [ ] Instrumental
@@ -1328,12 +1353,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Loop points
 - [ ] BPM and key
 - [ ] Beat markers
+### Editing and arrangement
 
+#### Music-to-picture
+
+- [ ] Downbeat map
+- [ ] Section marker sheet
+- [ ] Verse/chorus timing
+- [ ] Build to reveal
+- [ ] Quiet narration section
+- [ ] Loop-compatible edit
+#### Mood transitions
+
+- [ ] Curious to tense
+- [ ] Tense to triumphant
+- [ ] Playful to deadpan
+- [ ] Calm to urgent
+- [ ] Dreamy to energetic
+- [ ] Outro resolve
 ## Fonts and typography
 
-### Font catalog
+### Reading fonts
 
-**Sans serif**
+#### Sans serif
 
 - [ ] Inter
 - [ ] Roboto
@@ -1349,8 +1391,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Space Grotesk
 - [ ] Archivo
 - [ ] Barlow
-
-**Serif**
+#### Serif
 
 - [ ] Source Serif 4
 - [ ] Noto Serif
@@ -1362,8 +1403,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Playfair Display
 - [ ] Cormorant Garamond
 - [ ] Instrument Serif
+### Expressive fonts
 
-**Display and condensed**
+#### Display and condensed
 
 - [ ] Bebas Neue
 - [ ] Anton
@@ -1375,18 +1417,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Syne
 - [ ] Abril Fatface
 - [ ] Righteous
-
-**Monospace**
-
-- [ ] JetBrains Mono
-- [ ] IBM Plex Mono
-- [ ] Fira Code
-- [ ] Roboto Mono
-- [ ] Space Mono
-- [ ] Source Code Pro
-- [ ] Inconsolata
-
-**Handwritten and playful**
+#### Handwritten and playful
 
 - [ ] Caveat
 - [ ] Patrick Hand
@@ -1396,8 +1427,18 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Comic Neue
 - [ ] Schoolbell
 - [ ] Architects Daughter
+### Code and language support
 
-**Multilingual and symbols**
+#### Monospace
+
+- [ ] JetBrains Mono
+- [ ] IBM Plex Mono
+- [ ] Fira Code
+- [ ] Roboto Mono
+- [ ] Space Mono
+- [ ] Source Code Pro
+- [ ] Inconsolata
+#### Multilingual and symbols
 
 - [ ] Spanish accents
 - [ ] Latin extended
@@ -1409,8 +1450,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Currency symbols
 - [ ] RTL layout
 - [ ] Noto fallback chain
+### Typography systems
 
-**Type systems**
+#### Type systems
 
 - [ ] Headline/body pairing
 - [ ] Editorial hierarchy
@@ -1423,12 +1465,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Font licensing record
 - [ ] WOFF2 web files
 - [ ] OTF source files
+### Screen typography systems
 
+#### Video type kits
+
+- [ ] Explainer titles
+- [ ] Lyric captions
+- [ ] Documentary lower thirds
+- [ ] Comedy emphasis
+- [ ] Product specs
+- [ ] Map labels
+#### Type behavior
+
+- [ ] Line breaking
+- [ ] Text overflow
+- [ ] Variable weight motion
+- [ ] Numeral alignment
+- [ ] Accent support
+- [ ] Caption-safe margins
 ## Transitions and effects
 
-### Effect families
+### Scene transitions
 
-**Cuts and spatial**
+#### Cuts and spatial
 
 - [ ] Hard cut
 - [ ] Match cut
@@ -1444,8 +1503,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Flip
 - [ ] Cube rotation
 - [ ] Portal transition
-
-**Masks and reveals**
+#### Masks and reveals
 
 - [ ] Circle iris
 - [ ] Rectangle wipe
@@ -1459,8 +1517,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Paper tear
 - [ ] Page peel
 - [ ] Venetian blinds
+### Optical and digital effects
 
-**Optical and texture**
+#### Optical and texture
 
 - [ ] Cross dissolve
 - [ ] Flash frame
@@ -1476,8 +1535,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Bloom
 - [ ] Vignette
 - [ ] Lens distortion
-
-**Digital and stylized**
+#### Digital and stylized
 
 - [ ] Glitch
 - [ ] RGB split
@@ -1492,8 +1550,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Stop motion cadence
 - [ ] Rotoscope look
 - [ ] VHS tracking
+### Morphs and finish
 
-**Morph and physics**
+#### Morph and physics
 
 - [ ] Shape morph
 - [ ] Liquid morph
@@ -1507,8 +1566,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Shatter
 - [ ] Particle dissolve
 - [ ] Cloth reveal
-
-**Color and finish**
+#### Color and finish
 
 - [ ] Color grade
 - [ ] Duotone
@@ -1520,12 +1578,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Invert
 - [ ] Saturation pulse
 - [ ] Shadow glow
+### Sequence-specific recipes
 
+#### Continuity transitions
+
+- [ ] Object match
+- [ ] Shape match
+- [ ] Color match
+- [ ] Movement match
+- [ ] Camera direction match
+- [ ] Audio-led scene change
+#### Reference packets
+
+- [ ] Before frame
+- [ ] After frame
+- [ ] Transition duration
+- [ ] Mask source
+- [ ] Motion curve
+- [ ] Sound cue
 ## Styles and inspiration
 
 ### Editorial and documentary
 
-**Vox-inspired editorial**
+#### Vox-inspired editorial
 
 - [ ] Annotated maps
 - [ ] Bold headline hierarchy
@@ -1533,9 +1608,8 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Cutout photo collage
 - [ ] Charts with source notes
 - [ ] Highlighted documents
-- [ ] Editorial pacing
-
-**Johnny Harris-inspired geography**
+- [ ] Editorial cut rhythm
+#### Johnny Harris-inspired geography
 
 - [ ] Terrain flyover
 - [ ] Travel route
@@ -1544,8 +1618,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Narration-led zoom
 - [ ] Satellite to street
 - [ ] Historical comparison
-
-**GeoGlobe / globe explainers**
+#### GeoGlobe / globe explainers
 
 - [ ] Rotating Earth
 - [ ] Country highlight
@@ -1554,8 +1627,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Border trace
 - [ ] Fast country zoom
 - [ ] Globe labels
-
-**Kurzgesagt-inspired illustration**
+#### Kurzgesagt-inspired illustration
 
 - [ ] Flat geometric worlds
 - [ ] Layered vector scenes
@@ -1563,9 +1635,8 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Cosmic scale comparison
 - [ ] Color-coded systems
 - [ ] Soft texture
-- [ ] Diagram storytelling
-
-**3Blue1Brown-inspired mathematics**
+- [ ] Diagram scene transitions
+#### 3Blue1Brown-inspired mathematics
 
 - [ ] Equation transformations
 - [ ] Geometric proof
@@ -1574,18 +1645,16 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Number line
 - [ ] Continuous graph change
 - [ ] Concept color coding
-
-**Veritasium / science documentary**
+#### Veritasium / science documentary
 
 - [ ] Physical demonstration
-- [ ] Question opener
+- [ ] Question title treatment
 - [ ] Lab annotation
 - [ ] Diagram insert
 - [ ] Experiment comparison
 - [ ] Scale reference
-- [ ] Evidence reveal
-
-**Fern / cinematic documentary**
+- [ ] Evidence reveal graphics
+#### Fern / cinematic documentary
 
 - [ ] Dimensional scene
 - [ ] Atmospheric camera
@@ -1593,21 +1662,19 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Archival collage
 - [ ] Historical reconstruction
 - [ ] Depth parallax
-- [ ] Tension pacing
-
-**Lemmino-inspired documentary**
+- [ ] Tension-driven cut rhythm
+#### Lemmino-inspired documentary
 
 - [ ] Restrained type
 - [ ] Dark maps
 - [ ] Archival sources
-- [ ] Measured pacing
+- [ ] Measured edit rhythm
 - [ ] Minimal diagram
 - [ ] Investigation timeline
 - [ ] Ambient score
-
 ### Product and commercial
 
-**Apple-inspired product**
+#### Apple-inspired product
 
 - [ ] Spacious typography
 - [ ] Material closeup
@@ -1616,8 +1683,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Macro camera
 - [ ] Precise easing
 - [ ] Quiet sonic accents
-
-**Google Material-inspired**
+#### Google Material-inspired
 
 - [ ] Tonal surfaces
 - [ ] Shape continuity
@@ -1626,8 +1692,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Color roles
 - [ ] Container transform
 - [ ] Large rounded type
-
-**Microsoft Fluent-inspired**
+#### Microsoft Fluent-inspired
 
 - [ ] Layered depth
 - [ ] Soft acrylic
@@ -1636,8 +1701,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Window choreography
 - [ ] Subtle glow
 - [ ] Calm transitions
-
-**Stripe-inspired SaaS**
+#### Stripe-inspired SaaS
 
 - [ ] Gradient fields
 - [ ] Dashboard fragments
@@ -1645,9 +1709,8 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Metric counters
 - [ ] UI choreography
 - [ ] Fine grid
-- [ ] Product storytelling
-
-**Linear-inspired software**
+- [ ] Product scene choreography
+#### Linear-inspired software
 
 - [ ] Dark interface
 - [ ] Tight typography
@@ -1656,8 +1719,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Keyboard hints
 - [ ] Subtle gradients
 - [ ] Focused interaction
-
-**Spotify-inspired music**
+#### Spotify-inspired music
 
 - [ ] Bold color
 - [ ] Album collage
@@ -1666,8 +1728,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Wrapped statistics
 - [ ] Expressive shapes
 - [ ] Artist cards
-
-**Nike-inspired sports**
+#### Nike-inspired sports
 
 - [ ] Fast cuts
 - [ ] Oversized type
@@ -1676,10 +1737,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] High contrast
 - [ ] Impact accents
 - [ ] Rhythmic pacing
-
 ### Visual languages
 
-**Minimalism**
+#### Minimalism
 
 - [ ] Whitespace
 - [ ] Monochrome
@@ -1687,32 +1747,28 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Slow motion
 - [ ] Simple shapes
 - [ ] Clean hierarchy
-
-**Glassmorphism**
+#### Glassmorphism
 
 - [ ] Frosted panels
 - [ ] Background blur
 - [ ] Translucent borders
 - [ ] Layered depth
 - [ ] Colored light
-
-**Neobrutalism**
+#### Neobrutalism
 
 - [ ] Heavy outlines
 - [ ] Hard shadows
 - [ ] Bright color
 - [ ] Raw type
 - [ ] Snappy movement
-
-**Y2K and cyber**
+#### Y2K and cyber
 
 - [ ] Chrome type
 - [ ] Iridescence
 - [ ] Digital grids
 - [ ] Scanner motifs
 - [ ] Pixel accents
-
-**Retro analog**
+#### Retro analog
 
 - [ ] VHS
 - [ ] CRT
@@ -1720,52 +1776,444 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Print registration
 - [ ] Paper collage
 - [ ] Analog meters
-
-**Clay and playful 3D**
+#### Clay and playful 3D
 
 - [ ] Clay materials
 - [ ] Rounded objects
 - [ ] Squash
 - [ ] Soft lighting
 - [ ] Toy scale
-
-**Isometric and 2.5D**
+#### Isometric and 2.5D
 
 - [ ] Isometric city
 - [ ] Exploded diagram
 - [ ] Layered cards
 - [ ] Depth extrusion
 - [ ] Parallax illustration
-
-**Handmade**
+#### Handmade
 
 - [ ] Pencil lines
 - [ ] Watercolor
 - [ ] Paper cutout
 - [ ] Stop motion
 - [ ] Handwritten labels
-
-**Luxury**
+#### Luxury
 
 - [ ] Serif headlines
 - [ ] Metallic accents
 - [ ] Slow reveal
 - [ ] Macro textures
 - [ ] Dark studio
-
-**Anime and manga**
+#### Anime and manga
 
 - [ ] Speed lines
 - [ ] Impact frames
 - [ ] Screen tones
 - [ ] Action typography
 - [ ] Cel shading
+### Creator editing studies
 
+#### Zack D. Films — visual editing
+
+- [ ] 3D scene blocking
+- [ ] Cutaway anatomy study
+- [ ] Camera move study
+- [ ] Object-scale staging
+- [ ] Narration-synced action
+- [ ] On-screen emphasis
+- [ ] Lighting and materials study
+#### Vsauce — visual editing
+
+- [ ] Presenter framing
+- [ ] Object demonstration insert
+- [ ] Scientific image treatment
+- [ ] Question text layout
+- [ ] Sound-led transition study
+- [ ] Cutaway image pacing
+- [ ] Simple explanatory graphics
+#### MrBeast — visual editing
+
+- [ ] Large emphasis captions
+- [ ] Progress overlays
+- [ ] Challenge timers
+- [ ] Score and stakes graphics
+- [ ] Map inserts
+- [ ] Reaction punch-ins
+- [ ] High-energy montage study
+#### grantbeans — visual editing
+
+- [ ] Casual phone framing
+- [ ] Deadpan performance framing
+- [ ] Unexpected visual insert
+- [ ] Abrupt location change
+- [ ] Surreal continuity edit
+- [ ] Hard-cut reaction
+- [ ] Loop transition study
+#### jercho1 — visual editing
+
+- [ ] Sketch character framing
+- [ ] Ordinary-to-surreal visual change
+- [ ] Reaction closeup
+- [ ] Abrupt cut treatment
+- [ ] Character blocking
+- [ ] Visual punchline staging
+- [ ] Continuity mismatch study
+#### Mark Rober — visual editing
+
+- [ ] Experiment overlays
+- [ ] Prototype labels
+- [ ] Slow-motion insert
+- [ ] Engineering diagram
+- [ ] Measurement graphics
+- [ ] Test comparison
+- [ ] Result reveal graphics
+#### Tom Scott — visual editing
+
+- [ ] Location presenter framing
+- [ ] Practical demonstration insert
+- [ ] Simple labels
+- [ ] Clean subtitle treatment
+- [ ] Concise cutaway sequence
+- [ ] On-location sound bed
+#### CGP Grey — visual editing
+
+- [ ] Simple character diagrams
+- [ ] Flat vector symbols
+- [ ] System flow graphics
+- [ ] Map simplification
+- [ ] Shape-based transitions
+- [ ] Diagram color roles
+#### Wendover Productions — visual editing
+
+- [ ] Transport map graphics
+- [ ] Logistics diagrams
+- [ ] Stock footage integration
+- [ ] Route labels
+- [ ] Data graphic overlays
+- [ ] Documentary chapter cards
+#### Half as Interesting — visual editing
+
+- [ ] Fast visual inserts
+- [ ] Concise labels
+- [ ] Diagram simplification
+- [ ] Comic visual aside
+- [ ] Map insert treatment
+- [ ] Short explanatory montage
+#### MKBHD — visual editing
+
+- [ ] Product macro
+- [ ] Studio product lighting
+- [ ] Clean specification cards
+- [ ] Device camera moves
+- [ ] Desk composition
+- [ ] Comparison framing
+#### Mrwhosetheboss — visual editing
+
+- [ ] Comparison layouts
+- [ ] Device lineup
+- [ ] Score graphics
+- [ ] Product transition
+- [ ] Reaction framing
+- [ ] Test evidence insert
+#### Casey Neistat — visual editing
+
+- [ ] Handmade titles
+- [ ] Time-lapse inserts
+- [ ] POV montage
+- [ ] Practical camera moves
+- [ ] Hand-drawn diagrams
+- [ ] Everyday object transitions
+#### Ryan Trahan — visual editing
+
+- [ ] Journey map insert
+- [ ] Day counter
+- [ ] Casual handheld montage
+- [ ] Challenge overlay
+- [ ] Reaction closeup
+- [ ] Progress recap treatment
+#### Daniel Thrasher — visual editing
+
+- [ ] Piano performance framing
+- [ ] Character shot reversal
+- [ ] Musical beat cut
+- [ ] Reaction punch-in
+- [ ] Deadpan hold
+- [ ] Visual performance gag
+#### CalebCity — visual editing
+
+- [ ] Character shot reversal
+- [ ] Impact cut
+- [ ] Reaction hold
+- [ ] Speed emphasis
+- [ ] Minimal caption treatment
+- [ ] Hard-cut punchline
+#### Jaiden Animations — visual editing
+
+- [ ] Expressive 2D poses
+- [ ] Hand-drawn scene staging
+- [ ] Limited animation timing
+- [ ] Illustrated cutaways
+- [ ] Character mouth shapes
+- [ ] Narrated action sync
+#### TheOdd1sOut — visual editing
+
+- [ ] Simple character silhouettes
+- [ ] Flat scene composition
+- [ ] Expressive pose swaps
+- [ ] Textured illustration
+- [ ] Visual exaggeration
+- [ ] Comic cutaway staging
+#### XpressTV — visual editing
+
+- [ ] Fact title cards
+- [ ] Numbered item transitions
+- [ ] Photo and footage montage
+- [ ] Object emphasis graphics
+- [ ] Caption hierarchy
+- [ ] Fact comparison layouts
+### Explainer styles
+
+#### Flat vector explainer
+
+- [ ] Geometric characters
+- [ ] Icon-led scenes
+- [ ] Flat scene transitions
+- [ ] Two-color diagram
+- [ ] Layered vector landscape
+- [ ] Narrated object action
+#### 3D mechanism explainer
+
+- [ ] Exploded assembly
+- [ ] Internal cutaway
+- [ ] Transparent shell
+- [ ] Step-by-step mechanism
+- [ ] Scale comparison
+- [ ] Object transformation
+#### Whiteboard explainer
+
+- [ ] Hand-drawn line reveal
+- [ ] Marker labels
+- [ ] Erase and redraw
+- [ ] Doodle connectors
+- [ ] Sketch scene build
+- [ ] Handwriting titles
+#### Editorial collage explainer
+
+- [ ] Photo cutouts
+- [ ] Document highlights
+- [ ] Newspaper layers
+- [ ] Map plus photo
+- [ ] Paper texture
+- [ ] Source label hierarchy
+#### UI and software explainer
+
+- [ ] Cursor choreography
+- [ ] Screen focus zoom
+- [ ] Step highlight
+- [ ] Window stacking
+- [ ] Input-to-result sequence
+- [ ] Feature callouts
+#### Minimal diagram explainer
+
+- [ ] Line drawing
+- [ ] Node systems
+- [ ] Symbolic objects
+- [ ] Negative-space layout
+- [ ] Restrained typography
+- [ ] Single accent color
+#### Classroom and chalkboard
+
+- [ ] Chalk texture
+- [ ] Equation build
+- [ ] Handwritten labels
+- [ ] Grid background
+- [ ] Diagram annotations
+- [ ] Worked-example highlights
+#### Medical and science visualization
+
+- [ ] Anatomy cutaway
+- [ ] Cell-scale scene
+- [ ] Molecule view
+- [ ] Process arrows
+- [ ] Transparent layers
+- [ ] Scale labels
+### Lyrics and song videos
+
+#### Classic lyric video
+
+- [ ] Centered lyric lines
+- [ ] Line-by-line fades
+- [ ] Verse/chorus changes
+- [ ] Simple scenic background
+- [ ] Readable lyric contrast
+- [ ] Intro and outro credits
+#### Karaoke lyrics
+
+- [ ] Syllable highlight
+- [ ] Word timing
+- [ ] Bouncing ball marker
+- [ ] Upcoming line preview
+- [ ] Duet color roles
+- [ ] Instrumental gap treatment
+#### Kinetic typography lyrics
+
+- [ ] Word pop on beat
+- [ ] Letter stretch
+- [ ] Text-path movement
+- [ ] Phrase composition
+- [ ] Chorus scale change
+- [ ] Beat-linked transitions
+#### Cinematic lyric video
+
+- [ ] Landscape footage
+- [ ] Slow camera drift
+- [ ] Film texture
+- [ ] Serif lyric layout
+- [ ] Soft crossfades
+- [ ] Scene-linked lyric placement
+#### Handwritten lyrics
+
+- [ ] Notebook handwriting
+- [ ] Ink reveal
+- [ ] Paper collage
+- [ ] Doodle accents
+- [ ] Handwritten chorus
+- [ ] Scratched-out word treatment
+#### Music visualizer
+
+- [ ] Waveform
+- [ ] Spectrum bars
+- [ ] Circular spectrum
+- [ ] Particle response
+- [ ] Beat pulse
+- [ ] Frequency-reactive background
+#### Album-art loop
+
+- [ ] Cover art parallax
+- [ ] Spinning record
+- [ ] Ambient particle layer
+- [ ] Subtle camera motion
+- [ ] Looping light
+- [ ] Track title treatment
+#### Vertical social song edit
+
+- [ ] Portrait lyric-safe area
+- [ ] Hook lyric emphasis
+- [ ] Beat cuts
+- [ ] Phone-friendly type
+- [ ] Short looping segment
+- [ ] Caption spacing
+#### Genre-inspired lyric treatments
+
+- [ ] Pop color blocks
+- [ ] Rock distressed type
+- [ ] Rap bold captions
+- [ ] Indie film collage
+- [ ] Electronic neon type
+- [ ] Acoustic handwritten layout
+### Additional editing families
+
+#### Sports and hype
+
+- [ ] Freeze-frame athlete
+- [ ] Score overlays
+- [ ] Speed ramp study
+- [ ] Impact typography
+- [ ] Replay split-screen
+- [ ] Crowd montage
+#### Gaming and streams
+
+- [ ] HUD-inspired overlays
+- [ ] Kill-feed treatment
+- [ ] Facecam layout
+- [ ] Chat overlay
+- [ ] Achievement pop
+- [ ] Highlight replay
+#### Travel and lifestyle
+
+- [ ] Postcard title
+- [ ] Destination labels
+- [ ] Film montage
+- [ ] Travel route overlay
+- [ ] Date stamp
+- [ ] Ambient scenic loop
+#### Food and recipe
+
+- [ ] Ingredient cards
+- [ ] Top-down composition
+- [ ] Step labels
+- [ ] Measurement overlays
+- [ ] Texture macro
+- [ ] Before/after plate
+#### Fashion and beauty
+
+- [ ] Editorial crop
+- [ ] Product swatch
+- [ ] Magazine typography
+- [ ] Texture closeup
+- [ ] Mirror composition
+- [ ] Runway cut rhythm
+#### True crime and investigation
+
+- [ ] Evidence board
+- [ ] Case timeline
+- [ ] Document redaction
+- [ ] Location map
+- [ ] Archival photo treatment
+- [ ] Transcript emphasis
+#### History and archival
+
+- [ ] Restored photo motion
+- [ ] Period typography
+- [ ] Historic map overlay
+- [ ] Timeline ribbon
+- [ ] Archival frame
+- [ ] Document zoom
+#### Finance and business
+
+- [ ] Market ticker
+- [ ] Clean dashboards
+- [ ] Currency counters
+- [ ] Executive summary card
+- [ ] Bar comparison
+- [ ] Company timeline
+#### Podcast and interview
+
+- [ ] Speaker layout
+- [ ] Quote highlights
+- [ ] Waveform strip
+- [ ] Chapter labels
+- [ ] Multi-camera crop
+- [ ] Audio-first B-roll sequence
+#### Stop motion and mixed media
+
+- [ ] Paper cutout sequence
+- [ ] Clay frame cadence
+- [ ] Collage replacement
+- [ ] Handmade jitter
+- [ ] Object stop motion
+- [ ] Photo-to-doodle transition
+#### Retro internet and memes
+
+- [ ] Old desktop UI
+- [ ] Low-resolution insert
+- [ ] Deliberate compression
+- [ ] Forum screenshot treatment
+- [ ] GIF loops
+- [ ] Early-web typography
+#### Cinematic and atmospheric
+
+- [ ] Wide composition
+- [ ] Slow reveal
+- [ ] Lens texture
+- [ ] Deep shadow staging
+- [ ] Practical light accents
+- [ ] Quiet typography
 ## Video formats and scenes
 
-### Reusable sequences
+### Social formats
 
-**Short form**
+#### Short form
 
 - [ ] Fact video
 - [ ] Vertical explainer
@@ -1777,8 +2225,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Social announcement
 - [ ] Animated meme
 - [ ] Quiz question
+### Long-form formats
 
-**Long form**
+#### Long form
 
 - [ ] Map documentary
 - [ ] Science explainer
@@ -1789,8 +2238,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Educational lesson
 - [ ] Interview graphics
 - [ ] Chapter sequence
+### Brand and broadcast
 
-**Brand and product**
+#### Brand and product
 
 - [ ] App launch
 - [ ] Feature demo
@@ -1802,8 +2252,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Onboarding tour
 - [ ] Changelog video
 - [ ] Store promo
-
-**Broadcast packages**
+#### Broadcast packages
 
 - [ ] Lower thirds
 - [ ] Breaking news
@@ -1814,12 +2263,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Studio backdrop
 - [ ] Credits
 - [ ] Sponsor bumper
+### Complete reference packages
 
+#### Explainer packages
+
+- [ ] Question-led explainer
+- [ ] Process tutorial
+- [ ] Myth correction
+- [ ] Comparison
+- [ ] List of facts
+- [ ] Mechanism short
+#### Music packages
+
+- [ ] Full lyric video
+- [ ] Karaoke video
+- [ ] Visualizer loop
+- [ ] Album-art loop
+- [ ] Vertical song edit
+- [ ] Live performance overlay
 ## Production building blocks
 
-### Reusable techniques
+### Camera and lighting
 
-**Camera**
+#### Camera
 
 - [ ] Pan
 - [ ] Tilt
@@ -1834,8 +2300,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Orthographic
 - [ ] Perspective
 - [ ] Depth parallax
-
-**Lighting**
+#### Lighting
 
 - [ ] Studio softbox
 - [ ] Three point
@@ -1847,8 +2312,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Volumetric
 - [ ] Caustics
 - [ ] Shadow animation
+### Motion and delivery
 
-**Motion mechanics**
+#### Motion mechanics
 
 - [ ] Easing curves
 - [ ] Spring settings
@@ -1862,8 +2328,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Motion path
 - [ ] Anchor points
 - [ ] Shared element
-
-**Delivery**
+#### Delivery
 
 - [ ] 16:9 landscape
 - [ ] 9:16 portrait
@@ -1881,12 +2346,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Captions
 - [ ] Audio loudness
 - [ ] Frame rate
+### Scene planning
 
+#### Staging
+
+- [ ] Camera blocking
+- [ ] Subject anchor
+- [ ] Layer depth
+- [ ] Eye trace
+- [ ] Visual focus
+- [ ] Occlusion plan
+#### Review guides
+
+- [ ] Narration coverage
+- [ ] Visual clarity
+- [ ] Frame bounds
+- [ ] Loop continuity
+- [ ] Audio sync
+- [ ] Caption readability
 ## Code recipes and integrations
 
-### Implementation catalog
+### 2D implementations
 
-**2D and UI**
+#### 2D and UI
 
 - [ ] Remotion composition
 - [ ] React component
@@ -1898,8 +2380,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Motion component
 - [ ] Lottie player
 - [ ] Rive runtime
+### 3D and geography implementations
 
-**3D and maps**
+#### 3D and maps
 
 - [ ] Three.js scene
 - [ ] React Three Fiber
@@ -1909,8 +2392,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Deck.gl layer
 - [ ] Globe component
 - [ ] GeoJSON pipeline
+### Automation tools
 
-**Automation**
+#### Automation
 
 - [ ] Deterministic frame clock
 - [ ] Seeded randomness
@@ -1922,12 +2406,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Render script
 - [ ] Manifest search
 - [ ] Dependency lockfile
+### Reusable scene architecture
 
+#### Story-driven systems
+
+- [ ] Timecoded script parser
+- [ ] Storyboard manifest
+- [ ] Beat timeline
+- [ ] Narration cue hooks
+- [ ] Scene parameter registry
+- [ ] Reusable shot presets
+#### Asset systems
+
+- [ ] Media preload list
+- [ ] Font registry
+- [ ] Audio markers
+- [ ] Preview generator
+- [ ] Asset resolver
+- [ ] Dependency manifest
 ## Color grading and looks
 
 ### Series-inspired looks
 
-**Breaking Bad-inspired**
+#### Breaking Bad-inspired
 
 - [ ] Desert yellow and amber
 - [ ] Green fluorescent interiors
@@ -1935,8 +2436,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Deep shadow contrast
 - [ ] Warm/cool scene contrast
 - [ ] Reference frame palette study
-
-**Better Call Saul-inspired**
+#### Better Call Saul-inspired
 
 - [ ] Warm desert daylight
 - [ ] Clean office neutrals
@@ -1944,8 +2444,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Cool night interiors
 - [ ] Black-and-white timeline look
 - [ ] Reference frame palette study
-
-**Stranger Things-inspired**
+#### Stranger Things-inspired
 
 - [ ] Neon red and blue
 - [ ] Warm retro interiors
@@ -1953,8 +2452,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Deep night shadows
 - [ ] 1980s film finish
 - [ ] Reference frame palette study
-
-**Euphoria-inspired**
+#### Euphoria-inspired
 
 - [ ] Purple and cyan lighting
 - [ ] Pink neon highlights
@@ -1962,8 +2460,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Soft highlight bloom
 - [ ] Bold skin-safe color separation
 - [ ] Reference frame palette study
-
-**Mr. Robot-inspired**
+#### Mr. Robot-inspired
 
 - [ ] Cool green cast
 - [ ] Muted urban palette
@@ -1971,8 +2468,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Pale fluorescent look
 - [ ] Restrained saturation
 - [ ] Reference frame palette study
-
-**Peaky Blinders-inspired**
+#### Peaky Blinders-inspired
 
 - [ ] Muted industrial palette
 - [ ] Cool steel shadows
@@ -1980,8 +2476,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Smoky contrast
 - [ ] Period film finish
 - [ ] Reference frame palette study
-
-**Dark-inspired**
+#### Dark-inspired
 
 - [ ] Muted forest greens
 - [ ] Cold blue-gray palette
@@ -1989,8 +2484,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Dark interior treatment
 - [ ] Restrained warm accents
 - [ ] Reference frame palette study
-
-**The Last of Us-inspired**
+#### The Last of Us-inspired
 
 - [ ] Muted natural greens
 - [ ] Warm daylight highlights
@@ -1998,8 +2492,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Soft desaturated shadows
 - [ ] Overcast atmosphere
 - [ ] Reference frame palette study
-
-**Succession-inspired**
+#### Succession-inspired
 
 - [ ] Natural corporate neutrals
 - [ ] Cool interior palette
@@ -2007,8 +2500,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Warm evening interiors
 - [ ] Subtle film contrast
 - [ ] Reference frame palette study
-
-**Wednesday-inspired**
+#### Wednesday-inspired
 
 - [ ] Cool gothic palette
 - [ ] Deep black separation
@@ -2016,8 +2508,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Pale highlights
 - [ ] Selective color accents
 - [ ] Reference frame palette study
-
-**Game of Thrones-inspired**
+#### Game of Thrones-inspired
 
 - [ ] Cold northern palette
 - [ ] Warm firelit interiors
@@ -2025,8 +2516,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Golden southern palette
 - [ ] Night scene contrast
 - [ ] Reference frame palette study
-
-**The Bear-inspired**
+#### The Bear-inspired
 
 - [ ] Natural kitchen whites
 - [ ] Warm practical lights
@@ -2034,10 +2524,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Documentary contrast
 - [ ] Night street palette
 - [ ] Reference frame palette study
-
 ### Filter families and controls
 
-**Film and genre references**
+#### Film and genre references
 
 - [ ] The Matrix-inspired green
 - [ ] Blade Runner-inspired neon
@@ -2051,8 +2540,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Romantic warm glow
 - [ ] Documentary natural color
 - [ ] Vintage home movie
-
-**Everyday filter families**
+#### Everyday filter families
 
 - [ ] Warm
 - [ ] Cool
@@ -2073,8 +2561,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Infrared-inspired
 - [ ] Night vision-inspired
 - [ ] Thermal-inspired
-
-**Color controls**
+#### Color controls
 
 - [ ] Exposure
 - [ ] White balance
@@ -2092,8 +2579,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Highlight tint
 - [ ] Color matching
 - [ ] Shot matching
-
-**LUTs and delivery**
+#### LUTs and delivery
 
 - [ ] Creative LUT reference
 - [ ] Technical conversion LUT
@@ -2107,8 +2593,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Skin tone test frames
 - [ ] Day/night variants
 - [ ] Mobile preview check
-
-**Film and finishing looks**
+#### Film and finishing looks
 
 - [ ] Fine film grain
 - [ ] Coarse film grain
@@ -2122,12 +2607,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Split toning
 - [ ] Silver-rich monochrome
 - [ ] Color isolation
+### Matching and reference packets
 
+#### Look studies
+
+- [ ] Reference stills
+- [ ] Neutral source frame
+- [ ] Primary adjustment notes
+- [ ] Secondary adjustment notes
+- [ ] Skin-tone comparison
+- [ ] Before/after frames
+#### Shot matching
+
+- [ ] Daylight to daylight
+- [ ] Mixed interior lighting
+- [ ] Night sequence
+- [ ] Phone-to-camera match
+- [ ] Archive-to-new footage
+- [ ] Scene palette continuity
 ## Textures
 
 ### Surface library
 
-**Paper and print**
+#### Paper and print
 
 - [ ] Clean paper
 - [ ] Recycled paper
@@ -2145,8 +2647,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Halftone dots
 - [ ] Ink bleed
 - [ ] Print misregistration
-
-**Film and analog**
+#### Film and analog
 
 - [ ] Fine grain
 - [ ] Coarse grain
@@ -2162,8 +2663,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] 35mm frame
 - [ ] Film perforations
 - [ ] Projected film flicker
-
-**Natural surfaces**
+#### Natural surfaces
 
 - [ ] Wood grain
 - [ ] Tree bark
@@ -2180,8 +2680,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Clouds
 - [ ] Leather
 - [ ] Animal fur
-
-**Built materials**
+#### Built materials
 
 - [ ] Brushed metal
 - [ ] Polished chrome
@@ -2198,8 +2697,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Rubber
 - [ ] Carbon fiber
 - [ ] Asphalt
-
-**Fabric and craft**
+#### Fabric and craft
 
 - [ ] Cotton
 - [ ] Linen
@@ -2217,8 +2715,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Charcoal
 - [ ] Crayon
 - [ ] Paint strokes
-
-**Digital and abstract**
+#### Digital and abstract
 
 - [ ] Noise field
 - [ ] Dither
@@ -2235,8 +2732,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Moiré pattern
 - [ ] Circuit pattern
 - [ ] ASCII texture
-
-**Grunge and distressed**
+#### Grunge and distressed
 
 - [ ] Grunge overlay
 - [ ] Dirty lens
@@ -2250,10 +2746,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Cracked ink
 - [ ] Weathered signage
 - [ ] Torn poster layers
-
 ### Motion, maps and delivery
 
-**Animated texture loops**
+#### Animated texture loops
 
 - [ ] Drifting grain
 - [ ] Boiling paper
@@ -2267,8 +2762,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Animated halftone
 - [ ] Crawling dither
 - [ ] Hand-drawn line boil
-
-**Overlay and compositing**
+#### Overlay and compositing
 
 - [ ] Transparent overlay
 - [ ] Screen blend variant
@@ -2280,8 +2774,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Displacement map
 - [ ] Edge wear mask
 - [ ] Animated reveal mask
-
-**3D texture maps**
+#### 3D texture maps
 
 - [ ] Base color / albedo
 - [ ] Roughness
@@ -2293,8 +2786,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Emission
 - [ ] Opacity
 - [ ] Packed ORM map
-
-**File and quality variants**
+#### File and quality variants
 
 - [ ] Seamless tile
 - [ ] Non-tiling plate
@@ -2310,12 +2802,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Physical scale record
 - [ ] Loop seam review
 - [ ] Source and license record
+### Application recipes
 
+#### Texture placement
+
+- [ ] Text fill
+- [ ] Background plate
+- [ ] Edge distress
+- [ ] Masked overlay
+- [ ] 3D surface
+- [ ] Transition matte
+#### Texture behavior
+
+- [ ] Static finish
+- [ ] Frame-varying grain
+- [ ] Slow drift
+- [ ] Looping displacement
+- [ ] Light-responsive shimmer
+- [ ] Beat-linked texture pulse
 ## B-roll
 
 ### Subject collections
 
-**People and everyday life**
+#### People and everyday life
 
 - [ ] Walking crowd
 - [ ] Commuting
@@ -2334,8 +2843,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Hands using a phone
 - [ ] Hands typing
 - [ ] Hands exchanging an object
-
-**Technology and AI**
+#### Technology and AI
 
 - [ ] Phone closeup
 - [ ] Laptop typing
@@ -2352,8 +2860,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Camera equipment
 - [ ] Satellite dish
 - [ ] Computer repair
-
-**Business and money**
+#### Business and money
 
 - [ ] Office teamwork
 - [ ] Meeting room
@@ -2369,8 +2876,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Contract signing
 - [ ] Job interview
 - [ ] Construction progress
-
-**Cities and transport**
+#### Cities and transport
 
 - [ ] City establishing shot
 - [ ] Street crossing
@@ -2388,8 +2894,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Driving POV
 - [ ] Cycling POV
 - [ ] Road sign insert
-
-**Nature and geography**
+#### Nature and geography
 
 - [ ] Mountain aerial
 - [ ] Forest canopy
@@ -2407,8 +2912,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Underwater
 - [ ] Snow landscape
 - [ ] Volcano landscape
-
-**Science and education**
+#### Science and education
 
 - [ ] Classroom
 - [ ] Laboratory
@@ -2423,8 +2927,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Renewable energy
 - [ ] Space launch
 - [ ] Astronaut archive pointer
-
-**Sport and entertainment**
+#### Sport and entertainment
 
 - [ ] Football stadium
 - [ ] Ball closeup
@@ -2438,8 +2941,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Gaming setup
 - [ ] Theater seats
 - [ ] Backstage preparation
-
-**Abstract and metaphorical**
+#### Abstract and metaphorical
 
 - [ ] Clock passing time
 - [ ] Hourglass
@@ -2456,10 +2958,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Burning match
 - [ ] Water drop
 - [ ] Stacking blocks
-
 ### Shot selection and delivery
 
-**Shot types**
+#### Shot types
 
 - [ ] Wide establishing shot
 - [ ] Medium action shot
@@ -2477,8 +2978,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Timelapse
 - [ ] Hyperlapse
 - [ ] Seamless loop
-
-**Editorial purpose**
+#### Editorial purpose
 
 - [ ] Location setup
 - [ ] Time passing
@@ -2492,8 +2992,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Atmosphere bed
 - [ ] Problem example
 - [ ] Outcome example
-
-**Collection metadata**
+#### Collection metadata
 
 - [ ] Source and creator record
 - [ ] Usage rights record
@@ -2507,12 +3006,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Original audio record
 - [ ] Clean plate variant
 - [ ] Transcript or shot description
+### Story coverage kits
 
+#### Narration coverage
+
+- [ ] Literal illustration
+- [ ] Contrast to narration
+- [ ] Metaphorical insert
+- [ ] Setting context
+- [ ] Process detail
+- [ ] Reaction coverage
+#### Sequence building
+
+- [ ] Wide-medium-close sequence
+- [ ] Action match
+- [ ] Three-shot process
+- [ ] Location transition
+- [ ] Time-passing montage
+- [ ] Revealing detail
 ## Meme clips and reactions
 
-### Reaction library
+### Reaction collections
 
-**Reaction moods**
+#### Reaction moods
 
 - [ ] Confusion
 - [ ] Disbelief
@@ -2534,8 +3050,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Anticipation
 - [ ] Smug confidence
 - [ ] Dramatic defeat
-
-**Familiar reaction references**
+#### Familiar reaction references
 
 - [ ] Confused math lady
 - [ ] Blinking white guy
@@ -2552,8 +3067,23 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Confused Travolta
 - [ ] Shocked crowd
 - [ ] Happy dance reaction
+#### Animals and characters
 
-**Comedic actions**
+- [ ] Confused dog
+- [ ] Side-eye dog
+- [ ] Surprised cat
+- [ ] Keyboard cat reference
+- [ ] Dancing animal
+- [ ] Judgmental bird
+- [ ] Goofy walk
+- [ ] Cartoon panic
+- [ ] Cartoon impact
+- [ ] Stickman reaction
+- [ ] Mascot reaction
+- [ ] Video game NPC reaction
+### Comic action and timing
+
+#### Comedic actions
 
 - [ ] Double take
 - [ ] Slow turn
@@ -2571,23 +3101,23 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Celebration jump
 - [ ] Looking into camera
 - [ ] Dramatic entrance
+#### Comedic timing
 
-**Animals and characters**
+- [ ] Setup pause
+- [ ] Anticipation hold
+- [ ] Hard cut punchline
+- [ ] Delayed reaction
+- [ ] Rapid repeat
+- [ ] Escalating repeat
+- [ ] Smash zoom
+- [ ] Deadpan hold
+- [ ] Awkward extended hold
+- [ ] Fake-out reveal
+- [ ] Callback insert
+- [ ] Cut on sound
+### Clip formats and context
 
-- [ ] Confused dog
-- [ ] Side-eye dog
-- [ ] Surprised cat
-- [ ] Keyboard cat reference
-- [ ] Dancing animal
-- [ ] Judgmental bird
-- [ ] Goofy walk
-- [ ] Cartoon panic
-- [ ] Cartoon impact
-- [ ] Stickman reaction
-- [ ] Mascot reaction
-- [ ] Video game NPC reaction
-
-**Editing formats**
+#### Editing formats
 
 - [ ] Full-frame cutaway
 - [ ] Corner reaction insert
@@ -2602,23 +3132,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Vertical crop
 - [ ] Looping GIF reference
 - [ ] Before/after punchline
-
-**Comedic timing**
-
-- [ ] Setup pause
-- [ ] Anticipation hold
-- [ ] Hard cut punchline
-- [ ] Delayed reaction
-- [ ] Rapid repeat
-- [ ] Escalating repeat
-- [ ] Smash zoom
-- [ ] Deadpan hold
-- [ ] Awkward extended hold
-- [ ] Fake-out reveal
-- [ ] Callback insert
-- [ ] Cut on sound
-
-**Context and source notes**
+#### Context and source notes
 
 - [ ] Original source link
 - [ ] Original context summary
@@ -2632,12 +3146,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Crop-safe area
 - [ ] Caption-safe area
 - [ ] Attribution requirements
+### Comedy reference packets
 
+#### Reaction analysis
+
+- [ ] Trigger line
+- [ ] Reaction onset
+- [ ] Hold duration
+- [ ] Punchline timestamp
+- [ ] Original context
+- [ ] Reusable meaning
+#### Scene pairings
+
+- [ ] Confident claim → failure
+- [ ] Serious explanation → absurd insert
+- [ ] Reveal → disbelief
+- [ ] Setup → awkward silence
+- [ ] Small win → huge celebration
+- [ ] Expectation → reversal
 ## Archival media and documents
 
-### Evidence collections
+### Historical archive
 
-**Historical material**
+#### Historical material
 
 - [ ] Historic street footage
 - [ ] Historic city photograph
@@ -2653,8 +3184,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Historic advertisement
 - [ ] Election material
 - [ ] Museum object photograph
+### Documents and evidence
 
-**Evidence and documents**
+#### Evidence and documents
 
 - [ ] Research paper extract
 - [ ] Book excerpt reference
@@ -2668,8 +3200,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Web page capture
 - [ ] Document comparison
 - [ ] Source citation card
+### Source records
 
-**Editorial source organization**
+#### Editorial source organization
 
 - [ ] Archive institution record
 - [ ] Original publication date
@@ -2683,12 +3216,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Transcript pointer
 - [ ] Translation note
 - [ ] Restoration history
+### Visual storytelling with evidence
 
+#### Document treatments
+
+- [ ] Highlight key passage
+- [ ] Reveal a date
+- [ ] Compare two versions
+- [ ] Trace signature
+- [ ] Show publication context
+- [ ] Timecoded citation
+#### Archive sequences
+
+- [ ] Event timeline
+- [ ] Location then and now
+- [ ] Person profile
+- [ ] Historical claim and source
+- [ ] Photo-to-map bridge
+- [ ] Original context montage
 ## Photography and cutouts
 
-### Still image collections
+### Photo subjects
 
-**Portraits and people**
+#### Portraits and people
 
 - [ ] Headshot
 - [ ] Full-body portrait
@@ -2702,8 +3252,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Historical figure reference
 - [ ] Silhouette
 - [ ] Background-removed person
-
-**Products and places**
+#### Products and places
 
 - [ ] Product packshot
 - [ ] Product detail
@@ -2717,8 +3266,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Food photograph
 - [ ] Vehicle
 - [ ] Aerial image
+### Layered images
 
-**Cutouts and editorial assets**
+#### Cutouts and editorial assets
 
 - [ ] Transparent object cutout
 - [ ] Hair-edge portrait cutout
@@ -2732,8 +3282,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Face-safe crop
 - [ ] Caption-safe crop
 - [ ] Portrait/landscape crop variants
+### Photo motion preparation
 
-**Photo animation preparation**
+#### Photo animation preparation
 
 - [ ] 2.5D parallax layers
 - [ ] Depth map
@@ -2745,12 +3296,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Contact sheet
 - [ ] Source and license record
 - [ ] Image caption and alt text
+### Photo-led scene recipes
 
+#### Animated compositions
+
+- [ ] Portrait quote card
+- [ ] Photo plus timeline
+- [ ] Layered parallax
+- [ ] Collage reveal
+- [ ] Product lineup
+- [ ] Location comparison
+#### Preparation checks
+
+- [ ] Subject mask
+- [ ] Clean background
+- [ ] Image resolution
+- [ ] Cropping options
+- [ ] Light direction
+- [ ] Depth separation
 ## VFX and compositing
 
-### Compositing library
+### Practical elements
 
-**Practical visual elements**
+#### Practical visual elements
 
 - [ ] Smoke plume
 - [ ] Fog layer
@@ -2766,8 +3334,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Ink in water
 - [ ] Light beam
 - [ ] Lens flare element
+### Masks and integration
 
-**Keying and masks**
+#### Keying and masks
 
 - [ ] Green-screen reference
 - [ ] Blue-screen reference
@@ -2781,8 +3350,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Object occlusion mask
 - [ ] Holdout matte
 - [ ] Edge feather control
-
-**Tracking and integration**
+#### Tracking and integration
 
 - [ ] Point tracking reference
 - [ ] Planar tracking reference
@@ -2796,8 +3364,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Shadow matching
 - [ ] Light wrap
 - [ ] Reflection matching
+### Render passes
 
-**Composite building blocks**
+#### Composite building blocks
 
 - [ ] Foreground plate
 - [ ] Background plate
@@ -2811,12 +3380,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Color match pass
 - [ ] Grain match pass
 - [ ] Before/after composite
+### Shot-based recipes
 
+#### Explainer composites
+
+- [ ] Transparent body cutaway
+- [ ] Miniature reconstruction
+- [ ] Object interior reveal
+- [ ] Floating annotation
+- [ ] Tracked diagram
+- [ ] Cause-and-effect insert
+#### Comedy composites
+
+- [ ] Impossible prop
+- [ ] Sudden scale change
+- [ ] Duplicate character
+- [ ] Unexpected background
+- [ ] Object teleport cut
+- [ ] Surreal reality shift
 ## Palettes and design systems
 
-### Reusable design recipes
+### Color and branding
 
-**Color systems**
+#### Color systems
 
 - [ ] Monochrome palette
 - [ ] Two-color palette
@@ -2830,8 +3416,23 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Warm/cool contrast
 - [ ] Category color mapping
 - [ ] Accessible contrast pair
+#### Brand ingredients
 
-**Layout recipes**
+- [ ] Logo variants
+- [ ] Logo clear space
+- [ ] Brand palette
+- [ ] Typography pairing
+- [ ] Icon style guide
+- [ ] Corner radius system
+- [ ] Stroke width system
+- [ ] Shadow system
+- [ ] Spacing scale
+- [ ] Background treatment
+- [ ] Motion timing tokens
+- [ ] Sound identity
+### Layouts and composition
+
+#### Layout recipes
 
 - [ ] Centered hero
 - [ ] Editorial column
@@ -2847,23 +3448,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Full-screen quote
 - [ ] Poster layout
 - [ ] Device showcase
-
-**Brand ingredients**
-
-- [ ] Logo variants
-- [ ] Logo clear space
-- [ ] Brand palette
-- [ ] Typography pairing
-- [ ] Icon style guide
-- [ ] Corner radius system
-- [ ] Stroke width system
-- [ ] Shadow system
-- [ ] Spacing scale
-- [ ] Background treatment
-- [ ] Motion timing tokens
-- [ ] Sound identity
-
-**Composition guides**
+#### Composition guides
 
 - [ ] Rule of thirds
 - [ ] Centered symmetry
@@ -2877,12 +3462,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Visual hierarchy check
 - [ ] Foreground/background separation
 - [ ] Negative space planning
+### Genre-specific systems
 
-## Storytelling and editing
+#### Explainer kits
 
-### Editorial recipes
+- [ ] Science color coding
+- [ ] Map colors
+- [ ] Business dashboard
+- [ ] Classroom diagram
+- [ ] Editorial fact cards
+- [ ] Mechanism labels
+#### Music and comedy kits
 
-**Story beats**
+- [ ] Lyric type hierarchy
+- [ ] Verse/chorus colors
+- [ ] Audio-reactive accents
+- [ ] Sketch title cards
+- [ ] Reaction captions
+- [ ] Meme frame borders
+## Storytelling
+
+### Core story mechanics
+
+#### Story beats
 
 - [ ] Curiosity hook
 - [ ] Question opener
@@ -2898,8 +3500,21 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Payoff
 - [ ] Recap
 - [ ] Call to action
+#### Pacing references
 
-**Editing patterns**
+- [ ] Fast educational pacing
+- [ ] Calm documentary pacing
+- [ ] Comedy pause timing
+- [ ] Product reveal pacing
+- [ ] Suspense buildup
+- [ ] Impact beat
+- [ ] Breathing room
+- [ ] Information-dense sequence
+- [ ] Mobile short pacing
+- [ ] Looping ending
+### Story assembly
+
+#### Editing patterns
 
 - [ ] Narration-led montage
 - [ ] Beat-led montage
@@ -2915,8 +3530,7 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Freeze and annotate
 - [ ] Zoom and explain
 - [ ] Visual callback
-
-**Sequence planning**
+#### Sequence planning
 
 - [ ] Script-to-shot breakdown
 - [ ] Storyboard panels
@@ -2930,25 +3544,1155 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Reusable scene graph
 - [ ] Source checklist
 - [ ] Render review sheet
+### Creator studies — Challenge and spectacle
 
-**Pacing references**
+#### MrBeast
 
-- [ ] Fast educational pacing
-- [ ] Calm documentary pacing
-- [ ] Comedy pause timing
-- [ ] Product reveal pacing
-- [ ] Suspense buildup
-- [ ] Impact beat
-- [ ] Breathing room
-- [ ] Information-dense sequence
-- [ ] Mobile short pacing
-- [ ] Looping ending
+##### Reference library
 
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Immediate challenge premise
+- [ ] Rules and stakes
+- [ ] Outcome preview
+##### Progression and escalation
+
+- [ ] Escalating obstacles
+- [ ] Contestant progress
+- [ ] Midpoint rule change
+##### Payoff and ending
+
+- [ ] Winner reveal
+- [ ] Emotional result
+- [ ] Final consequence
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Airrack
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Large challenge
+- [ ] Unusual mission
+- [ ] Clear external goal
+##### Progression and escalation
+
+- [ ] Escalation
+- [ ] Logistical obstacle
+- [ ] Team response
+##### Payoff and ending
+
+- [ ] Attempt outcome
+- [ ] Surprise reveal
+- [ ] Final consequence
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Short factual stories
+
+#### Zack D. Films
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Unusual factual question
+- [ ] Scenario setup
+- [ ] Immediate visual problem
+##### Progression and escalation
+
+- [ ] Cause-and-effect chain
+- [ ] Mechanism explanation
+- [ ] Complication or exception
+##### Payoff and ending
+
+- [ ] Surprising consequence
+- [ ] Answer the opening question
+- [ ] Compact final fact
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Curiosity and science
+
+#### Vsauce
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Everyday question
+- [ ] Counterintuitive claim
+- [ ] Thought experiment
+##### Progression and escalation
+
+- [ ] Connected question chain
+- [ ] Analogy to abstract idea
+- [ ] Detour that returns to premise
+##### Payoff and ending
+
+- [ ] Conceptual reframe
+- [ ] Return to opening question
+- [ ] Reflective ending
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Veritasium
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Common intuition
+- [ ] Question with a trap
+- [ ] Counterintuitive result
+##### Progression and escalation
+
+- [ ] Test the misconception
+- [ ] Evidence reveal
+- [ ] Deeper explanation
+##### Payoff and ending
+
+- [ ] Revised mental model
+- [ ] Experiment resolution
+- [ ] Open scientific question
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Absurdist sketch comedy
+
+#### grantbeans
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Ordinary situation
+- [ ] Casual character introduction
+- [ ] Unexpected interruption
+##### Progression and escalation
+
+- [ ] Reality shift
+- [ ] Escalating misunderstanding
+- [ ] New context changes prior scene
+##### Payoff and ending
+
+- [ ] Circular ending
+- [ ] Abrupt punchline
+- [ ] Earlier detail becomes payoff
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### jercho1
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Everyday social premise
+- [ ] Character tension
+- [ ] Unexpected response
+##### Progression and escalation
+
+- [ ] Deadpan escalation
+- [ ] Surreal consequence
+- [ ] Character logic reversal
+##### Payoff and ending
+
+- [ ] Visual punchline
+- [ ] Recontextualized setup
+- [ ] Loop back to opening
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Micro-sketch formats
+
+#### Vine — platform format
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Instantly readable situation
+- [ ] One-line premise
+- [ ] Visual setup
+##### Progression and escalation
+
+- [ ] Single comic turn
+- [ ] Fast character switch
+- [ ] Compressed escalation
+##### Payoff and ending
+
+- [ ] Hard-cut punchline
+- [ ] Six-second loop
+- [ ] Reaction as final beat
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Experiments and engineering
+
+#### Mark Rober
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Engineering challenge
+- [ ] Demonstration teaser
+- [ ] Personal reason to care
+##### Progression and escalation
+
+- [ ] Prototype failure
+- [ ] Iteration and testing
+- [ ] Explain the mechanism
+##### Payoff and ending
+
+- [ ] Final experiment
+- [ ] Measured result
+- [ ] Human payoff
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### SmarterEveryDay
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Personal curiosity
+- [ ] Physical demonstration
+- [ ] Question from observation
+##### Progression and escalation
+
+- [ ] Field experiment
+- [ ] Slow-motion evidence
+- [ ] Expert explanation
+##### Payoff and ending
+
+- [ ] Changed intuition
+- [ ] Repeat the demonstration
+- [ ] Personal reflection
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Animated explanation
+
+#### Kurzgesagt
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Big question
+- [ ] Scale-setting scenario
+- [ ] Consequential premise
+##### Progression and escalation
+
+- [ ] Layered explanation
+- [ ] Competing possibilities
+- [ ] Scale escalation
+##### Payoff and ending
+
+- [ ] Qualified answer
+- [ ] Bigger-picture implication
+- [ ] Reflection
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### CGP Grey
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Simple system question
+- [ ] Common assumption
+- [ ] Definition problem
+##### Progression and escalation
+
+- [ ] Rules and incentives
+- [ ] Edge cases
+- [ ] Consequences of the system
+##### Payoff and ending
+
+- [ ] System-level insight
+- [ ] Qualified conclusion
+- [ ] Memorable analogy
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Documentary and investigation
+
+#### Johnny Harris
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Location-linked mystery
+- [ ] Personal discovery
+- [ ] Claim to investigate
+##### Progression and escalation
+
+- [ ] Historical context
+- [ ] Evidence trail
+- [ ] Map-led explanation
+##### Payoff and ending
+
+- [ ] Answer the mystery
+- [ ] Present-day consequence
+- [ ] Return to location
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Vox
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Observable puzzle
+- [ ] News-linked question
+- [ ] Concrete example
+##### Progression and escalation
+
+- [ ] Historical explanation
+- [ ] Data and evidence
+- [ ] Expert context
+##### Payoff and ending
+
+- [ ] Explanatory conclusion
+- [ ] Wider implication
+- [ ] Return to example
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### LEMMiNO
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Unresolved mystery
+- [ ] Case context
+- [ ] Key question
+##### Progression and escalation
+
+- [ ] Chronological evidence
+- [ ] Competing hypotheses
+- [ ] Contradictory evidence
+##### Payoff and ending
+
+- [ ] Known versus unknown
+- [ ] Reasoned conclusion
+- [ ] Unresolved thread
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### fern
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Event or mystery
+- [ ] Character introduction
+- [ ] High-stakes question
+##### Progression and escalation
+
+- [ ] Causal timeline
+- [ ] Perspective change
+- [ ] Reconstruction and evidence
+##### Payoff and ending
+
+- [ ] Consequences
+- [ ] Case resolution
+- [ ] Lingering question
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Kento Bento
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] High-stakes incident
+- [ ] Character and location
+- [ ] Unanswered question
+##### Progression and escalation
+
+- [ ] Chronological suspense
+- [ ] Complication
+- [ ] Reveal withheld information
+##### Payoff and ending
+
+- [ ] Event outcome
+- [ ] Reinterpretation
+- [ ] Consequences
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Mathematics and visual intuition
+
+#### 3Blue1Brown
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Visual puzzle
+- [ ] Intuition gap
+- [ ] Simple example
+##### Progression and escalation
+
+- [ ] Geometric model
+- [ ] Build toward formalism
+- [ ] Transform the representation
+##### Payoff and ending
+
+- [ ] Mathematical insight
+- [ ] Connect to original puzzle
+- [ ] Generalize the idea
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Concise explanation
+
+#### Tom Scott
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Distinctive place or object
+- [ ] Surprising constraint
+- [ ] Direct question
+##### Progression and escalation
+
+- [ ] Practical mechanism
+- [ ] Relevant context
+- [ ] Exception to the rule
+##### Payoff and ending
+
+- [ ] Concise explanation
+- [ ] Location callback
+- [ ] Final implication
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Half as Interesting
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Odd fact
+- [ ] Specific question
+- [ ] Unexpected historical detail
+##### Progression and escalation
+
+- [ ] Compact context
+- [ ] Causal explanation
+- [ ] Comic aside placement
+##### Payoff and ending
+
+- [ ] Answer
+- [ ] Final odd detail
+- [ ] Callback joke
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Systems and logistics
+
+#### Wendover Productions
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Logistical puzzle
+- [ ] Cost or route question
+- [ ] Concrete business example
+##### Progression and escalation
+
+- [ ] Constraints and incentives
+- [ ] Network explanation
+- [ ] Trade-off comparison
+##### Payoff and ending
+
+- [ ] System outcome
+- [ ] Economic consequence
+- [ ] Return to example
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Personal challenge and journey
+
+#### Ryan Trahan
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Personal constraint
+- [ ] Journey goal
+- [ ] Rules of the challenge
+##### Progression and escalation
+
+- [ ] Daily progress
+- [ ] Setback and recovery
+- [ ] Unexpected encounter
+##### Payoff and ending
+
+- [ ] Complete the goal
+- [ ] Human connection
+- [ ] Reflect on journey
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Yes Theory
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Uncomfortable challenge
+- [ ] Human connection premise
+- [ ] Personal fear
+##### Progression and escalation
+
+- [ ] Commit to experience
+- [ ] Social uncertainty
+- [ ] Trust and discovery
+##### Payoff and ending
+
+- [ ] Shared experience
+- [ ] Personal change
+- [ ] Reflective takeaway
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Casey Neistat
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Personal problem
+- [ ] Day-specific goal
+- [ ] Visual cold open
+##### Progression and escalation
+
+- [ ] Journey through obstacles
+- [ ] Observation and reflection
+- [ ] Small story within the day
+##### Payoff and ending
+
+- [ ] Personal resolution
+- [ ] Callback
+- [ ] Closing reflection
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Technology and reviews
+
+#### MKBHD
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Product question
+- [ ] First impression
+- [ ] Key trade-off
+##### Progression and escalation
+
+- [ ] Experience-led sections
+- [ ] Comparison
+- [ ] Evidence for verdict
+##### Payoff and ending
+
+- [ ] Who it is for
+- [ ] Qualified verdict
+- [ ] Return to main question
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Mrwhosetheboss
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Comparison promise
+- [ ] Unusual device question
+- [ ] Clear test premise
+##### Progression and escalation
+
+- [ ] Ranked tests
+- [ ] Unexpected result
+- [ ] Escalating comparison
+##### Payoff and ending
+
+- [ ] Final ranking
+- [ ] Buying context
+- [ ] Overall insight
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Commentary and comedy
+
+#### Drew Gooden
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Specific observation
+- [ ] Comedic thesis
+- [ ] Example clip context
+##### Progression and escalation
+
+- [ ] Build the argument
+- [ ] Contrast examples
+- [ ] Running joke progression
+##### Payoff and ending
+
+- [ ] Thesis payoff
+- [ ] Callback
+- [ ] Personal conclusion
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Danny Gonzalez
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Unusual media example
+- [ ] Question or premise
+- [ ] Comedic reaction
+##### Progression and escalation
+
+- [ ] Pattern of examples
+- [ ] Escalation
+- [ ] Sketch interruption
+##### Payoff and ending
+
+- [ ] Callback
+- [ ] Absurd conclusion
+- [ ] Resolve the premise
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Kurtis Conner
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Cultural observation
+- [ ] Specific example
+- [ ] Comedic question
+##### Progression and escalation
+
+- [ ] Example analysis
+- [ ] Running bit
+- [ ] Absurd comparison
+##### Payoff and ending
+
+- [ ] Final comic verdict
+- [ ] Callback
+- [ ] Thesis restatement
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Sketch and visual comedy
+
+#### Ryan Higa / nigahiga
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Wordplay premise
+- [ ] Genre parody setup
+- [ ] Character misunderstanding
+##### Progression and escalation
+
+- [ ] Literal interpretation
+- [ ] Escalating visual joke
+- [ ] Recurring comic rule
+##### Payoff and ending
+
+- [ ] Punchline reversal
+- [ ] Callback
+- [ ] Parody resolution
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### Daniel Thrasher
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Musical or social premise
+- [ ] Character conflict
+- [ ] Unexpected ability
+##### Progression and escalation
+
+- [ ] Escalating performance
+- [ ] Role reversal
+- [ ] Absurd rule development
+##### Payoff and ending
+
+- [ ] Musical payoff
+- [ ] Twist
+- [ ] Final reaction
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### CalebCity
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Recognizable trope
+- [ ] Character rule
+- [ ] Immediate conflict
+##### Progression and escalation
+
+- [ ] Literal consequence
+- [ ] Rapid escalation
+- [ ] Logic of the world
+##### Payoff and ending
+
+- [ ] Final contradiction
+- [ ] Hard-cut payoff
+- [ ] Last reaction
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### LongBeachGriffy
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Social situation
+- [ ] Exaggerated character premise
+- [ ] Immediate tension
+##### Progression and escalation
+
+- [ ] Escalating response
+- [ ] Character contrast
+- [ ] Unexpected commitment
+##### Payoff and ending
+
+- [ ] Absurd conclusion
+- [ ] Reversal
+- [ ] Hard cut
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Lists and curiosity
+
+#### XpressTV
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Curiosity promise
+- [ ] Unexpected fact teaser
+- [ ] List framing
+##### Progression and escalation
+
+- [ ] Fact-to-fact progression
+- [ ] Visual evidence pairing
+- [ ] Mini-story inside a fact
+##### Payoff and ending
+
+- [ ] Strong final item
+- [ ] Question to audience
+- [ ] Closing callback
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Creator studies — Personal animated stories
+
+#### Jaiden Animations
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Personal experience
+- [ ] Relatable problem
+- [ ] Comic premise
+##### Progression and escalation
+
+- [ ] Character-driven events
+- [ ] Reflection mixed with action
+- [ ] Emotional complication
+##### Payoff and ending
+
+- [ ] Personal lesson
+- [ ] Comic callback
+- [ ] Emotional resolution
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+#### TheOdd1sOut
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Relatable observation
+- [ ] Childhood premise
+- [ ] Personal anecdote
+##### Progression and escalation
+
+- [ ] Escalating examples
+- [ ] Animated cutaway
+- [ ] Character contrast
+##### Payoff and ending
+
+- [ ] Opinion payoff
+- [ ] Anecdote resolution
+- [ ] Callback
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
+### Narrative structures
+
+#### Curiosity and explanation
+
+- [ ] Question → intuition → contradiction → answer
+- [ ] Mystery → clues → explanation
+- [ ] Small example → wider system
+- [ ] Thought experiment → consequence
+- [ ] Claim → evidence → qualification
+#### Challenges and journeys
+
+- [ ] Goal → rules → attempts → result
+- [ ] Constraint → setback → adaptation
+- [ ] Before → process → after
+- [ ] Personal goal → social encounter → change
+- [ ] Competition → elimination → final outcome
+#### Comedy and short sketches
+
+- [ ] Setup → escalation → punchline
+- [ ] Normal → strange → absurd
+- [ ] Literal interpretation of a phrase
+- [ ] Rule of three
+- [ ] Status reversal
+- [ ] Mistaken identity
+- [ ] Circular sketch
+- [ ] Deadpan anticlimax
+#### Documentary and argument
+
+- [ ] Character → conflict → consequence
+- [ ] Chronological case
+- [ ] Parallel timelines
+- [ ] Investigation → competing explanations
+- [ ] Argument → counterargument → synthesis
+- [ ] Event → context → present-day impact
+### Script and visual analysis
+
+#### Reference packets
+
+- [ ] Original video
+- [ ] Transcript
+- [ ] Timecoded script
+- [ ] Shot-by-shot storyboard
+- [ ] Visual beat sheet
+- [ ] Audio cue map
+- [ ] Source notes
+- [ ] Story blueprint
+#### Hook analysis
+
+- [ ] First image
+- [ ] First spoken line
+- [ ] Question opened
+- [ ] Information withheld
+- [ ] Viewer promise
+- [ ] Starting stakes
+- [ ] Context required
+#### Development analysis
+
+- [ ] Scene objective
+- [ ] New information per beat
+- [ ] Causal links
+- [ ] Open loops
+- [ ] Re-hooks
+- [ ] Tension changes
+- [ ] Character motivation
+- [ ] Exposition placement
+#### Ending analysis
+
+- [ ] Payoff resolves promise
+- [ ] Callback mapping
+- [ ] Emotional shift
+- [ ] Final image
+- [ ] Loop connection
+- [ ] Unanswered question
+- [ ] Last spoken line
+### Short-form formats
+
+#### Vine-style micro-sketches
+
+- [ ] Six-second setup/payoff study
+- [ ] One-location sketch
+- [ ] Two-character misunderstanding
+- [ ] Visual-only punchline
+- [ ] Looped ending
+- [ ] Abrupt final cut
+#### Reels and Shorts
+
+- [ ] Immediate premise
+- [ ] Compact causal explanation
+- [ ] Miniature character arc
+- [ ] Fast escalation
+- [ ] Twist ending
+- [ ] Visual reset loop
+#### Absurdist and surreal comedy
+
+- [ ] Ordinary-world setup
+- [ ] Unexplained reality shift
+- [ ] Character commits to strange logic
+- [ ] Context collapse
+- [ ] Unexpected character reveal
+- [ ] Impossible consequence
+- [ ] Straight-faced delivery
+- [ ] Recursive ending
 ## Captions and localization
 
-### Text and accessibility
+### Caption looks
 
-**Caption styles**
+#### Caption styles
 
 - [ ] Clean subtitles
 - [ ] Word-highlight captions
@@ -2960,8 +4704,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Transcript overlay
 - [ ] Quote emphasis
 - [ ] Sound description captions
+### Languages
 
-**Localization**
+#### Localization
 
 - [ ] English version
 - [ ] Spanish version
@@ -2973,8 +4718,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Locale number formats
 - [ ] Locale date formats
 - [ ] Culturally specific reference notes
+### Accessibility and files
 
-**Accessibility and delivery**
+#### Accessibility and delivery
 
 - [ ] Readable contrast
 - [ ] Minimum type size guide
@@ -2990,12 +4736,29 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] WebVTT file
 - [ ] Burned-in captions
 - [ ] Clean video without captions
+### Story-aware captions
 
+#### Caption direction
+
+- [ ] Reveal aligned with speech
+- [ ] Punchline withheld until spoken
+- [ ] Speaker change
+- [ ] Emphasis word
+- [ ] Sound cue caption
+- [ ] Narration pause
+#### Subtitle assets
+
+- [ ] Timed transcript
+- [ ] Translation draft
+- [ ] Pronunciation glossary
+- [ ] Speaker labels
+- [ ] Caption style preset
+- [ ] Safe-area preview
 ## Voiceover and narration
 
-### Narration library
+### Voice direction
 
-**Voice direction**
+#### Voice direction
 
 - [ ] Calm explainer
 - [ ] Energetic explainer
@@ -3007,8 +4770,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Warm instructional read
 - [ ] Character reaction
 - [ ] Whispered line
+### Recording and processing
 
-**Voice production**
+#### Voice production
 
 - [ ] Script with emphasis marks
 - [ ] Pronunciation guide
@@ -3024,8 +4788,9 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] De-essing settings
 - [ ] Loudness target record
 - [ ] Music ducking envelope
+### Timing and alignment
 
-**Alignment and assets**
+#### Alignment and assets
 
 - [ ] Sentence timing markers
 - [ ] Word timing markers
@@ -3037,3 +4802,21 @@ Generated from scripts/build_catalog.py. All entries begin as planned.
 - [ ] Language and accent tags
 - [ ] Raw take pointer
 - [ ] Edited take pointer
+### Narration-to-visual planning
+
+#### Performance direction
+
+- [ ] Curiosity question
+- [ ] Tension build
+- [ ] Deadpan line
+- [ ] Warm reflection
+- [ ] Emphatic reveal
+- [ ] Quiet final thought
+#### Cue packets
+
+- [ ] Pronunciation sheet
+- [ ] Sentence timing
+- [ ] Pause map
+- [ ] Emphasis marks
+- [ ] Visual cue alignment
+- [ ] Pickup notes

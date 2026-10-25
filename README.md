@@ -2,13 +2,23 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**2,296 collection entries · 23 categories · nested browser · portable AI instructions**
+**3,492 collection entries · 23 categories · nested browser · portable AI instructions**
 
 ## Browse
 
 The website is in `dist/`. Run `npm run serve` and open `http://localhost:3000`. It is buildless and has no npm dependencies. Deploy `dist/` on any static host. Use the cards to explore or switch to the expandable tree. Search, filter by status, save favorites, add custom entries, and record notes and reference links.
 
-Progress is stored in the current browser, not automatically committed to GitHub or synced across devices. Use **Export progress** for a JSON backup; import merges it with local progress. Send an export into our chat when you want changes committed. Do not store sensitive notes in this public repository.
+Entry notes are saved in browser storage; uploaded files are saved in IndexedDB on this device. Neither automatically syncs to GitHub or other devices. **Export library backup** includes entry metadata and uploaded file bytes in one JSON backup. **Import backup** merges progress and restores those files. Older metadata-only progress exports remain supported. Send a backup into our chat when you want material committed. Do not store sensitive notes in this public repository.
+
+Open any entry to add videos, images, scripts, source code, or storyboards (up to 100 MB per file). The file-role selector distinguishes reference footage, transcript, visual breakdown, and other assets. Video, audio, common raster images, and text/code files have local viewers; other files can be downloaded. File attachments persist independently of the Save entry button. Use reference links for larger source videos.
+
+## Storytelling versus editing styles
+
+**Storytelling** studies what makes the story work: premise, hook, information order, stakes, escalation, open loops, causal progression, punchline, and payoff. **Styles and inspiration** studies how it looks and sounds: camera, composition, typography, transitions, color, sound, and visual rhythm. Keep a creator in both collections when useful; link the same reference in each. Each entry has a study type, creator name, script/transcript, visual beat sheet, and reusable structure notes.
+
+The catalog includes 36 creator/platform study folders. These are prompts for analysis, not completed or verified descriptions of a creator’s formula. See `docs/CREATOR_STUDIES.md` and `templates/story-study.json`.
+
+Card navigation now opens every folder level; use the breadcrumbs or the expandable tree to move through the hierarchy. Existing entry IDs were retained so saved progress continues to match.
 
 ## Categories
 
@@ -32,11 +42,11 @@ Progress is stored in the current browser, not automatically committed to GitHub
 18. Photography and cutouts — portraits, objects, isolated layers, and photo animation preparation.
 19. VFX and compositing — practical elements, keying, tracking, and scene integration.
 20. Palettes and design systems — reusable color, layout, brand, and composition recipes.
-21. Storytelling and editing — hooks, story beats, editing patterns, storyboards, and pacing.
+21. Storytelling — creator studies, hooks, story progression, scripts, visual breakdowns, and payoffs.
 22. Captions and localization — caption styles, translation, and accessibility.
 23. Voiceover and narration — voice direction, recording, pronunciation, and timing.
 
-Browse the full [text checklist](docs/CATALOG.md). Edit `scripts/build_catalog.py`, then run `npm run build` to regenerate the catalog and checklist. IDs derive from the full hierarchy: preserve existing names and IDs when possible because saved progress uses IDs.
+Browse the full [text checklist](docs/CATALOG.md). Edit `scripts/build_catalog.py` and `scripts/catalog_expansion.py`, then run `npm run build` to regenerate the catalog and checklist. IDs derive from the full hierarchy: preserve existing names and IDs when possible because saved progress uses IDs.
 
 ## Add a real reference later
 
@@ -58,11 +68,13 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—2,296 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,492 empty folders would add clutter.
 
 ## Use with an AI
 
 Read [AGENTS.md](AGENTS.md), or point Claude at [CLAUDE.md](CLAUDE.md). The reusable skill lives under `skills/motion-atlas/`; copy that folder into the tool's supported skills location if needed. No proprietary runtime is required. This is a retrieval/reference system: adding examples does not train model weights. A model needs access to the repository and the files it will inspect.
+
+Convert a browser backup into portable entry folders with `python3 scripts/unpack_backup.py motion-atlas-library-backup.json --output entries`. The unpacker restores scripts and file attachments, keeps source filenames in metadata, and refuses to overwrite different existing files.
 
 Search locally with `python3 scripts/search_catalog.py "globe"` or `rg "route" docs/CATALOG.md`. Planned entries are a wishlist, not working animation code.
 

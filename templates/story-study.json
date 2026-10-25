@@ -1,0 +1,36 @@
+{
+  "id": "replace-with-study-id",
+  "catalogId": "replace-with-storytelling-entry-id",
+  "studyType": "storytelling",
+  "creator": "",
+  "referenceTitle": "",
+  "references": [],
+  "originalVideo": null,
+  "transcript": null,
+  "script": "",
+  "visuals": "",
+  "structure": "",
+  "beats": [
+    {
+      "start": "00:00",
+      "end": "00:03",
+      "spokenText": "",
+      "visualAction": "",
+      "storyFunction": "",
+      "editingTechnique": "",
+      "openLoop": "",
+      "payoffForBeat": null
+    }
+  ],
+  "hook": {
+    "promise": "",
+    "questionOpened": "",
+    "startingStakes": ""
+  },
+  "progression": [],
+  "payoff": "",
+  "callbacks": [],
+  "reusablePattern": "",
+  "sourceNotes": "",
+  "analysisStatus": "planned"
+}
