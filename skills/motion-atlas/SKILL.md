@@ -19,3 +19,5 @@ Locate the repository root by its `dist/catalog.json`. Read its `AGENTS.md`. If 
 Start with an explicit shortlist of usable entries. If no usable implementation exists, state that and build from the reference or create an original recipe as requested. Adding entries improves retrieval; it does not train the AI model.
 
 For comment and reply requests, read `references/comments-and-replies.md`. Use actual video and thread context plus collected examples; distinguish example analysis from a newly drafted reply.
+
+For meme posts and reply media, use `references/memes-and-reactions.md`. Keep editing-style references, reusable blank templates, and ready-made reaction assets distinct.

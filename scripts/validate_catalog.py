@@ -10,5 +10,10 @@ def visit(n):
   assert n['status'] in ['planned','reference','building','ready'];leaves.append(n)
 for cat in c['categories']:visit(cat)
 assert len(leaves)>1000
-assert all(not n['preview'] and not n['code'] for n in leaves)
-print(f'Catalog valid: {len(c["categories"])} categories, {len(leaves)} unique entries; no fabricated collected assets.')
+for n in leaves:
+ if n.get('preview') and not n['preview'].startswith(('https://','http://')):
+  assert n['status']!='planned'
+  assert (root/'dist'/n['preview']).is_file(), n['preview']
+ if n.get('code') and not n['code'].startswith(('https://','http://')):
+  assert (root/n['code']).is_file(), n['code']
+print(f'Catalog valid: {len(c["categories"])} categories, {len(leaves)} unique entries; reference paths checked.')

@@ -1,0 +1,21 @@
+{
+  "id": "replace-with-reaction-id",
+  "catalogId": "replace-with-reply-asset-entry-id",
+  "title": "",
+  "kind": "gif / image / sticker",
+  "file": null,
+  "preview": null,
+  "staticFallback": null,
+  "transparent": null,
+  "durationSeconds": null,
+  "loop": null,
+  "caption": "",
+  "emotionTags": [],
+  "intentTags": [],
+  "meaning": "",
+  "contextExamples": [],
+  "toneNotes": "",
+  "source": null,
+  "creator": null,
+  "license": null
+}

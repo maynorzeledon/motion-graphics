@@ -294,6 +294,8 @@ from catalog_expansion import extend, organize
 extend(group)
 from comment_catalog import extend_comments
 extend_comments(group)
+from meme_catalog import extend_memes, enrich_memes
+extend_memes(group)
 
 # Generate stable IDs; do not create speculative combinations across every subject.
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
@@ -306,6 +308,7 @@ def node(label,value,path):
  count+=1
  return {'id':ident,'name':label,'status':'planned','priority':'normal','tags':[slug(p) for p in path[-2:]],'notes':'','references':[],'preview':None,'code':None,'files':[],'license':None,'variants':[]}
 catalog={'version':1,'title':'Motion Atlas','description':'A growing collection of motion references, assets and reusable implementations.','categories':organize([node(k,v,[]) for k,v in T.items()],slug)}
+enrich_memes(catalog)
 (ROOT/'dist/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n')
 def checklist(n,depth=0):
  if 'children' in n:

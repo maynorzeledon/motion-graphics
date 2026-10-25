@@ -1,0 +1,33 @@
+{
+  "id": "meme-news-reference",
+  "catalogId": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/user-reference-portrait-and-bold-headline",
+  "title": "User reference \u2014 portrait and bold headline",
+  "status": "reference",
+  "preview": "../../dist/references/meme-news/user-meme-news-reference.jpeg",
+  "code": null,
+  "tags": [
+    "meme-news",
+    "headline-card",
+    "white-and-pink",
+    "condensed-type"
+  ],
+  "techniques": [
+    "Photo-first composition",
+    "Black gradient behind headline",
+    "White condensed uppercase type",
+    "Pink emphasis words",
+    "Corner badge",
+    "Question footer"
+  ],
+  "notes": "Layout reference supplied by user. The screenshot headline is unverified; do not treat it as evidence about the pictured person.",
+  "source": {
+    "type": "user-upload",
+    "originalFilename": "1792963586316.jpeg",
+    "originalPublisher": null
+  },
+  "verification": {
+    "rendered": false,
+    "visuallyReviewed": true,
+    "notes": "Source screenshot visually reviewed for layout only."
+  }
+}

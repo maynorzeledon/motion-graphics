@@ -30773,6 +30773,581 @@
               ]
             }
           ]
+        },
+        {
+          "id": "styles-and-inspiration/social-post-and-meme-styles",
+          "name": "Social post and meme styles",
+          "children": [
+            {
+              "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards",
+              "name": "Meme-news cards",
+              "children": [
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/user-reference-portrait-and-bold-headline",
+                  "name": "User reference — portrait and bold headline",
+                  "status": "reference",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "User-supplied layout reference. Portrait photo at top; black gradient behind bold white condensed all-caps headline; vivid pink emphasis words and corner VIRAL badge; compact question/footer. Save as a visual layout reference. The screenshot headline is unverified and is not evidence about the pictured person.",
+                  "references": [],
+                  "preview": "references/meme-news/user-meme-news-reference.jpeg",
+                  "code": null,
+                  "files": [
+                    {
+                      "path": "references/meme-news/user-meme-news-reference.jpeg",
+                      "name": "User-supplied meme-news screenshot",
+                      "role": "Editing reference"
+                    }
+                  ],
+                  "license": "User-supplied screenshot; original publisher and image rights not established. Reference use recorded; no stock-photo license claimed.",
+                  "variants": [],
+                  "attachmentCount": 1
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/photo-with-black-gradient-headline",
+                  "name": "Photo with black gradient headline",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/condensed-all-caps-headline",
+                  "name": "Condensed all-caps headline",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/white-headline-with-bright-accent-words",
+                  "name": "White headline with bright accent words",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/viral-corner-badge",
+                  "name": "Viral corner badge",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/question-footer",
+                  "name": "Question footer",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/photo-first-news-card",
+                  "name": "Photo-first news card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/headline-first-news-card",
+                  "name": "Headline-first news card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/two-image-comparison-news-card",
+                  "name": "Two-image comparison news card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/meme-news-cards/carousel-story-recap",
+                  "name": "Carousel story recap",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "meme-news-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing",
+              "name": "Shitpost and meme editing",
+              "children": [
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/deliberately-rough-collage",
+                  "name": "Deliberately rough collage",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/deep-fried-compression",
+                  "name": "Deep-fried compression",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/oversized-ironic-captions",
+                  "name": "Oversized ironic captions",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/low-resolution-image-macro",
+                  "name": "Low-resolution image macro",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/surreal-unrelated-image-pairing",
+                  "name": "Surreal unrelated image pairing",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/deliberately-awkward-cropping",
+                  "name": "Deliberately awkward cropping",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/screenshot-with-reaction-layout",
+                  "name": "Screenshot-with-reaction layout",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/fake-desktop-dialogue-parody",
+                  "name": "Fake desktop dialogue parody",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/chaotic-sticker-layering",
+                  "name": "Chaotic sticker layering",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/absurd-comparison-panel",
+                  "name": "Absurd comparison panel",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/deadpan-text-over-ordinary-photo",
+                  "name": "Deadpan text over ordinary photo",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/shitpost-and-meme-editing/anti-design-poster",
+                  "name": "Anti-design poster",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "shitpost-and-meme-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts",
+              "name": "Static social layouts",
+              "children": [
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/photo-plus-punchline",
+                  "name": "Photo plus punchline",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/text-only-joke-card",
+                  "name": "Text-only joke card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/chat-screenshot-parody",
+                  "name": "Chat screenshot parody",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/comment-screenshot-card",
+                  "name": "Comment screenshot card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/reddit-style-story-card",
+                  "name": "Reddit-style story card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/quote-and-reaction-image",
+                  "name": "Quote-and-reaction image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/two-panel-visual-joke",
+                  "name": "Two-panel visual joke",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/four-panel-story",
+                  "name": "Four-panel story",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/polished-satire-card",
+                  "name": "Polished satire card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/social-post-and-meme-styles/static-social-layouts/cropped-screenshot-caption",
+                  "name": "Cropped screenshot caption",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "social-post-and-meme-styles",
+                    "static-social-layouts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -67465,6 +68040,3491 @@
                   "tags": [
                     "languages-and-cultural-context",
                     "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meme-templates",
+      "name": "Meme templates",
+      "children": [
+        {
+          "id": "meme-templates/classic-template-families",
+          "name": "Classic template families",
+          "children": [
+            {
+              "id": "meme-templates/classic-template-families/image-macros",
+              "name": "Image macros",
+              "children": [
+                {
+                  "id": "meme-templates/classic-template-families/image-macros/top-text-bottom-text-blank",
+                  "name": "Top-text bottom-text blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "image-macros"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/image-macros/single-caption-image-blank",
+                  "name": "Single-caption image blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "image-macros"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/image-macros/caption-above-photo-blank",
+                  "name": "Caption-above-photo blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "image-macros"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/image-macros/caption-below-photo-blank",
+                  "name": "Caption-below-photo blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "image-macros"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/image-macros/impact-style-text-placement",
+                  "name": "Impact-style text placement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "image-macros"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/image-macros/outlined-text-variant",
+                  "name": "Outlined text variant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "image-macros"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/classic-template-families/comparison-and-choice",
+              "name": "Comparison and choice",
+              "children": [
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/drake-style-two-choice-study",
+                  "name": "Drake-style two-choice study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/distracted-boyfriend-style-object-labels",
+                  "name": "Distracted-boyfriend-style object labels",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/two-buttons-dilemma-study",
+                  "name": "Two-buttons dilemma study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/expectation-versus-reality",
+                  "name": "Expectation versus reality",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/before-versus-after",
+                  "name": "Before versus after",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/same-energy-comparison",
+                  "name": "Same energy comparison",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/comparison-and-choice/correct-versus-incorrect-comparison",
+                  "name": "Correct versus incorrect comparison",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "comparison-and-choice"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/classic-template-families/escalation-and-sequences",
+              "name": "Escalation and sequences",
+              "children": [
+                {
+                  "id": "meme-templates/classic-template-families/escalation-and-sequences/expanding-brain-style-sequence",
+                  "name": "Expanding-brain-style sequence",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "escalation-and-sequences"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/escalation-and-sequences/increasingly-intense-reaction",
+                  "name": "Increasingly intense reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "escalation-and-sequences"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/escalation-and-sequences/domino-chain-labels",
+                  "name": "Domino chain labels",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "escalation-and-sequences"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/escalation-and-sequences/three-stage-escalation",
+                  "name": "Three-stage escalation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "escalation-and-sequences"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/escalation-and-sequences/four-panel-comic-blank",
+                  "name": "Four-panel comic blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "escalation-and-sequences"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/escalation-and-sequences/setup-reaction-payoff",
+                  "name": "Setup → reaction → payoff",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "escalation-and-sequences"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/classic-template-families/characters-and-reactions",
+              "name": "Characters and reactions",
+              "children": [
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/wojak-style-character-template-target",
+                  "name": "Wojak-style character template target",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/doge-style-caption-target",
+                  "name": "Doge-style caption target",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/side-eye-character-blank",
+                  "name": "Side-eye character blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/thinking-character-blank",
+                  "name": "Thinking character blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/confused-character-blank",
+                  "name": "Confused character blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/celebrating-character-blank",
+                  "name": "Celebrating character blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/classic-template-families/characters-and-reactions/disappointed-character-blank",
+                  "name": "Disappointed character blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "classic-template-families",
+                    "characters-and-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme-templates/text-and-wordplay-templates",
+          "name": "Text and wordplay templates",
+          "children": [
+            {
+              "id": "meme-templates/text-and-wordplay-templates/caption-formats",
+              "name": "Caption formats",
+              "children": [
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/nobody-absolutely-nobody-format",
+                  "name": "Nobody / absolutely nobody format",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/me-versus-my-brain-format",
+                  "name": "Me versus my brain format",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/pov-setup",
+                  "name": "POV setup",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/when-someone-says-format",
+                  "name": "When someone says format",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/my-honest-reaction-format",
+                  "name": "My honest reaction format",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/one-word-caption",
+                  "name": "One-word caption",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/overly-specific-scenario",
+                  "name": "Overly specific scenario",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/caption-formats/literal-interpretation-caption",
+                  "name": "Literal interpretation caption",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "caption-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels",
+              "name": "Dialogue and labels",
+              "children": [
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/two-character-dialogue",
+                  "name": "Two-character dialogue",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/inner-monologue",
+                  "name": "Inner monologue",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/object-labeling-blank",
+                  "name": "Object-labeling blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/speech-bubble-slots",
+                  "name": "Speech bubble slots",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/thought-bubble-slots",
+                  "name": "Thought bubble slots",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/chat-dialogue-blank",
+                  "name": "Chat dialogue blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/dialogue-and-labels/comment-and-response-blank",
+                  "name": "Comment-and-response blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "dialogue-and-labels"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks",
+              "name": "Absurdist and shitpost blanks",
+              "children": [
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/unrelated-image-plus-serious-caption",
+                  "name": "Unrelated image plus serious caption",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/over-explained-ordinary-image",
+                  "name": "Over-explained ordinary image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/intentionally-bad-motivational-quote",
+                  "name": "Intentionally bad motivational quote",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/ironic-infographic",
+                  "name": "Ironic infographic",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/nonsense-comparison",
+                  "name": "Nonsense comparison",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/fake-instruction-parody",
+                  "name": "Fake instruction parody",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/deliberately-useless-diagram",
+                  "name": "Deliberately useless diagram",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/text-and-wordplay-templates/absurdist-and-shitpost-blanks/surreal-news-card-blank",
+                  "name": "Surreal news-card blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "text-and-wordplay-templates",
+                    "absurdist-and-shitpost-blanks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme-templates/meme-news-and-satire-templates",
+          "name": "Meme-news and satire templates",
+          "children": [
+            {
+              "id": "meme-templates/meme-news-and-satire-templates/headline-cards",
+              "name": "Headline cards",
+              "children": [
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/portrait-plus-headline-blank",
+                  "name": "Portrait-plus-headline blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/accent-word-headline-slots",
+                  "name": "Accent-word headline slots",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/viral-badge-blank",
+                  "name": "Viral badge blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/breaking-news-parody-card",
+                  "name": "Breaking-news parody card",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/image-plus-source-strip",
+                  "name": "Image plus source strip",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/question-footer-blank",
+                  "name": "Question footer blank",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/headline-cards/multi-slide-headline-story",
+                  "name": "Multi-slide headline story",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "headline-cards"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients",
+              "name": "Editorial ingredients",
+              "children": [
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/background-photo-slot",
+                  "name": "Background photo slot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/subject-crop-slot",
+                  "name": "Subject crop slot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/black-gradient-overlay",
+                  "name": "Black gradient overlay",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/headline-line-break-guide",
+                  "name": "Headline line-break guide",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/accent-word-selection",
+                  "name": "Accent-word selection",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/category-badge-slot",
+                  "name": "Category badge slot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/brand-footer-slot",
+                  "name": "Brand footer slot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/editorial-ingredients/source-date-slot",
+                  "name": "Source/date slot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "editorial-ingredients"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/meme-news-and-satire-templates/context-records",
+              "name": "Context records",
+              "children": [
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/context-records/original-source-screenshot",
+                  "name": "Original source screenshot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "context-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/context-records/headline-status-record",
+                  "name": "Headline status record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "context-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/context-records/verified-story-source-pointer",
+                  "name": "Verified-story source pointer",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "context-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/context-records/satire-parody-label-record",
+                  "name": "Satire/parody label record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "context-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/context-records/image-provenance-note",
+                  "name": "Image provenance note",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "context-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/meme-news-and-satire-templates/context-records/editable-text-layer-record",
+                  "name": "Editable text layer record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "meme-news-and-satire-templates",
+                    "context-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme-templates/reusable-files-and-variants",
+          "name": "Reusable files and variants",
+          "children": [
+            {
+              "id": "meme-templates/reusable-files-and-variants/template-packages",
+              "name": "Template packages",
+              "children": [
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/blank-base-image",
+                  "name": "Blank base image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/editable-svg-template",
+                  "name": "Editable SVG template",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/layered-psd-reference",
+                  "name": "Layered PSD reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/editable-design-source",
+                  "name": "Editable design source",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/caption-slot-manifest",
+                  "name": "Caption-slot manifest",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/example-finished-meme",
+                  "name": "Example finished meme",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/font-source-record",
+                  "name": "Font/source record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/template-packages/crop-safe-preview",
+                  "name": "Crop-safe preview",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "template-packages"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/reusable-files-and-variants/delivery-sizes",
+              "name": "Delivery sizes",
+              "children": [
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/square-feed-template",
+                  "name": "Square feed template",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/portrait-feed-template",
+                  "name": "Portrait feed template",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/vertical-story-template",
+                  "name": "Vertical story template",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/landscape-reaction-image",
+                  "name": "Landscape reaction image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/transparent-cutout",
+                  "name": "Transparent cutout",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/light-background-variant",
+                  "name": "Light-background variant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/delivery-sizes/dark-background-variant",
+                  "name": "Dark-background variant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "delivery-sizes"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "meme-templates/reusable-files-and-variants/organization",
+              "name": "Organization",
+              "children": [
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/template-name-and-aliases",
+                  "name": "Template name and aliases",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/caption-fields",
+                  "name": "Caption fields",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/emotion-tags",
+                  "name": "Emotion tags",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/intended-joke-structure",
+                  "name": "Intended joke structure",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/example-usage-context",
+                  "name": "Example usage context",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/original-creator-source",
+                  "name": "Original creator/source",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/license-usage-notes",
+                  "name": "License/usage notes",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "meme-templates/reusable-files-and-variants/organization/related-reaction-assets",
+                  "name": "Related reaction assets",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reusable-files-and-variants",
+                    "organization"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reply-gifs-images-and-stickers",
+      "name": "Reply GIFs, images and stickers",
+      "children": [
+        {
+          "id": "reply-gifs-images-and-stickers/emotion-and-intent",
+          "name": "Emotion and intent",
+          "children": [
+            {
+              "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods",
+              "name": "Reaction moods",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/laughing",
+                  "name": "Laughing",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/confused",
+                  "name": "Confused",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/shocked",
+                  "name": "Shocked",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/side-eye",
+                  "name": "Side-eye",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/disbelief",
+                  "name": "Disbelief",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/facepalm",
+                  "name": "Facepalm",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/approval",
+                  "name": "Approval",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/disapproval",
+                  "name": "Disapproval",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/celebration",
+                  "name": "Celebration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/relief",
+                  "name": "Relief",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/embarrassment",
+                  "name": "Embarrassment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/awkward-silence",
+                  "name": "Awkward silence",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/sadness",
+                  "name": "Sadness",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/frustration",
+                  "name": "Frustration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/anticipation",
+                  "name": "Anticipation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/reaction-moods/mind-blown",
+                  "name": "Mind blown",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "reaction-moods"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent",
+              "name": "Conversational intent",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/agree-with-parent-comment",
+                  "name": "Agree with parent comment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/playful-disbelief",
+                  "name": "Playful disbelief",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/say-thank-you",
+                  "name": "Say thank you",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/congratulate-someone",
+                  "name": "Congratulate someone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/show-appreciation",
+                  "name": "Show appreciation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/ask-for-an-explanation",
+                  "name": "Ask for an explanation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/continue-a-joke",
+                  "name": "Continue a joke",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/react-to-a-reveal",
+                  "name": "React to a reveal",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/gentle-disagreement",
+                  "name": "Gentle disagreement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/emotion-and-intent/conversational-intent/supportive-reaction",
+                  "name": "Supportive reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "emotion-and-intent",
+                    "conversational-intent"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reply-gifs-images-and-stickers/gif-and-animation-formats",
+          "name": "GIF and animation formats",
+          "children": [
+            {
+              "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions",
+              "name": "Looping reactions",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/seamless-reaction-loop",
+                  "name": "Seamless reaction loop",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/one-shot-reaction",
+                  "name": "One-shot reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/short-reaction-then-hold",
+                  "name": "Short reaction then hold",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/progressively-zoomed-reaction",
+                  "name": "Progressively zoomed reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/reaction-with-caption",
+                  "name": "Reaction with caption",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/silent-expression-loop",
+                  "name": "Silent expression loop",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/animated-emote",
+                  "name": "Animated emote",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/looping-reactions/transparent-animated-sticker",
+                  "name": "Transparent animated sticker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "looping-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types",
+              "name": "File types",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/gif-source",
+                  "name": "GIF source",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/animated-webp",
+                  "name": "Animated WebP",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/animated-png",
+                  "name": "Animated PNG",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/short-mp4",
+                  "name": "Short MP4",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/transparent-webm",
+                  "name": "Transparent WebM",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/static-fallback-frame",
+                  "name": "Static fallback frame",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/first-frame-preview",
+                  "name": "First-frame preview",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/file-types/contact-sheet",
+                  "name": "Contact sheet",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "file-types"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility",
+              "name": "Timing and legibility",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/reaction-onset-marker",
+                  "name": "Reaction onset marker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/punchline-frame",
+                  "name": "Punchline frame",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/loop-duration",
+                  "name": "Loop duration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/hold-duration",
+                  "name": "Hold duration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/caption-readable-version",
+                  "name": "Caption-readable version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/reduced-flash-version",
+                  "name": "Reduced-flash version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/gif-and-animation-formats/timing-and-legibility/compact-mobile-version",
+                  "name": "Compact mobile version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gif-and-animation-formats",
+                    "timing-and-legibility"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reply-gifs-images-and-stickers/reply-images-and-stickers",
+          "name": "Reply images and stickers",
+          "children": [
+            {
+              "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions",
+              "name": "Image reactions",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/reaction-photograph",
+                  "name": "Reaction photograph",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/reaction-illustration",
+                  "name": "Reaction illustration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/text-reaction-image",
+                  "name": "Text reaction image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/quote-and-reaction-image",
+                  "name": "Quote-and-reaction image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/meme-panel-crop",
+                  "name": "Meme-panel crop",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/screenshot-reaction",
+                  "name": "Screenshot reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/emoji-collage",
+                  "name": "Emoji collage",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/image-reactions/tiny-reaction-image",
+                  "name": "Tiny reaction image",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "image-reactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families",
+              "name": "Sticker families",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/transparent-person-cutout",
+                  "name": "Transparent person cutout",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/transparent-animal-reaction",
+                  "name": "Transparent animal reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/cartoon-reaction-target",
+                  "name": "Cartoon reaction target",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/mascot-expression",
+                  "name": "Mascot expression",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/hand-gesture",
+                  "name": "Hand gesture",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/speech-bubble-sticker",
+                  "name": "Speech bubble sticker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/text-only-sticker",
+                  "name": "Text-only sticker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/celebration-sticker",
+                  "name": "Celebration sticker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/question-sticker",
+                  "name": "Question sticker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/sticker-families/arrow-and-emphasis-sticker",
+                  "name": "Arrow and emphasis sticker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "sticker-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects",
+              "name": "Characters and subjects",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/human-expression",
+                  "name": "Human expression",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/cat-reaction",
+                  "name": "Cat reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/dog-reaction",
+                  "name": "Dog reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/bird-reaction",
+                  "name": "Bird reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/game-character-target",
+                  "name": "Game-character target",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/sports-reaction-target",
+                  "name": "Sports reaction target",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/movie-tv-reaction-target",
+                  "name": "Movie/TV reaction target",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/original-mascot-reaction",
+                  "name": "Original mascot reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/reply-images-and-stickers/characters-and-subjects/simple-stickman-reaction",
+                  "name": "Simple stickman reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reply-images-and-stickers",
+                    "characters-and-subjects"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reply-gifs-images-and-stickers/use-and-reference-records",
+          "name": "Use and reference records",
+          "children": [
+            {
+              "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching",
+              "name": "Context matching",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/parent-comment-example",
+                  "name": "Parent comment example",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/video-moment-example",
+                  "name": "Video moment example",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/meaning-of-reaction",
+                  "name": "Meaning of reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/sincere-use-example",
+                  "name": "Sincere use example",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/sarcastic-use-example",
+                  "name": "Sarcastic use example",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/when-the-reaction-would-misread-the-tone",
+                  "name": "When the reaction would misread the tone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/context-matching/language-culture-notes",
+                  "name": "Language/culture notes",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "context-matching"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection",
+              "name": "Source and collection",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/original-source-link",
+                  "name": "Original source link",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/creator-source-credit",
+                  "name": "Creator/source credit",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/full-context-reference",
+                  "name": "Full-context reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/reaction-crop",
+                  "name": "Reaction crop",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/caption-transcript",
+                  "name": "Caption transcript",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/upload-file",
+                  "name": "Upload file",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/preview-thumbnail",
+                  "name": "Preview thumbnail",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/tags-and-aliases",
+                  "name": "Tags and aliases",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/source-and-collection/usage-license-record",
+                  "name": "Usage/license record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "source-and-collection"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies",
+              "name": "Platform delivery studies",
+              "children": [
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/instagram-reply-reference",
+                  "name": "Instagram reply reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/tiktok-reply-reference",
+                  "name": "TikTok reply reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/youtube-reply-reference",
+                  "name": "YouTube reply reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/reddit-reaction-reference",
+                  "name": "Reddit reaction reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/messaging-sticker-reference",
+                  "name": "Messaging sticker reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/discord-emote-reference",
+                  "name": "Discord emote reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/small-size-readability",
+                  "name": "Small-size readability",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "reply-gifs-images-and-stickers/use-and-reference-records/platform-delivery-studies/transparent-edge-check",
+                  "name": "Transparent-edge check",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "use-and-reference-records",
+                    "platform-delivery-studies"
                   ],
                   "notes": "",
                   "references": [],

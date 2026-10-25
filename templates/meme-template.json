@@ -1,0 +1,33 @@
+{
+  "id": "replace-with-template-id",
+  "catalogId": "replace-with-meme-template-entry-id",
+  "title": "",
+  "templateFamily": "",
+  "blankImage": null,
+  "editableSource": null,
+  "exampleImage": null,
+  "captionSlots": [
+    {
+      "id": "headline",
+      "text": "",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      },
+      "font": null,
+      "color": null,
+      "outline": null,
+      "alignment": "center"
+    }
+  ],
+  "aspectRatio": "1:1",
+  "jokeStructure": "",
+  "aliases": [],
+  "emotionTags": [],
+  "usageExamples": [],
+  "source": null,
+  "license": null,
+  "notes": ""
+}
