@@ -4087,6 +4087,66 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Original video or joke reference
 - [ ] Setup → pivot → punchline breakdown
 - [ ] Reusable script and visual blueprint
+#### Relatable everyday moments and canon events
+
+##### Brain and memory moments
+
+- [ ] Looking for something → your brain flashes its location for one second
+- [ ] Walking into a room and forgetting why
+- [ ] Remembering the perfect reply hours later
+- [ ] Forgetting a word you use every day
+- [ ] Remembering an embarrassing moment while trying to sleep
+- [ ] Recognizing a face but not remembering the name
+- [ ] Knowing the song but only remembering one line
+##### Searching and noticing
+
+- [ ] Looking for your phone while holding it
+- [ ] Finding the missing object immediately after asking for help
+- [ ] Opening the fridge again as if the contents changed
+- [ ] Losing something after putting it somewhere safe
+- [ ] Reading the same sentence repeatedly without taking it in
+- [ ] Noticing an object only after someone points directly at it
+##### Socially relatable moments
+
+- [ ] Saying you too at the wrong moment
+- [ ] Waving back at someone who was waving to another person
+- [ ] Rehearsing a conversation that never happens
+- [ ] Pretending you heard what someone said after asking twice
+- [ ] Accidentally matching someone’s walking direction repeatedly
+- [ ] Thinking everyone noticed a tiny awkward mistake
+##### Everyday habits and tiny frustrations
+
+- [ ] Checking the time and immediately forgetting it
+- [ ] Pausing the music to see an address better
+- [ ] Saving a file repeatedly even though it is already saved
+- [ ] Taking off a backpack and feeling unexpectedly light
+- [ ] Wanting to sleep until it is actually bedtime
+- [ ] Remembering a task only when it is inconvenient
+##### Shared life canon events
+
+- [ ] The childhood haircut you immediately regretted
+- [ ] Realizing a childhood rule was just your family’s rule
+- [ ] First time a younger person calls you old
+- [ ] Finding an old message and cringing at how you wrote
+- [ ] The short-lived hobby you bought all the equipment for
+- [ ] Revisiting a childhood place and finding it smaller than remembered
+##### Story construction and delivery
+
+- [ ] Start with a specific recognizable situation
+- [ ] Personify the brain as an unhelpful character
+- [ ] Turn an internal thought into visible action
+- [ ] Use a tiny accurate detail as the payoff
+- [ ] POV recreation of the shared experience
+- [ ] Deadpan this happens to everyone delivery
+- [ ] Escalate a small frustration without losing recognition
+##### Reference and idea collection
+
+- [ ] Original relatable-video reference
+- [ ] Exact experience or observation
+- [ ] Timecoded script and visible action
+- [ ] Recognition moment and payoff breakdown
+- [ ] Viewer reactions that confirm shared recognition
+- [ ] Original relatable-scenario ideas
 ### Creator studies — Entertainment-led brand stories
 
 #### Wants and Needs

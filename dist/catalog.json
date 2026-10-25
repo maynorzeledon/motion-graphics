@@ -55310,6 +55310,802 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events",
+              "name": "Relatable everyday moments and canon events",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments",
+                  "name": "Brain and memory moments",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/looking-for-something-your-brain-flashes-its-location-for-one-second",
+                      "name": "Looking for something → your brain flashes its location for one second",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/walking-into-a-room-and-forgetting-why",
+                      "name": "Walking into a room and forgetting why",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/remembering-the-perfect-reply-hours-later",
+                      "name": "Remembering the perfect reply hours later",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/forgetting-a-word-you-use-every-day",
+                      "name": "Forgetting a word you use every day",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/remembering-an-embarrassing-moment-while-trying-to-sleep",
+                      "name": "Remembering an embarrassing moment while trying to sleep",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/recognizing-a-face-but-not-remembering-the-name",
+                      "name": "Recognizing a face but not remembering the name",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/brain-and-memory-moments/knowing-the-song-but-only-remembering-one-line",
+                      "name": "Knowing the song but only remembering one line",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "brain-and-memory-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing",
+                  "name": "Searching and noticing",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing/looking-for-your-phone-while-holding-it",
+                      "name": "Looking for your phone while holding it",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "searching-and-noticing"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing/finding-the-missing-object-immediately-after-asking-for-help",
+                      "name": "Finding the missing object immediately after asking for help",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "searching-and-noticing"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing/opening-the-fridge-again-as-if-the-contents-changed",
+                      "name": "Opening the fridge again as if the contents changed",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "searching-and-noticing"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing/losing-something-after-putting-it-somewhere-safe",
+                      "name": "Losing something after putting it somewhere safe",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "searching-and-noticing"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing/reading-the-same-sentence-repeatedly-without-taking-it-in",
+                      "name": "Reading the same sentence repeatedly without taking it in",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "searching-and-noticing"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/searching-and-noticing/noticing-an-object-only-after-someone-points-directly-at-it",
+                      "name": "Noticing an object only after someone points directly at it",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "searching-and-noticing"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments",
+                  "name": "Socially relatable moments",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments/saying-you-too-at-the-wrong-moment",
+                      "name": "Saying you too at the wrong moment",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "socially-relatable-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments/waving-back-at-someone-who-was-waving-to-another-person",
+                      "name": "Waving back at someone who was waving to another person",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "socially-relatable-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments/rehearsing-a-conversation-that-never-happens",
+                      "name": "Rehearsing a conversation that never happens",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "socially-relatable-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments/pretending-you-heard-what-someone-said-after-asking-twice",
+                      "name": "Pretending you heard what someone said after asking twice",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "socially-relatable-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments/accidentally-matching-someone-s-walking-direction-repeatedly",
+                      "name": "Accidentally matching someone’s walking direction repeatedly",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "socially-relatable-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/socially-relatable-moments/thinking-everyone-noticed-a-tiny-awkward-mistake",
+                      "name": "Thinking everyone noticed a tiny awkward mistake",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "socially-relatable-moments"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations",
+                  "name": "Everyday habits and tiny frustrations",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations/checking-the-time-and-immediately-forgetting-it",
+                      "name": "Checking the time and immediately forgetting it",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "everyday-habits-and-tiny-frustrations"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations/pausing-the-music-to-see-an-address-better",
+                      "name": "Pausing the music to see an address better",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "everyday-habits-and-tiny-frustrations"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations/saving-a-file-repeatedly-even-though-it-is-already-saved",
+                      "name": "Saving a file repeatedly even though it is already saved",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "everyday-habits-and-tiny-frustrations"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations/taking-off-a-backpack-and-feeling-unexpectedly-light",
+                      "name": "Taking off a backpack and feeling unexpectedly light",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "everyday-habits-and-tiny-frustrations"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations/wanting-to-sleep-until-it-is-actually-bedtime",
+                      "name": "Wanting to sleep until it is actually bedtime",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "everyday-habits-and-tiny-frustrations"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/everyday-habits-and-tiny-frustrations/remembering-a-task-only-when-it-is-inconvenient",
+                      "name": "Remembering a task only when it is inconvenient",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "everyday-habits-and-tiny-frustrations"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events",
+                  "name": "Shared life canon events",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events/the-childhood-haircut-you-immediately-regretted",
+                      "name": "The childhood haircut you immediately regretted",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "shared-life-canon-events"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events/realizing-a-childhood-rule-was-just-your-family-s-rule",
+                      "name": "Realizing a childhood rule was just your family’s rule",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "shared-life-canon-events"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events/first-time-a-younger-person-calls-you-old",
+                      "name": "First time a younger person calls you old",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "shared-life-canon-events"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events/finding-an-old-message-and-cringing-at-how-you-wrote",
+                      "name": "Finding an old message and cringing at how you wrote",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "shared-life-canon-events"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events/the-short-lived-hobby-you-bought-all-the-equipment-for",
+                      "name": "The short-lived hobby you bought all the equipment for",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "shared-life-canon-events"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/shared-life-canon-events/revisiting-a-childhood-place-and-finding-it-smaller-than-remembered",
+                      "name": "Revisiting a childhood place and finding it smaller than remembered",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "shared-life-canon-events"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery",
+                  "name": "Story construction and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/start-with-a-specific-recognizable-situation",
+                      "name": "Start with a specific recognizable situation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/personify-the-brain-as-an-unhelpful-character",
+                      "name": "Personify the brain as an unhelpful character",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/turn-an-internal-thought-into-visible-action",
+                      "name": "Turn an internal thought into visible action",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/use-a-tiny-accurate-detail-as-the-payoff",
+                      "name": "Use a tiny accurate detail as the payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/pov-recreation-of-the-shared-experience",
+                      "name": "POV recreation of the shared experience",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/deadpan-this-happens-to-everyone-delivery",
+                      "name": "Deadpan this happens to everyone delivery",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/story-construction-and-delivery/escalate-a-small-frustration-without-losing-recognition",
+                      "name": "Escalate a small frustration without losing recognition",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "story-construction-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection",
+                  "name": "Reference and idea collection",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection/original-relatable-video-reference",
+                      "name": "Original relatable-video reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "reference-and-idea-collection"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection/exact-experience-or-observation",
+                      "name": "Exact experience or observation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "reference-and-idea-collection"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection/timecoded-script-and-visible-action",
+                      "name": "Timecoded script and visible action",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "reference-and-idea-collection"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection/recognition-moment-and-payoff-breakdown",
+                      "name": "Recognition moment and payoff breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "reference-and-idea-collection"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection/viewer-reactions-that-confirm-shared-recognition",
+                      "name": "Viewer reactions that confirm shared recognition",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "reference-and-idea-collection"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/relatable-everyday-moments-and-canon-events/reference-and-idea-collection/original-relatable-scenario-ideas",
+                      "name": "Original relatable-scenario ideas",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "relatable-everyday-moments-and-canon-events",
+                        "reference-and-idea-collection"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },

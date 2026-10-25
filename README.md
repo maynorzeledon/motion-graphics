@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**4,216 collection entries · 26 categories · nested browser · portable AI instructions**
+**4,260 collection entries · 26 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -57,7 +57,7 @@ Use the Comments and replies tab to collect examples with their original video, 
 
 ## Joke and comedy studies
 
-Storytelling → Comedy formats contains Literal jokes, Dad jokes, puns, one-liners, knock-knock jokes, anti-jokes, deadpan, misdirection, observational humor, surreal humor, physical comedy, irony, parody, satire, callbacks, and more. Each family has folders for mechanics, delivery, and reference studies. Read `skills/motion-atlas/references/comedy-formats.md` when using these patterns.
+Storytelling → Comedy formats contains Literal jokes, Dad jokes, relatable everyday moments and canon events, puns, one-liners, knock-knock jokes, anti-jokes, deadpan, misdirection, observational humor, surreal humor, physical comedy, irony, parody, satire, callbacks, and more. Each family has folders for mechanics, delivery, and reference studies. Read `skills/motion-atlas/references/comedy-formats.md` when using these patterns.
 
 ## Add a real reference later
 
@@ -79,7 +79,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—4,216 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—4,260 empty folders would add clutter.
 
 ## Use with an AI
 
