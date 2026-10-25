@@ -25469,6 +25469,148 @@
           "name": "Creator editing studies",
           "children": [
             {
+              "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing",
+              "name": "Wants and Needs — visual editing",
+              "children": [
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/short-skit-framing",
+                  "name": "Short skit framing",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/visual-first-storytelling",
+                  "name": "Visual-first storytelling",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/match-cut-product-transition",
+                  "name": "Match-cut product transition",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/outfit-reveal-staging",
+                  "name": "Outfit reveal staging",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/product-worn-inside-the-scene",
+                  "name": "Product worn inside the scene",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/reveal-timing-study",
+                  "name": "Reveal timing study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/end-card-typography",
+                  "name": "End-card typography",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "styles-and-inspiration/creator-editing-studies/wants-and-needs-visual-editing/loop-back-transition",
+                  "name": "Loop-back transition",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "creator-editing-studies",
+                    "wants-and-needs-visual-editing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
               "id": "styles-and-inspiration/creator-editing-studies/zack-d-films-visual-editing",
               "name": "Zack D. Films — visual editing",
               "children": [
@@ -49817,6 +49959,433 @@
           ]
         },
         {
+          "id": "storytelling-and-editing/brand-storytelling",
+          "name": "Brand storytelling",
+          "children": [
+            {
+              "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals",
+              "name": "Entertainment-led ads and delayed reveals",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats",
+                  "name": "Story-first formats",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats/comedy-sketch-with-product-payoff",
+                      "name": "Comedy sketch with product payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "story-first-formats"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats/challenge-that-resolves-into-a-product-reveal",
+                      "name": "Challenge that resolves into a product reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "story-first-formats"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats/visual-puzzle-leading-to-a-brand-reveal",
+                      "name": "Visual puzzle leading to a brand reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "story-first-formats"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats/meme-premise-connected-to-an-outfit",
+                      "name": "Meme premise connected to an outfit",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "story-first-formats"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats/unexpected-transition-into-a-product-scene",
+                      "name": "Unexpected transition into a product scene",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "story-first-formats"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/story-first-formats/everyday-scenario-with-a-brand-callback",
+                      "name": "Everyday scenario with a brand callback",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "story-first-formats"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration",
+                  "name": "Product integration",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration/product-worn-naturally-by-a-character",
+                      "name": "Product worn naturally by a character",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "product-integration"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration/product-becomes-relevant-to-the-plot",
+                      "name": "Product becomes relevant to the plot",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "product-integration"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration/visual-bridge-from-joke-to-product",
+                      "name": "Visual bridge from joke to product",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "product-integration"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration/brand-name-revealed-after-the-payoff",
+                      "name": "Brand name revealed after the payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "product-integration"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration/product-shot-that-continues-the-scene",
+                      "name": "Product shot that continues the scene",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "product-integration"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/product-integration/closing-beat-tied-to-the-opening-premise",
+                      "name": "Closing beat tied to the opening premise",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "product-integration"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis",
+                  "name": "Timing analysis",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis/timestamp-of-the-first-product-appearance",
+                      "name": "Timestamp of the first product appearance",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "timing-analysis"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis/timestamp-of-the-first-explicit-brand-mention",
+                      "name": "Timestamp of the first explicit brand mention",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "timing-analysis"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis/what-the-viewer-expects-before-the-reveal",
+                      "name": "What the viewer expects before the reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "timing-analysis"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis/what-makes-the-reveal-make-sense",
+                      "name": "What makes the reveal make sense",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "timing-analysis"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis/how-the-story-changes-after-the-reveal",
+                      "name": "How the story changes after the reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "timing-analysis"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/timing-analysis/how-the-last-frame-connects-to-the-first",
+                      "name": "How the last frame connects to the first",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "timing-analysis"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/reference-packets",
+                  "name": "Reference packets",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/reference-packets/original-brand-video-and-source-link",
+                      "name": "Original brand video and source link",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "reference-packets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/reference-packets/timecoded-script-and-visual-beat-sheet",
+                      "name": "Timecoded script and visual beat sheet",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "reference-packets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/reference-packets/setup-escalation-product-reveal-breakdown",
+                      "name": "Setup → escalation → product reveal breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "reference-packets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/reference-packets/product-integration-notes",
+                      "name": "Product integration notes",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "reference-packets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/brand-storytelling/entertainment-led-ads-and-delayed-reveals/reference-packets/reusable-story-first-ad-blueprint",
+                      "name": "Reusable story-first ad blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "entertainment-led-ads-and-delayed-reveals",
+                        "reference-packets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "storytelling-and-editing/comedy-formats",
           "name": "Comedy formats",
           "children": [
@@ -50376,6 +50945,320 @@
                       "tags": [
                         "literal-jokes",
                         "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories",
+          "name": "Creator studies — Entertainment-led brand stories",
+          "children": [
+            {
+              "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs",
+              "name": "Wants and Needs",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/reference-library",
+                  "name": "Reference library",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/reference-library/video-script-and-visual-study-01",
+                      "name": "Video, script and visual study 01",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "reference-library"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/reference-library/video-script-and-visual-study-02",
+                      "name": "Video, script and visual study 02",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "reference-library"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/reference-library/reusable-story-blueprint",
+                      "name": "Reusable story blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "reference-library"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/hooks-and-premise",
+                  "name": "Hooks and premise",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/hooks-and-premise/comedy-premise-before-the-product-reveal",
+                      "name": "Comedy premise before the product reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "hooks-and-premise"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/hooks-and-premise/curiosity-led-opening",
+                      "name": "Curiosity-led opening",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "hooks-and-premise"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/hooks-and-premise/everyday-scenario-or-challenge",
+                      "name": "Everyday scenario or challenge",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "hooks-and-premise"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/progression-and-escalation",
+                  "name": "Progression and escalation",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/progression-and-escalation/escalate-the-entertainment-premise",
+                      "name": "Escalate the entertainment premise",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "progression-and-escalation"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/progression-and-escalation/integrate-the-clothing-into-the-action",
+                      "name": "Integrate the clothing into the action",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "progression-and-escalation"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/progression-and-escalation/connect-the-setup-to-the-product",
+                      "name": "Connect the setup to the product",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "progression-and-escalation"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/payoff-and-ending",
+                  "name": "Payoff and ending",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/payoff-and-ending/delayed-product-reveal",
+                      "name": "Delayed product reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "payoff-and-ending"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/payoff-and-ending/brand-reveal-as-the-punchline",
+                      "name": "Brand reveal as the punchline",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "payoff-and-ending"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/payoff-and-ending/callback-that-makes-the-product-fit",
+                      "name": "Callback that makes the product fit",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "payoff-and-ending"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/analysis-worksheets",
+                  "name": "Analysis worksheets",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/analysis-worksheets/timecoded-script",
+                      "name": "Timecoded script",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "analysis-worksheets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/analysis-worksheets/visual-beat-sheet",
+                      "name": "Visual beat sheet",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "analysis-worksheets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/analysis-worksheets/open-loops-and-callbacks",
+                      "name": "Open loops and callbacks",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "analysis-worksheets"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/creator-studies-entertainment-led-brand-stories/wants-and-needs/analysis-worksheets/narrator-to-visual-relationship",
+                      "name": "Narrator-to-visual relationship",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "wants-and-needs",
+                        "analysis-worksheets"
                       ],
                       "notes": "",
                       "references": [],

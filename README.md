@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**3,944 collection entries · 26 categories · nested browser · portable AI instructions**
+**3,991 collection entries · 26 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -16,7 +16,7 @@ Open any entry to add videos, images, scripts, source code, or storyboards (up t
 
 **Storytelling** studies what makes the story work: premise, hook, information order, stakes, escalation, open loops, causal progression, punchline, and payoff. **Styles and inspiration** studies how it looks and sounds: camera, composition, typography, transitions, color, sound, and visual rhythm. Keep a creator in both collections when useful; link the same reference in each. Each entry has a study type, creator name, script/transcript, visual beat sheet, and reusable structure notes.
 
-The catalog includes 36 creator/platform study folders. These are prompts for analysis, not completed or verified descriptions of a creator’s formula. See `docs/CREATOR_STUDIES.md` and `templates/story-study.json`.
+The catalog includes 37 creator/platform study folders. These are prompts for analysis, not completed or verified descriptions of a creator’s formula. See `docs/CREATOR_STUDIES.md` and `templates/story-study.json`.
 
 Card navigation now opens every folder level; use the breadcrumbs or the expandable tree to move through the hierarchy. Existing entry IDs were retained so saved progress continues to match.
 
@@ -75,7 +75,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,944 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,991 empty folders would add clutter.
 
 ## Use with an AI
 

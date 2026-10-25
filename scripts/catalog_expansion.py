@@ -1,5 +1,6 @@
 """Additional collection targets and presentation hierarchy. No creator analyses are pre-filled."""
 CREATORS = {
+'Wants and Needs':('Entertainment-led brand stories','Comedy premise before the product reveal|Curiosity-led opening|Everyday scenario or challenge','Escalate the entertainment premise|Integrate the clothing into the action|Connect the setup to the product','Delayed product reveal|Brand reveal as the punchline|Callback that makes the product fit'),
 'MrBeast':('Challenge and spectacle','Immediate challenge premise|Rules and stakes|Outcome preview','Escalating obstacles|Contestant progress|Midpoint rule change','Winner reveal|Emotional result|Final consequence'),
 'Zack D. Films':('Short factual stories','Unusual factual question|Scenario setup|Immediate visual problem','Cause-and-effect chain|Mechanism explanation|Complication or exception','Surprising consequence|Answer the opening question|Compact final fact'),
 'Vsauce':('Curiosity and science','Everyday question|Counterintuitive claim|Thought experiment','Connected question chain|Analogy to abstract idea|Detour that returns to premise','Conceptual reframe|Return to opening question|Reflective ending'),
@@ -38,6 +39,7 @@ CREATORS = {
 'TheOdd1sOut':('Personal animated stories','Relatable observation|Childhood premise|Personal anecdote','Escalating examples|Animated cutaway|Character contrast','Opinion payoff|Anecdote resolution|Callback')
 }
 STYLE_CREATORS={
+'Wants and Needs':'Short skit framing|Visual-first storytelling|Match-cut product transition|Outfit reveal staging|Product worn inside the scene|Reveal timing study|End-card typography|Loop-back transition',
 'Zack D. Films':'3D scene blocking|Cutaway anatomy study|Camera move study|Object-scale staging|Narration-synced action|On-screen emphasis|Lighting and materials study',
 'Vsauce':'Presenter framing|Object demonstration insert|Scientific image treatment|Question text layout|Sound-led transition study|Cutaway image pacing|Simple explanatory graphics',
 'MrBeast':'Large emphasis captions|Progress overlays|Challenge timers|Score and stakes graphics|Map inserts|Reaction punch-ins|High-energy montage study',
@@ -59,6 +61,12 @@ STYLE_CREATORS={
 'XpressTV':'Fact title cards|Numbered item transitions|Photo and footage montage|Object emphasis graphics|Caption hierarchy|Fact comparison layouts'
 }
 def extend(group):
+ group('Storytelling and editing','Brand storytelling','Entertainment-led ads and delayed reveals',{
+  'Story-first formats':['Comedy sketch with product payoff','Challenge that resolves into a product reveal','Visual puzzle leading to a brand reveal','Meme premise connected to an outfit','Unexpected transition into a product scene','Everyday scenario with a brand callback'],
+  'Product integration':['Product worn naturally by a character','Product becomes relevant to the plot','Visual bridge from joke to product','Brand name revealed after the payoff','Product shot that continues the scene','Closing beat tied to the opening premise'],
+  'Timing analysis':['Timestamp of the first product appearance','Timestamp of the first explicit brand mention','What the viewer expects before the reveal','What makes the reveal make sense','How the story changes after the reveal','How the last frame connects to the first'],
+  'Reference packets':['Original brand video and source link','Timecoded script and visual beat sheet','Setup → escalation → product reveal breakdown','Product integration notes','Reusable story-first ad blueprint']
+ })
  group('Storytelling and editing','Comedy formats','Literal jokes',{
   'Idioms acted out':['Break the ice → break a block of ice','Hold your horses → physically hold toy horses','On the fence → sit on an actual fence','Spill the beans → spill a bag of beans','A piece of cake → reveal an actual piece of cake'],
   'Metaphors made physical':['Time flies → a clock grows wings','Lost my train of thought → a toy train disappears','Food for thought → serve a brain-shaped snack','Heavy conversation → speech bubbles become heavy','Running out of time → a clock runs away'],

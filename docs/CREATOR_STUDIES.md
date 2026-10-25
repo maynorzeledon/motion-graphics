@@ -30,3 +30,11 @@ These links were checked while establishing identities and collection labels; no
 - Grant Beene interview and transcript: https://www.creatorspotlight.com/podcast/s/tcsp/ep_98_how_he_perfected_short_form_content_ft_grant_beene
 
 The comedy label is a working editorial classification; the firsthand interview is a useful place to begin a real study.
+
+## Wants and Needs — entertainment-led brand stories
+
+Official profile checked: https://www.instagram.com/wantsandneedsbrand_/?hl=en
+
+Collection label: **Entertainment-led ads / delayed product reveal**. The initial study prompts follow the user’s requested focus: a sketch, challenge, or curiosity hook draws attention before a clothing or brand reveal. Record the actual first product appearance, first brand mention, reveal, and callback for each supplied example. These folders contain analysis prompts, not imported videos or a completed account-wide analysis.
+
+Use the Storytelling creator folder for narrative mechanics and the Styles creator folder for framing, transitions, staging, typography, and visual rhythm.

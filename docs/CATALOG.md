@@ -1823,6 +1823,16 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] On-screen wordplay emphasis
 ### Creator editing studies
 
+#### Wants and Needs — visual editing
+
+- [ ] Short skit framing
+- [ ] Visual-first storytelling
+- [ ] Match-cut product transition
+- [ ] Outfit reveal staging
+- [ ] Product worn inside the scene
+- [ ] Reveal timing study
+- [ ] End-card typography
+- [ ] Loop-back transition
 #### Zack D. Films — visual editing
 
 - [ ] 3D scene blocking
@@ -3594,6 +3604,41 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Reusable scene graph
 - [ ] Source checklist
 - [ ] Render review sheet
+### Brand storytelling
+
+#### Entertainment-led ads and delayed reveals
+
+##### Story-first formats
+
+- [ ] Comedy sketch with product payoff
+- [ ] Challenge that resolves into a product reveal
+- [ ] Visual puzzle leading to a brand reveal
+- [ ] Meme premise connected to an outfit
+- [ ] Unexpected transition into a product scene
+- [ ] Everyday scenario with a brand callback
+##### Product integration
+
+- [ ] Product worn naturally by a character
+- [ ] Product becomes relevant to the plot
+- [ ] Visual bridge from joke to product
+- [ ] Brand name revealed after the payoff
+- [ ] Product shot that continues the scene
+- [ ] Closing beat tied to the opening premise
+##### Timing analysis
+
+- [ ] Timestamp of the first product appearance
+- [ ] Timestamp of the first explicit brand mention
+- [ ] What the viewer expects before the reveal
+- [ ] What makes the reveal make sense
+- [ ] How the story changes after the reveal
+- [ ] How the last frame connects to the first
+##### Reference packets
+
+- [ ] Original brand video and source link
+- [ ] Timecoded script and visual beat sheet
+- [ ] Setup → escalation → product reveal breakdown
+- [ ] Product integration notes
+- [ ] Reusable story-first ad blueprint
 ### Comedy formats
 
 #### Literal jokes
@@ -3641,6 +3686,36 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Expression → literal meaning → visual payoff
 - [ ] Reusable literal-joke script blueprint
 - [ ] Original literal-joke ideas
+### Creator studies — Entertainment-led brand stories
+
+#### Wants and Needs
+
+##### Reference library
+
+- [ ] Video, script and visual study 01
+- [ ] Video, script and visual study 02
+- [ ] Reusable story blueprint
+##### Hooks and premise
+
+- [ ] Comedy premise before the product reveal
+- [ ] Curiosity-led opening
+- [ ] Everyday scenario or challenge
+##### Progression and escalation
+
+- [ ] Escalate the entertainment premise
+- [ ] Integrate the clothing into the action
+- [ ] Connect the setup to the product
+##### Payoff and ending
+
+- [ ] Delayed product reveal
+- [ ] Brand reveal as the punchline
+- [ ] Callback that makes the product fit
+##### Analysis worksheets
+
+- [ ] Timecoded script
+- [ ] Visual beat sheet
+- [ ] Open loops and callbacks
+- [ ] Narrator-to-visual relationship
 ### Creator studies — Challenge and spectacle
 
 #### MrBeast
