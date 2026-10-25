@@ -187,6 +187,44 @@ for name,items in {
 'Automation':'Deterministic frame clock|Seeded randomness|Editable parameter schema|Asset preloading|Font loading|Audio timing|Preview contact sheet|Render script|Manifest search|Dependency lockfile'
 }.items():group('Code recipes and integrations','Implementation catalog',name,items)
 group('Animations','Objects, nature and characters','Thought bubbles and icons','Thought bubble appear|Thought bubble morph|Speech bubble pop|Dream cloud|Idea burst|Question mark bounce|Exclamation pop|Icon draw|Icon morph|Icon stroke loop|Mood icon change|Sound wave pulse')
+# Color treatments are collection targets; named references require real examples later.
+for name,items in {
+'Breaking Bad-inspired':'Desert yellow and amber|Green fluorescent interiors|Bleached sunlit exteriors|Deep shadow contrast|Warm/cool scene contrast|Reference frame palette study',
+'Better Call Saul-inspired':'Warm desert daylight|Clean office neutrals|Saturated accent colors|Cool night interiors|Black-and-white timeline look|Reference frame palette study',
+'Stranger Things-inspired':'Neon red and blue|Warm retro interiors|Cold supernatural atmosphere|Deep night shadows|1980s film finish|Reference frame palette study',
+'Euphoria-inspired':'Purple and cyan lighting|Pink neon highlights|Dreamy glow|Soft highlight bloom|Bold skin-safe color separation|Reference frame palette study',
+'Mr. Robot-inspired':'Cool green cast|Muted urban palette|Low-key shadows|Pale fluorescent look|Restrained saturation|Reference frame palette study',
+'Peaky Blinders-inspired':'Muted industrial palette|Cool steel shadows|Warm practical lights|Smoky contrast|Period film finish|Reference frame palette study',
+'Dark-inspired':'Muted forest greens|Cold blue-gray palette|Soft overcast contrast|Dark interior treatment|Restrained warm accents|Reference frame palette study',
+'The Last of Us-inspired':'Muted natural greens|Warm daylight highlights|Weathered earth tones|Soft desaturated shadows|Overcast atmosphere|Reference frame palette study',
+'Succession-inspired':'Natural corporate neutrals|Cool interior palette|Restrained saturation|Warm evening interiors|Subtle film contrast|Reference frame palette study',
+'Wednesday-inspired':'Cool gothic palette|Deep black separation|Muted purples|Pale highlights|Selective color accents|Reference frame palette study',
+'Game of Thrones-inspired':'Cold northern palette|Warm firelit interiors|Desaturated battlefield|Golden southern palette|Night scene contrast|Reference frame palette study',
+'The Bear-inspired':'Natural kitchen whites|Warm practical lights|Cool stainless steel|Documentary contrast|Night street palette|Reference frame palette study'
+}.items():group('Color grading and looks','Series-inspired looks',name,items)
+for name,items in {
+'Film and genre references':'The Matrix-inspired green|Blade Runner-inspired neon|Dune-inspired desert|Mad Max-inspired orange/cyan|Wes Anderson-inspired pastel|Noir monochrome|Neo-noir night|Western earth tones|Horror cold shadows|Romantic warm glow|Documentary natural color|Vintage home movie',
+'Everyday filter families':'Warm|Cool|Neutral clean|High contrast|Low contrast|Faded blacks|Matte finish|Desaturated|Vibrant|Pastel|Sepia|Black and white|Duotone|Teal and orange|Bleach bypass|Cross processed|Infrared-inspired|Night vision-inspired|Thermal-inspired',
+'Color controls':'Exposure|White balance|Tint|Contrast curve|Lift gamma gain|Shadows midtones highlights|Saturation|Vibrance|Hue rotation|Selective color|Skin tone protection|Highlight rolloff|Shadow tint|Highlight tint|Color matching|Shot matching',
+'LUTs and delivery':'Creative LUT reference|Technical conversion LUT|Log to Rec.709 transform|Cube LUT file|LUT intensity control|Before/after comparison|Input color space record|Output color space record|Exposure test chart|Skin tone test frames|Day/night variants|Mobile preview check',
+'Film and finishing looks':'Fine film grain|Coarse film grain|Warm halation|Soft bloom|Vintage lens softness|Faded print|Film print contrast|Analog color drift|Highlight clipping reference|Split toning|Silver-rich monochrome|Color isolation'
+}.items():group('Color grading and looks','Filter families and controls',name,items)
+for name,items in {
+'Paper and print':'Clean paper|Recycled paper|Kraft paper|Newspaper|Notebook paper|Graph paper|Wrinkled paper|Torn paper edges|Cardboard|Old book paper|Photocopy|Risograph|Offset print|Halftone dots|Ink bleed|Print misregistration',
+'Film and analog':'Fine grain|Coarse grain|Dust specks|Film scratches|Gate weave|Film burn|Light leak|VHS noise|CRT scanlines|Tape tracking|Super 8 frame|35mm frame|Film perforations|Projected film flicker',
+'Natural surfaces':'Wood grain|Tree bark|Stone|Marble|Granite|Sand|Soil|Grass|Leaves|Water surface|Ice|Snow|Clouds|Leather|Animal fur',
+'Built materials':'Brushed metal|Polished chrome|Rusted metal|Scratched steel|Concrete|Cracked concrete|Brick|Plaster|Ceramic|Glass|Frosted glass|Plastic|Rubber|Carbon fiber|Asphalt',
+'Fabric and craft':'Cotton|Linen|Denim|Canvas|Velvet|Silk|Knitted fabric|Woven fabric|Felt|Embroidery|Stitching|Watercolor paper|Pencil shading|Charcoal|Crayon|Paint strokes',
+'Digital and abstract':'Noise field|Dither|Pixel grid|Dot matrix|Wire mesh|Holographic foil|Iridescence|Gradient mesh|Topographic lines|Voronoi cells|Fluid marbling|Fractal field|Moiré pattern|Circuit pattern|ASCII texture',
+'Grunge and distressed':'Grunge overlay|Dirty lens|Smudges|Fingerprints|Scraped paint|Peeling paint|Water stains|Coffee stains|Burned edges|Cracked ink|Weathered signage|Torn poster layers'
+}.items():group('Textures','Surface library',name,items)
+for name,items in {
+'Animated texture loops':'Drifting grain|Boiling paper|Moving dust|Scratching film|Flickering scanlines|Scrolling noise|Flowing ink|Rippling water|Shimmering foil|Animated halftone|Crawling dither|Hand-drawn line boil',
+'Overlay and compositing':'Transparent overlay|Screen blend variant|Multiply blend variant|Soft light variant|Opacity control|Texture mask|Luma matte|Displacement map|Edge wear mask|Animated reveal mask',
+'3D texture maps':'Base color / albedo|Roughness|Metalness|Normal map|Bump map|Height / displacement|Ambient occlusion|Emission|Opacity|Packed ORM map',
+'File and quality variants':'Seamless tile|Non-tiling plate|Portrait overlay|Landscape overlay|Square tile|2K texture|4K texture|8K source|PNG transparency|EXR linear map|Color space metadata|Physical scale record|Loop seam review|Source and license record'
+}.items():group('Textures','Motion, maps and delivery',name,items)
+
 # Generate stable IDs; do not create speculative combinations across every subject.
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 count=0

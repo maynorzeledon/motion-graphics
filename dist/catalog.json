@@ -25564,6 +25564,5174 @@
           ]
         }
       ]
+    },
+    {
+      "id": "color-grading-and-looks",
+      "name": "Color grading and looks",
+      "children": [
+        {
+          "id": "color-grading-and-looks/series-inspired-looks",
+          "name": "Series-inspired looks",
+          "children": [
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired",
+              "name": "Breaking Bad-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired/desert-yellow-and-amber",
+                  "name": "Desert yellow and amber",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "breaking-bad-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired/green-fluorescent-interiors",
+                  "name": "Green fluorescent interiors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "breaking-bad-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired/bleached-sunlit-exteriors",
+                  "name": "Bleached sunlit exteriors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "breaking-bad-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired/deep-shadow-contrast",
+                  "name": "Deep shadow contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "breaking-bad-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired/warm-cool-scene-contrast",
+                  "name": "Warm/cool scene contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "breaking-bad-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/breaking-bad-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "breaking-bad-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired",
+              "name": "Better Call Saul-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired/warm-desert-daylight",
+                  "name": "Warm desert daylight",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "better-call-saul-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired/clean-office-neutrals",
+                  "name": "Clean office neutrals",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "better-call-saul-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired/saturated-accent-colors",
+                  "name": "Saturated accent colors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "better-call-saul-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired/cool-night-interiors",
+                  "name": "Cool night interiors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "better-call-saul-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired/black-and-white-timeline-look",
+                  "name": "Black-and-white timeline look",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "better-call-saul-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/better-call-saul-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "better-call-saul-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired",
+              "name": "Stranger Things-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired/neon-red-and-blue",
+                  "name": "Neon red and blue",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "stranger-things-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired/warm-retro-interiors",
+                  "name": "Warm retro interiors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "stranger-things-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired/cold-supernatural-atmosphere",
+                  "name": "Cold supernatural atmosphere",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "stranger-things-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired/deep-night-shadows",
+                  "name": "Deep night shadows",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "stranger-things-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired/1980s-film-finish",
+                  "name": "1980s film finish",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "stranger-things-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/stranger-things-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "stranger-things-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired",
+              "name": "Euphoria-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired/purple-and-cyan-lighting",
+                  "name": "Purple and cyan lighting",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "euphoria-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired/pink-neon-highlights",
+                  "name": "Pink neon highlights",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "euphoria-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired/dreamy-glow",
+                  "name": "Dreamy glow",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "euphoria-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired/soft-highlight-bloom",
+                  "name": "Soft highlight bloom",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "euphoria-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired/bold-skin-safe-color-separation",
+                  "name": "Bold skin-safe color separation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "euphoria-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/euphoria-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "euphoria-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired",
+              "name": "Mr. Robot-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired/cool-green-cast",
+                  "name": "Cool green cast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "mr-robot-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired/muted-urban-palette",
+                  "name": "Muted urban palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "mr-robot-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired/low-key-shadows",
+                  "name": "Low-key shadows",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "mr-robot-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired/pale-fluorescent-look",
+                  "name": "Pale fluorescent look",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "mr-robot-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired/restrained-saturation",
+                  "name": "Restrained saturation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "mr-robot-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/mr-robot-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "mr-robot-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired",
+              "name": "Peaky Blinders-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired/muted-industrial-palette",
+                  "name": "Muted industrial palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "peaky-blinders-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired/cool-steel-shadows",
+                  "name": "Cool steel shadows",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "peaky-blinders-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired/warm-practical-lights",
+                  "name": "Warm practical lights",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "peaky-blinders-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired/smoky-contrast",
+                  "name": "Smoky contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "peaky-blinders-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired/period-film-finish",
+                  "name": "Period film finish",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "peaky-blinders-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/peaky-blinders-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "peaky-blinders-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/dark-inspired",
+              "name": "Dark-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/dark-inspired/muted-forest-greens",
+                  "name": "Muted forest greens",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "dark-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/dark-inspired/cold-blue-gray-palette",
+                  "name": "Cold blue-gray palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "dark-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/dark-inspired/soft-overcast-contrast",
+                  "name": "Soft overcast contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "dark-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/dark-inspired/dark-interior-treatment",
+                  "name": "Dark interior treatment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "dark-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/dark-inspired/restrained-warm-accents",
+                  "name": "Restrained warm accents",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "dark-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/dark-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "dark-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired",
+              "name": "The Last of Us-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired/muted-natural-greens",
+                  "name": "Muted natural greens",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-last-of-us-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired/warm-daylight-highlights",
+                  "name": "Warm daylight highlights",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-last-of-us-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired/weathered-earth-tones",
+                  "name": "Weathered earth tones",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-last-of-us-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired/soft-desaturated-shadows",
+                  "name": "Soft desaturated shadows",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-last-of-us-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired/overcast-atmosphere",
+                  "name": "Overcast atmosphere",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-last-of-us-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-last-of-us-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-last-of-us-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/succession-inspired",
+              "name": "Succession-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/succession-inspired/natural-corporate-neutrals",
+                  "name": "Natural corporate neutrals",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "succession-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/succession-inspired/cool-interior-palette",
+                  "name": "Cool interior palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "succession-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/succession-inspired/restrained-saturation",
+                  "name": "Restrained saturation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "succession-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/succession-inspired/warm-evening-interiors",
+                  "name": "Warm evening interiors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "succession-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/succession-inspired/subtle-film-contrast",
+                  "name": "Subtle film contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "succession-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/succession-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "succession-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired",
+              "name": "Wednesday-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired/cool-gothic-palette",
+                  "name": "Cool gothic palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "wednesday-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired/deep-black-separation",
+                  "name": "Deep black separation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "wednesday-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired/muted-purples",
+                  "name": "Muted purples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "wednesday-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired/pale-highlights",
+                  "name": "Pale highlights",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "wednesday-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired/selective-color-accents",
+                  "name": "Selective color accents",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "wednesday-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/wednesday-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "wednesday-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired",
+              "name": "Game of Thrones-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired/cold-northern-palette",
+                  "name": "Cold northern palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "game-of-thrones-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired/warm-firelit-interiors",
+                  "name": "Warm firelit interiors",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "game-of-thrones-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired/desaturated-battlefield",
+                  "name": "Desaturated battlefield",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "game-of-thrones-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired/golden-southern-palette",
+                  "name": "Golden southern palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "game-of-thrones-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired/night-scene-contrast",
+                  "name": "Night scene contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "game-of-thrones-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/game-of-thrones-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "game-of-thrones-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired",
+              "name": "The Bear-inspired",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired/natural-kitchen-whites",
+                  "name": "Natural kitchen whites",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-bear-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired/warm-practical-lights",
+                  "name": "Warm practical lights",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-bear-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired/cool-stainless-steel",
+                  "name": "Cool stainless steel",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-bear-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired/documentary-contrast",
+                  "name": "Documentary contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-bear-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired/night-street-palette",
+                  "name": "Night street palette",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-bear-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/series-inspired-looks/the-bear-inspired/reference-frame-palette-study",
+                  "name": "Reference frame palette study",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "series-inspired-looks",
+                    "the-bear-inspired"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "color-grading-and-looks/filter-families-and-controls",
+          "name": "Filter families and controls",
+          "children": [
+            {
+              "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references",
+              "name": "Film and genre references",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/the-matrix-inspired-green",
+                  "name": "The Matrix-inspired green",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/blade-runner-inspired-neon",
+                  "name": "Blade Runner-inspired neon",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/dune-inspired-desert",
+                  "name": "Dune-inspired desert",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/mad-max-inspired-orange-cyan",
+                  "name": "Mad Max-inspired orange/cyan",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/wes-anderson-inspired-pastel",
+                  "name": "Wes Anderson-inspired pastel",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/noir-monochrome",
+                  "name": "Noir monochrome",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/neo-noir-night",
+                  "name": "Neo-noir night",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/western-earth-tones",
+                  "name": "Western earth tones",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/horror-cold-shadows",
+                  "name": "Horror cold shadows",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/romantic-warm-glow",
+                  "name": "Romantic warm glow",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/documentary-natural-color",
+                  "name": "Documentary natural color",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-genre-references/vintage-home-movie",
+                  "name": "Vintage home movie",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-genre-references"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families",
+              "name": "Everyday filter families",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/warm",
+                  "name": "Warm",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/cool",
+                  "name": "Cool",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/neutral-clean",
+                  "name": "Neutral clean",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/high-contrast",
+                  "name": "High contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/low-contrast",
+                  "name": "Low contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/faded-blacks",
+                  "name": "Faded blacks",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/matte-finish",
+                  "name": "Matte finish",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/desaturated",
+                  "name": "Desaturated",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/vibrant",
+                  "name": "Vibrant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/pastel",
+                  "name": "Pastel",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/sepia",
+                  "name": "Sepia",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/black-and-white",
+                  "name": "Black and white",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/duotone",
+                  "name": "Duotone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/teal-and-orange",
+                  "name": "Teal and orange",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/bleach-bypass",
+                  "name": "Bleach bypass",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/cross-processed",
+                  "name": "Cross processed",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/infrared-inspired",
+                  "name": "Infrared-inspired",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/night-vision-inspired",
+                  "name": "Night vision-inspired",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/everyday-filter-families/thermal-inspired",
+                  "name": "Thermal-inspired",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "everyday-filter-families"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/filter-families-and-controls/color-controls",
+              "name": "Color controls",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/exposure",
+                  "name": "Exposure",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/white-balance",
+                  "name": "White balance",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/tint",
+                  "name": "Tint",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/contrast-curve",
+                  "name": "Contrast curve",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/lift-gamma-gain",
+                  "name": "Lift gamma gain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/shadows-midtones-highlights",
+                  "name": "Shadows midtones highlights",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/saturation",
+                  "name": "Saturation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/vibrance",
+                  "name": "Vibrance",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/hue-rotation",
+                  "name": "Hue rotation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/selective-color",
+                  "name": "Selective color",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/skin-tone-protection",
+                  "name": "Skin tone protection",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/highlight-rolloff",
+                  "name": "Highlight rolloff",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/shadow-tint",
+                  "name": "Shadow tint",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/highlight-tint",
+                  "name": "Highlight tint",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/color-matching",
+                  "name": "Color matching",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/color-controls/shot-matching",
+                  "name": "Shot matching",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "color-controls"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery",
+              "name": "LUTs and delivery",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/creative-lut-reference",
+                  "name": "Creative LUT reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/technical-conversion-lut",
+                  "name": "Technical conversion LUT",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/log-to-rec-709-transform",
+                  "name": "Log to Rec.709 transform",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/cube-lut-file",
+                  "name": "Cube LUT file",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/lut-intensity-control",
+                  "name": "LUT intensity control",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/before-after-comparison",
+                  "name": "Before/after comparison",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/input-color-space-record",
+                  "name": "Input color space record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/output-color-space-record",
+                  "name": "Output color space record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/exposure-test-chart",
+                  "name": "Exposure test chart",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/skin-tone-test-frames",
+                  "name": "Skin tone test frames",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/day-night-variants",
+                  "name": "Day/night variants",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/luts-and-delivery/mobile-preview-check",
+                  "name": "Mobile preview check",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "luts-and-delivery"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks",
+              "name": "Film and finishing looks",
+              "children": [
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/fine-film-grain",
+                  "name": "Fine film grain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/coarse-film-grain",
+                  "name": "Coarse film grain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/warm-halation",
+                  "name": "Warm halation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/soft-bloom",
+                  "name": "Soft bloom",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/vintage-lens-softness",
+                  "name": "Vintage lens softness",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/faded-print",
+                  "name": "Faded print",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/film-print-contrast",
+                  "name": "Film print contrast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/analog-color-drift",
+                  "name": "Analog color drift",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/highlight-clipping-reference",
+                  "name": "Highlight clipping reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/split-toning",
+                  "name": "Split toning",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/silver-rich-monochrome",
+                  "name": "Silver-rich monochrome",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "color-grading-and-looks/filter-families-and-controls/film-and-finishing-looks/color-isolation",
+                  "name": "Color isolation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "filter-families-and-controls",
+                    "film-and-finishing-looks"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "textures",
+      "name": "Textures",
+      "children": [
+        {
+          "id": "textures/surface-library",
+          "name": "Surface library",
+          "children": [
+            {
+              "id": "textures/surface-library/paper-and-print",
+              "name": "Paper and print",
+              "children": [
+                {
+                  "id": "textures/surface-library/paper-and-print/clean-paper",
+                  "name": "Clean paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/recycled-paper",
+                  "name": "Recycled paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/kraft-paper",
+                  "name": "Kraft paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/newspaper",
+                  "name": "Newspaper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/notebook-paper",
+                  "name": "Notebook paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/graph-paper",
+                  "name": "Graph paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/wrinkled-paper",
+                  "name": "Wrinkled paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/torn-paper-edges",
+                  "name": "Torn paper edges",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/cardboard",
+                  "name": "Cardboard",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/old-book-paper",
+                  "name": "Old book paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/photocopy",
+                  "name": "Photocopy",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/risograph",
+                  "name": "Risograph",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/offset-print",
+                  "name": "Offset print",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/halftone-dots",
+                  "name": "Halftone dots",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/ink-bleed",
+                  "name": "Ink bleed",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/paper-and-print/print-misregistration",
+                  "name": "Print misregistration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "paper-and-print"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/surface-library/film-and-analog",
+              "name": "Film and analog",
+              "children": [
+                {
+                  "id": "textures/surface-library/film-and-analog/fine-grain",
+                  "name": "Fine grain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/coarse-grain",
+                  "name": "Coarse grain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/dust-specks",
+                  "name": "Dust specks",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/film-scratches",
+                  "name": "Film scratches",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/gate-weave",
+                  "name": "Gate weave",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/film-burn",
+                  "name": "Film burn",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/light-leak",
+                  "name": "Light leak",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/vhs-noise",
+                  "name": "VHS noise",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/crt-scanlines",
+                  "name": "CRT scanlines",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/tape-tracking",
+                  "name": "Tape tracking",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/super-8-frame",
+                  "name": "Super 8 frame",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/35mm-frame",
+                  "name": "35mm frame",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/film-perforations",
+                  "name": "Film perforations",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/film-and-analog/projected-film-flicker",
+                  "name": "Projected film flicker",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "film-and-analog"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/surface-library/natural-surfaces",
+              "name": "Natural surfaces",
+              "children": [
+                {
+                  "id": "textures/surface-library/natural-surfaces/wood-grain",
+                  "name": "Wood grain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/tree-bark",
+                  "name": "Tree bark",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/stone",
+                  "name": "Stone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/marble",
+                  "name": "Marble",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/granite",
+                  "name": "Granite",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/sand",
+                  "name": "Sand",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/soil",
+                  "name": "Soil",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/grass",
+                  "name": "Grass",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/leaves",
+                  "name": "Leaves",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/water-surface",
+                  "name": "Water surface",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/ice",
+                  "name": "Ice",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/snow",
+                  "name": "Snow",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/clouds",
+                  "name": "Clouds",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/leather",
+                  "name": "Leather",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/natural-surfaces/animal-fur",
+                  "name": "Animal fur",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "natural-surfaces"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/surface-library/built-materials",
+              "name": "Built materials",
+              "children": [
+                {
+                  "id": "textures/surface-library/built-materials/brushed-metal",
+                  "name": "Brushed metal",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/polished-chrome",
+                  "name": "Polished chrome",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/rusted-metal",
+                  "name": "Rusted metal",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/scratched-steel",
+                  "name": "Scratched steel",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/concrete",
+                  "name": "Concrete",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/cracked-concrete",
+                  "name": "Cracked concrete",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/brick",
+                  "name": "Brick",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/plaster",
+                  "name": "Plaster",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/ceramic",
+                  "name": "Ceramic",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/glass",
+                  "name": "Glass",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/frosted-glass",
+                  "name": "Frosted glass",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/plastic",
+                  "name": "Plastic",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/rubber",
+                  "name": "Rubber",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/carbon-fiber",
+                  "name": "Carbon fiber",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/built-materials/asphalt",
+                  "name": "Asphalt",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "built-materials"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/surface-library/fabric-and-craft",
+              "name": "Fabric and craft",
+              "children": [
+                {
+                  "id": "textures/surface-library/fabric-and-craft/cotton",
+                  "name": "Cotton",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/linen",
+                  "name": "Linen",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/denim",
+                  "name": "Denim",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/canvas",
+                  "name": "Canvas",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/velvet",
+                  "name": "Velvet",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/silk",
+                  "name": "Silk",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/knitted-fabric",
+                  "name": "Knitted fabric",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/woven-fabric",
+                  "name": "Woven fabric",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/felt",
+                  "name": "Felt",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/embroidery",
+                  "name": "Embroidery",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/stitching",
+                  "name": "Stitching",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/watercolor-paper",
+                  "name": "Watercolor paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/pencil-shading",
+                  "name": "Pencil shading",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/charcoal",
+                  "name": "Charcoal",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/crayon",
+                  "name": "Crayon",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/fabric-and-craft/paint-strokes",
+                  "name": "Paint strokes",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "fabric-and-craft"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/surface-library/digital-and-abstract",
+              "name": "Digital and abstract",
+              "children": [
+                {
+                  "id": "textures/surface-library/digital-and-abstract/noise-field",
+                  "name": "Noise field",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/dither",
+                  "name": "Dither",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/pixel-grid",
+                  "name": "Pixel grid",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/dot-matrix",
+                  "name": "Dot matrix",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/wire-mesh",
+                  "name": "Wire mesh",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/holographic-foil",
+                  "name": "Holographic foil",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/iridescence",
+                  "name": "Iridescence",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/gradient-mesh",
+                  "name": "Gradient mesh",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/topographic-lines",
+                  "name": "Topographic lines",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/voronoi-cells",
+                  "name": "Voronoi cells",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/fluid-marbling",
+                  "name": "Fluid marbling",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/fractal-field",
+                  "name": "Fractal field",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/moir-pattern",
+                  "name": "Moiré pattern",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/circuit-pattern",
+                  "name": "Circuit pattern",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/digital-and-abstract/ascii-texture",
+                  "name": "ASCII texture",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "digital-and-abstract"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/surface-library/grunge-and-distressed",
+              "name": "Grunge and distressed",
+              "children": [
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/grunge-overlay",
+                  "name": "Grunge overlay",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/dirty-lens",
+                  "name": "Dirty lens",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/smudges",
+                  "name": "Smudges",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/fingerprints",
+                  "name": "Fingerprints",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/scraped-paint",
+                  "name": "Scraped paint",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/peeling-paint",
+                  "name": "Peeling paint",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/water-stains",
+                  "name": "Water stains",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/coffee-stains",
+                  "name": "Coffee stains",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/burned-edges",
+                  "name": "Burned edges",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/cracked-ink",
+                  "name": "Cracked ink",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/weathered-signage",
+                  "name": "Weathered signage",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/surface-library/grunge-and-distressed/torn-poster-layers",
+                  "name": "Torn poster layers",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "surface-library",
+                    "grunge-and-distressed"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "textures/motion-maps-and-delivery",
+          "name": "Motion, maps and delivery",
+          "children": [
+            {
+              "id": "textures/motion-maps-and-delivery/animated-texture-loops",
+              "name": "Animated texture loops",
+              "children": [
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/drifting-grain",
+                  "name": "Drifting grain",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/boiling-paper",
+                  "name": "Boiling paper",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/moving-dust",
+                  "name": "Moving dust",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/scratching-film",
+                  "name": "Scratching film",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/flickering-scanlines",
+                  "name": "Flickering scanlines",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/scrolling-noise",
+                  "name": "Scrolling noise",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/flowing-ink",
+                  "name": "Flowing ink",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/rippling-water",
+                  "name": "Rippling water",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/shimmering-foil",
+                  "name": "Shimmering foil",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/animated-halftone",
+                  "name": "Animated halftone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/crawling-dither",
+                  "name": "Crawling dither",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/animated-texture-loops/hand-drawn-line-boil",
+                  "name": "Hand-drawn line boil",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "animated-texture-loops"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/motion-maps-and-delivery/overlay-and-compositing",
+              "name": "Overlay and compositing",
+              "children": [
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/transparent-overlay",
+                  "name": "Transparent overlay",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/screen-blend-variant",
+                  "name": "Screen blend variant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/multiply-blend-variant",
+                  "name": "Multiply blend variant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/soft-light-variant",
+                  "name": "Soft light variant",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/opacity-control",
+                  "name": "Opacity control",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/texture-mask",
+                  "name": "Texture mask",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/luma-matte",
+                  "name": "Luma matte",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/displacement-map",
+                  "name": "Displacement map",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/edge-wear-mask",
+                  "name": "Edge wear mask",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/overlay-and-compositing/animated-reveal-mask",
+                  "name": "Animated reveal mask",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "overlay-and-compositing"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/motion-maps-and-delivery/3d-texture-maps",
+              "name": "3D texture maps",
+              "children": [
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/base-color-albedo",
+                  "name": "Base color / albedo",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/roughness",
+                  "name": "Roughness",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/metalness",
+                  "name": "Metalness",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/normal-map",
+                  "name": "Normal map",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/bump-map",
+                  "name": "Bump map",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/height-displacement",
+                  "name": "Height / displacement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/ambient-occlusion",
+                  "name": "Ambient occlusion",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/emission",
+                  "name": "Emission",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/opacity",
+                  "name": "Opacity",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/3d-texture-maps/packed-orm-map",
+                  "name": "Packed ORM map",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "3d-texture-maps"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "textures/motion-maps-and-delivery/file-and-quality-variants",
+              "name": "File and quality variants",
+              "children": [
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/seamless-tile",
+                  "name": "Seamless tile",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/non-tiling-plate",
+                  "name": "Non-tiling plate",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/portrait-overlay",
+                  "name": "Portrait overlay",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/landscape-overlay",
+                  "name": "Landscape overlay",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/square-tile",
+                  "name": "Square tile",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/2k-texture",
+                  "name": "2K texture",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/4k-texture",
+                  "name": "4K texture",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/8k-source",
+                  "name": "8K source",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/png-transparency",
+                  "name": "PNG transparency",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/exr-linear-map",
+                  "name": "EXR linear map",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/color-space-metadata",
+                  "name": "Color space metadata",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/physical-scale-record",
+                  "name": "Physical scale record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/loop-seam-review",
+                  "name": "Loop seam review",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "textures/motion-maps-and-delivery/file-and-quality-variants/source-and-license-record",
+                  "name": "Source and license record",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "motion-maps-and-delivery",
+                    "file-and-quality-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**1,444 collection entries · 12 categories · nested browser · portable AI instructions**
+**1,736 collection entries · 14 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -24,6 +24,8 @@ Progress is stored in the current browser, not automatically committed to GitHub
 10. Video formats and scenes — social videos, documentaries, ads, broadcast packages.
 11. Production building blocks — camera, lighting, motion mechanics, delivery.
 12. Code recipes and integrations — implementation and rendering approaches.
+13. Color grading and looks — series-inspired grades, filter families, LUTs, and color controls.
+14. Textures — surfaces, print, film, animated overlays, and 3D texture maps.
 
 Browse the full [text checklist](docs/CATALOG.md). Edit `scripts/build_catalog.py`, then run `npm run build` to regenerate the catalog and checklist. IDs derive from the full hierarchy: preserve existing names and IDs when possible because saved progress uses IDs.
 
@@ -47,7 +49,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—1,444 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—1,736 empty folders would add clutter.
 
 ## Use with an AI
 
