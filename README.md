@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**3,991 collection entries · 26 categories · nested browser · portable AI instructions**
+**4,216 collection entries · 26 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -55,6 +55,10 @@ Browse the full [text checklist](docs/CATALOG.md). Edit the catalog modules in `
 
 Use the Comments and replies tab to collect examples with their original video, parent comment, reply, voice, and explanation. Each entry has dedicated fields for context, reply text, analysis, and observed response. Attach thread screenshots and reference clips using the file-role selector. See `templates/comment-study.json` and `skills/motion-atlas/references/comments-and-replies.md`. Actual examples and likes are not pre-filled; checklist entries are collection targets.
 
+## Joke and comedy studies
+
+Storytelling → Comedy formats contains Literal jokes, Dad jokes, puns, one-liners, knock-knock jokes, anti-jokes, deadpan, misdirection, observational humor, surreal humor, physical comedy, irony, parody, satire, callbacks, and more. Each family has folders for mechanics, delivery, and reference studies. Read `skills/motion-atlas/references/comedy-formats.md` when using these patterns.
+
 ## Add a real reference later
 
 1. Pick a specific entry and add the original creator/source link and notes.
@@ -75,7 +79,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,991 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—4,216 empty folders would add clutter.
 
 ## Use with an AI
 

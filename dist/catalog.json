@@ -50957,6 +50957,4359 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/dad-jokes",
+              "name": "Dad jokes",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns/corny-question-and-answer-pun",
+                      "name": "Corny question-and-answer pun",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns/homophone-misunderstanding",
+                      "name": "Homophone misunderstanding",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns/familiar-phrase-with-a-silly-twist",
+                      "name": "Familiar phrase with a silly twist",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns/overly-obvious-literal-answer",
+                      "name": "Overly obvious literal answer",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns/groan-worthy-word-substitution",
+                      "name": "Groan-worthy word substitution",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/mechanics-and-patterns/wholesome-everyday-setup",
+                      "name": "Wholesome everyday setup",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/dad-jokes/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/timing-and-delivery/earnest-delivery",
+                      "name": "Earnest delivery",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/timing-and-delivery/pause-before-the-obvious-pun",
+                      "name": "Pause before the obvious pun",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/timing-and-delivery/reaction-after-the-punchline",
+                      "name": "Reaction after the punchline",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/dad-jokes/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/dad-jokes/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "dad-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay",
+              "name": "Puns and wordplay",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns/homophones",
+                      "name": "Homophones",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns/multiple-word-meanings",
+                      "name": "Multiple word meanings",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns/compound-word-split",
+                      "name": "Compound-word split",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns/name-based-wordplay",
+                      "name": "Name-based wordplay",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns/sound-alike-substitution",
+                      "name": "Sound-alike substitution",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/mechanics-and-patterns/word-blending",
+                      "name": "Word blending",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/timing-and-delivery/emphasize-the-pivot-word",
+                      "name": "Emphasize the pivot word",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/timing-and-delivery/reveal-the-alternate-meaning",
+                      "name": "Reveal the alternate meaning",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/timing-and-delivery/let-the-audience-resolve-the-pun",
+                      "name": "Let the audience resolve the pun",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/puns-and-wordplay/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "puns-and-wordplay",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/one-liners",
+              "name": "One-liners",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/one-liners/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/mechanics-and-patterns/compressed-setup-and-payoff",
+                      "name": "Compressed setup and payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/mechanics-and-patterns/unexpected-final-word",
+                      "name": "Unexpected final word",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/mechanics-and-patterns/short-comparison",
+                      "name": "Short comparison",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/mechanics-and-patterns/single-sentence-reversal",
+                      "name": "Single-sentence reversal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/one-liners/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/timing-and-delivery/trim-unnecessary-setup",
+                      "name": "Trim unnecessary setup",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/timing-and-delivery/place-the-strongest-word-last",
+                      "name": "Place the strongest word last",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/timing-and-delivery/pause-after-the-line",
+                      "name": "Pause after the line",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/one-liners/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/one-liners/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "one-liners",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes",
+              "name": "Knock-knock jokes",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/mechanics-and-patterns/standard-call-and-response",
+                      "name": "Standard call-and-response",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/mechanics-and-patterns/name-becomes-a-phrase",
+                      "name": "Name becomes a phrase",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/mechanics-and-patterns/interrupting-response",
+                      "name": "Interrupting response",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/mechanics-and-patterns/repeated-sound-payoff",
+                      "name": "Repeated sound payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/timing-and-delivery/alternate-speakers-clearly",
+                      "name": "Alternate speakers clearly",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/timing-and-delivery/keep-the-expected-rhythm",
+                      "name": "Keep the expected rhythm",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/timing-and-delivery/break-the-rhythm-for-the-payoff",
+                      "name": "Break the rhythm for the payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/knock-knock-jokes/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "knock-knock-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax",
+              "name": "Anti-jokes and anticlimax",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/mechanics-and-patterns/ordinary-answer-to-a-joke-shaped-question",
+                      "name": "Ordinary answer to a joke-shaped question",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/mechanics-and-patterns/deliberately-mundane-outcome",
+                      "name": "Deliberately mundane outcome",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/mechanics-and-patterns/setup-promises-more-than-the-ending",
+                      "name": "Setup promises more than the ending",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/mechanics-and-patterns/refusal-of-the-expected-punchline",
+                      "name": "Refusal of the expected punchline",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/timing-and-delivery/straight-faced-delivery",
+                      "name": "Straight-faced delivery",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/timing-and-delivery/hold-the-unremarkable-result",
+                      "name": "Hold the unremarkable result",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/timing-and-delivery/let-the-missing-payoff-be-the-joke",
+                      "name": "Let the missing payoff be the joke",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/anti-jokes-and-anticlimax/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "anti-jokes-and-anticlimax",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor",
+              "name": "Deadpan and dry humor",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/mechanics-and-patterns/absurd-statement-presented-seriously",
+                      "name": "Absurd statement presented seriously",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/mechanics-and-patterns/deliberate-understatement",
+                      "name": "Deliberate understatement",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/mechanics-and-patterns/calm-reaction-to-chaos",
+                      "name": "Calm reaction to chaos",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/mechanics-and-patterns/matter-of-fact-contradiction",
+                      "name": "Matter-of-fact contradiction",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/timing-and-delivery/neutral-expression",
+                      "name": "Neutral expression",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/timing-and-delivery/restrained-voice",
+                      "name": "Restrained voice",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/timing-and-delivery/leave-space-after-the-statement",
+                      "name": "Leave space after the statement",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/deadpan-and-dry-humor/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "deadpan-and-dry-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals",
+              "name": "Misdirection and reversals",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/mechanics-and-patterns/expected-explanation-replaced",
+                      "name": "Expected explanation replaced",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/mechanics-and-patterns/ambiguous-setup-resolved-differently",
+                      "name": "Ambiguous setup resolved differently",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/mechanics-and-patterns/final-word-changes-the-meaning",
+                      "name": "Final word changes the meaning",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/mechanics-and-patterns/apparent-problem-becomes-an-advantage",
+                      "name": "Apparent problem becomes an advantage",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/timing-and-delivery/guide-the-first-interpretation",
+                      "name": "Guide the first interpretation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/timing-and-delivery/delay-the-key-detail",
+                      "name": "Delay the key detail",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/timing-and-delivery/make-the-reveal-understandable",
+                      "name": "Make the reveal understandable",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misdirection-and-reversals/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misdirection-and-reversals",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/observational-jokes",
+              "name": "Observational jokes",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/observational-jokes/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/mechanics-and-patterns/recognizable-everyday-habit",
+                      "name": "Recognizable everyday habit",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/mechanics-and-patterns/tiny-annoyance-exaggerated",
+                      "name": "Tiny annoyance exaggerated",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/mechanics-and-patterns/unspoken-social-rule",
+                      "name": "Unspoken social rule",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/mechanics-and-patterns/odd-detail-everyone-overlooks",
+                      "name": "Odd detail everyone overlooks",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/observational-jokes/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/timing-and-delivery/start-with-a-concrete-example",
+                      "name": "Start with a concrete example",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/timing-and-delivery/use-precise-relatable-details",
+                      "name": "Use precise relatable details",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/timing-and-delivery/finish-with-a-fresh-comparison",
+                      "name": "Finish with a fresh comparison",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/observational-jokes/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/observational-jokes/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "observational-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes",
+              "name": "Absurdist and surreal jokes",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/mechanics-and-patterns/impossible-event-treated-as-normal",
+                      "name": "Impossible event treated as normal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/mechanics-and-patterns/unrelated-ideas-joined-by-strange-logic",
+                      "name": "Unrelated ideas joined by strange logic",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/mechanics-and-patterns/ordinary-rule-applied-to-an-impossible-world",
+                      "name": "Ordinary rule applied to an impossible world",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/mechanics-and-patterns/reality-changes-without-explanation",
+                      "name": "Reality changes without explanation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/timing-and-delivery/commit-to-the-internal-logic",
+                      "name": "Commit to the internal logic",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/timing-and-delivery/keep-character-reactions-consistent",
+                      "name": "Keep character reactions consistent",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/timing-and-delivery/use-the-ending-to-reframe-the-setup",
+                      "name": "Use the ending to reframe the setup",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/absurdist-and-surreal-jokes/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "absurdist-and-surreal-jokes",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/visual-gags",
+              "name": "Visual gags",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/visual-gags/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/mechanics-and-patterns/background-detail-contradicts-dialogue",
+                      "name": "Background detail contradicts dialogue",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/mechanics-and-patterns/unexpected-object-reveal",
+                      "name": "Unexpected object reveal",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/mechanics-and-patterns/scale-mismatch",
+                      "name": "Scale mismatch",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/mechanics-and-patterns/image-completes-a-spoken-phrase",
+                      "name": "Image completes a spoken phrase",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/visual-gags/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/timing-and-delivery/control-what-is-visible",
+                      "name": "Control what is visible",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/timing-and-delivery/choose-the-revealing-frame",
+                      "name": "Choose the revealing frame",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/timing-and-delivery/hold-long-enough-to-notice",
+                      "name": "Hold long enough to notice",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/visual-gags/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/visual-gags/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "visual-gags",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy",
+              "name": "Slapstick and physical comedy",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/mechanics-and-patterns/exaggerated-movement",
+                      "name": "Exaggerated movement",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/mechanics-and-patterns/prop-mishap",
+                      "name": "Prop mishap",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/mechanics-and-patterns/clumsy-recovery",
+                      "name": "Clumsy recovery",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/mechanics-and-patterns/chain-reaction",
+                      "name": "Chain reaction",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/mechanics-and-patterns/near-miss-followed-by-a-harmless-surprise",
+                      "name": "Near miss followed by a harmless surprise",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/timing-and-delivery/readable-body-staging",
+                      "name": "Readable body staging",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/timing-and-delivery/anticipation-before-action",
+                      "name": "Anticipation before action",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/timing-and-delivery/reaction-after-the-physical-payoff",
+                      "name": "Reaction after the physical payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/slapstick-and-physical-comedy/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "slapstick-and-physical-comedy",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor",
+              "name": "Self-deprecating humor",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/mechanics-and-patterns/small-personal-mistake",
+                      "name": "Small personal mistake",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/mechanics-and-patterns/overconfident-setup-meets-reality",
+                      "name": "Overconfident setup meets reality",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/mechanics-and-patterns/contradiction-in-one-s-own-behavior",
+                      "name": "Contradiction in one’s own behavior",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/mechanics-and-patterns/harmless-awkward-confession",
+                      "name": "Harmless awkward confession",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/timing-and-delivery/keep-the-target-specific",
+                      "name": "Keep the target specific",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/timing-and-delivery/avoid-turning-the-bit-into-self-loathing",
+                      "name": "Avoid turning the bit into self-loathing",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/timing-and-delivery/end-on-a-shared-human-observation",
+                      "name": "End on a shared human observation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/self-deprecating-humor/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "self-deprecating-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony",
+              "name": "Sarcasm and verbal irony",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/mechanics-and-patterns/say-the-opposite-of-the-visible-situation",
+                      "name": "Say the opposite of the visible situation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/mechanics-and-patterns/overpraise-an-obviously-tiny-achievement",
+                      "name": "Overpraise an obviously tiny achievement",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/mechanics-and-patterns/polite-words-with-a-clear-comic-mismatch",
+                      "name": "Polite words with a clear comic mismatch",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/mechanics-and-patterns/mock-serious-agreement",
+                      "name": "Mock-serious agreement",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/timing-and-delivery/make-the-intended-meaning-readable",
+                      "name": "Make the intended meaning readable",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/timing-and-delivery/match-the-audience-context",
+                      "name": "Match the audience context",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/timing-and-delivery/compare-sincere-and-sarcastic-versions",
+                      "name": "Compare sincere and sarcastic versions",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/sarcasm-and-verbal-irony/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "sarcasm-and-verbal-irony",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony",
+              "name": "Situational and dramatic irony",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/mechanics-and-patterns/outcome-contradicts-the-plan",
+                      "name": "Outcome contradicts the plan",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/mechanics-and-patterns/audience-knows-something-the-character-does-not",
+                      "name": "Audience knows something the character does not",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/mechanics-and-patterns/attempted-solution-creates-the-problem",
+                      "name": "Attempted solution creates the problem",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/mechanics-and-patterns/confident-prediction-immediately-fails",
+                      "name": "Confident prediction immediately fails",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/timing-and-delivery/establish-the-expectation",
+                      "name": "Establish the expectation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/timing-and-delivery/give-the-audience-the-needed-information",
+                      "name": "Give the audience the needed information",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/timing-and-delivery/pay-off-the-contrast",
+                      "name": "Pay off the contrast",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/situational-and-dramatic-irony/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "situational-and-dramatic-irony",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/parody-and-spoof",
+              "name": "Parody and spoof",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/mechanics-and-patterns/recognizable-genre-convention-exaggerated",
+                      "name": "Recognizable genre convention exaggerated",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/mechanics-and-patterns/commercial-format-used-for-a-trivial-object",
+                      "name": "Commercial format used for a trivial object",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/mechanics-and-patterns/dramatic-trailer-for-an-ordinary-task",
+                      "name": "Dramatic trailer for an ordinary task",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/mechanics-and-patterns/tutorial-format-applied-to-an-absurd-skill",
+                      "name": "Tutorial format applied to an absurd skill",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/timing-and-delivery/establish-the-borrowed-format",
+                      "name": "Establish the borrowed format",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/timing-and-delivery/choose-a-specific-convention-to-exaggerate",
+                      "name": "Choose a specific convention to exaggerate",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/timing-and-delivery/keep-the-joke-legible-without-copying-a-full-script",
+                      "name": "Keep the joke legible without copying a full script",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/parody-and-spoof/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "parody-and-spoof",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/satire",
+              "name": "Satire",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/satire/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/mechanics-and-patterns/exaggerated-rule-exposes-a-contradiction",
+                      "name": "Exaggerated rule exposes a contradiction",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/mechanics-and-patterns/ironic-comparison-of-stated-goals-and-behavior",
+                      "name": "Ironic comparison of stated goals and behavior",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/mechanics-and-patterns/fictional-scenario-highlights-a-real-pattern",
+                      "name": "Fictional scenario highlights a real pattern",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/mechanics-and-patterns/mock-announcement-reveals-an-absurd-incentive",
+                      "name": "Mock announcement reveals an absurd incentive",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/satire/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/timing-and-delivery/choose-a-clear-subject",
+                      "name": "Choose a clear subject",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/timing-and-delivery/make-the-point-through-the-situation",
+                      "name": "Make the point through the situation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/timing-and-delivery/distinguish-the-fictional-scenario-from-a-factual-claim",
+                      "name": "Distinguish the fictional scenario from a factual claim",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/satire/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/satire/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "satire",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/rule-of-three",
+              "name": "Rule of three",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/rule-of-three/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/mechanics-and-patterns/two-ordinary-items-establish-a-pattern",
+                      "name": "Two ordinary items establish a pattern",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/mechanics-and-patterns/third-item-breaks-the-pattern",
+                      "name": "Third item breaks the pattern",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/mechanics-and-patterns/third-repetition-changes-the-stakes",
+                      "name": "Third repetition changes the stakes",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/mechanics-and-patterns/three-step-escalation",
+                      "name": "Three-step escalation",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/rule-of-three/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/timing-and-delivery/match-the-first-two-beats",
+                      "name": "Match the first two beats",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/timing-and-delivery/give-the-third-beat-emphasis",
+                      "name": "Give the third beat emphasis",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/timing-and-delivery/avoid-explaining-the-surprise",
+                      "name": "Avoid explaining the surprise",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/rule-of-three/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/rule-of-three/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "rule-of-three",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags",
+              "name": "Callbacks and running gags",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/mechanics-and-patterns/return-to-an-earlier-line",
+                      "name": "Return to an earlier line",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/mechanics-and-patterns/recurring-prop",
+                      "name": "Recurring prop",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/mechanics-and-patterns/repeated-character-mistake",
+                      "name": "Repeated character mistake",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/mechanics-and-patterns/earlier-detail-becomes-the-final-payoff",
+                      "name": "Earlier detail becomes the final payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/timing-and-delivery/track-the-original-setup",
+                      "name": "Track the original setup",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/timing-and-delivery/vary-each-repetition",
+                      "name": "Vary each repetition",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/timing-and-delivery/use-the-strongest-callback-near-the-ending",
+                      "name": "Use the strongest callback near the ending",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/callbacks-and-running-gags/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "callbacks-and-running-gags",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires",
+              "name": "Misunderstanding and crossed wires",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/mechanics-and-patterns/one-phrase-has-two-interpretations",
+                      "name": "One phrase has two interpretations",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/mechanics-and-patterns/characters-assume-different-situations",
+                      "name": "Characters assume different situations",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/mechanics-and-patterns/unclear-pronoun-creates-confusion",
+                      "name": "Unclear pronoun creates confusion",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/mechanics-and-patterns/instruction-followed-in-the-wrong-context",
+                      "name": "Instruction followed in the wrong context",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/timing-and-delivery/establish-both-interpretations",
+                      "name": "Establish both interpretations",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/timing-and-delivery/escalate-the-consequences",
+                      "name": "Escalate the consequences",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/timing-and-delivery/resolve-or-reveal-the-crossed-assumptions",
+                      "name": "Resolve or reveal the crossed assumptions",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/misunderstanding-and-crossed-wires/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "misunderstanding-and-crossed-wires",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration",
+              "name": "Escalation and exaggeration",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/mechanics-and-patterns/small-problem-grows-through-repeated-attempts",
+                      "name": "Small problem grows through repeated attempts",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/mechanics-and-patterns/increasingly-specific-excuse",
+                      "name": "Increasingly specific excuse",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/mechanics-and-patterns/ordinary-claim-becomes-wildly-exaggerated",
+                      "name": "Ordinary claim becomes wildly exaggerated",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/mechanics-and-patterns/character-doubles-down-on-a-silly-rule",
+                      "name": "Character doubles down on a silly rule",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/timing-and-delivery/start-with-a-readable-baseline",
+                      "name": "Start with a readable baseline",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/timing-and-delivery/change-the-scale-each-beat",
+                      "name": "Change the scale each beat",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/timing-and-delivery/finish-at-the-strongest-understandable-version",
+                      "name": "Finish at the strongest understandable version",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/escalation-and-exaggeration/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "escalation-and-exaggeration",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor",
+              "name": "Meta and self-aware humor",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/mechanics-and-patterns/character-notices-the-video-format",
+                      "name": "Character notices the video format",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/mechanics-and-patterns/narrator-comments-on-the-joke-structure",
+                      "name": "Narrator comments on the joke structure",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/mechanics-and-patterns/caption-disagrees-with-the-speaker",
+                      "name": "Caption disagrees with the speaker",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/mechanics-and-patterns/creator-interrupts-an-expected-editing-convention",
+                      "name": "Creator interrupts an expected editing convention",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/timing-and-delivery/establish-the-convention-first",
+                      "name": "Establish the convention first",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/timing-and-delivery/choose-the-moment-to-acknowledge-it",
+                      "name": "Choose the moment to acknowledge it",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/timing-and-delivery/return-to-the-scene-after-the-interruption",
+                      "name": "Return to the scene after the interruption",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/meta-and-self-aware-humor/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "meta-and-self-aware-humor",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs",
+              "name": "Shaggy-dog stories and long-form anti-payoffs",
+              "children": [
+                {
+                  "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/mechanics-and-patterns",
+                  "name": "Mechanics and patterns",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/mechanics-and-patterns/over-detailed-ordinary-story",
+                      "name": "Over-detailed ordinary story",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/mechanics-and-patterns/repeated-detours-before-a-tiny-ending",
+                      "name": "Repeated detours before a tiny ending",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/mechanics-and-patterns/elaborate-setup-for-a-simple-pun",
+                      "name": "Elaborate setup for a simple pun",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/mechanics-and-patterns/deliberately-disproportionate-setup-and-payoff",
+                      "name": "Deliberately disproportionate setup and payoff",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "mechanics-and-patterns"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/timing-and-delivery",
+                  "name": "Timing and delivery",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/timing-and-delivery/make-each-detour-intentional",
+                      "name": "Make each detour intentional",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/timing-and-delivery/track-audience-expectations",
+                      "name": "Track audience expectations",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/timing-and-delivery/decide-whether-the-ending-rewards-the-long-setup",
+                      "name": "Decide whether the ending rewards the long setup",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "timing-and-delivery"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                },
+                {
+                  "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/reference-studies",
+                  "name": "Reference studies",
+                  "children": [
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/reference-studies/original-video-or-joke-reference",
+                      "name": "Original video or joke reference",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/reference-studies/setup-pivot-punchline-breakdown",
+                      "name": "Setup → pivot → punchline breakdown",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    },
+                    {
+                      "id": "storytelling-and-editing/comedy-formats/shaggy-dog-stories-and-long-form-anti-payoffs/reference-studies/reusable-script-and-visual-blueprint",
+                      "name": "Reusable script and visual blueprint",
+                      "status": "planned",
+                      "priority": "normal",
+                      "tags": [
+                        "shaggy-dog-stories-and-long-form-anti-payoffs",
+                        "reference-studies"
+                      ],
+                      "notes": "",
+                      "references": [],
+                      "preview": null,
+                      "code": null,
+                      "files": [],
+                      "license": null,
+                      "variants": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },

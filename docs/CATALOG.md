@@ -3686,6 +3686,407 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Expression → literal meaning → visual payoff
 - [ ] Reusable literal-joke script blueprint
 - [ ] Original literal-joke ideas
+#### Dad jokes
+
+##### Mechanics and patterns
+
+- [ ] Corny question-and-answer pun
+- [ ] Homophone misunderstanding
+- [ ] Familiar phrase with a silly twist
+- [ ] Overly obvious literal answer
+- [ ] Groan-worthy word substitution
+- [ ] Wholesome everyday setup
+##### Timing and delivery
+
+- [ ] Earnest delivery
+- [ ] Pause before the obvious pun
+- [ ] Reaction after the punchline
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Puns and wordplay
+
+##### Mechanics and patterns
+
+- [ ] Homophones
+- [ ] Multiple word meanings
+- [ ] Compound-word split
+- [ ] Name-based wordplay
+- [ ] Sound-alike substitution
+- [ ] Word blending
+##### Timing and delivery
+
+- [ ] Emphasize the pivot word
+- [ ] Reveal the alternate meaning
+- [ ] Let the audience resolve the pun
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### One-liners
+
+##### Mechanics and patterns
+
+- [ ] Compressed setup and payoff
+- [ ] Unexpected final word
+- [ ] Short comparison
+- [ ] Single-sentence reversal
+##### Timing and delivery
+
+- [ ] Trim unnecessary setup
+- [ ] Place the strongest word last
+- [ ] Pause after the line
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Knock-knock jokes
+
+##### Mechanics and patterns
+
+- [ ] Standard call-and-response
+- [ ] Name becomes a phrase
+- [ ] Interrupting response
+- [ ] Repeated sound payoff
+##### Timing and delivery
+
+- [ ] Alternate speakers clearly
+- [ ] Keep the expected rhythm
+- [ ] Break the rhythm for the payoff
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Anti-jokes and anticlimax
+
+##### Mechanics and patterns
+
+- [ ] Ordinary answer to a joke-shaped question
+- [ ] Deliberately mundane outcome
+- [ ] Setup promises more than the ending
+- [ ] Refusal of the expected punchline
+##### Timing and delivery
+
+- [ ] Straight-faced delivery
+- [ ] Hold the unremarkable result
+- [ ] Let the missing payoff be the joke
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Deadpan and dry humor
+
+##### Mechanics and patterns
+
+- [ ] Absurd statement presented seriously
+- [ ] Deliberate understatement
+- [ ] Calm reaction to chaos
+- [ ] Matter-of-fact contradiction
+##### Timing and delivery
+
+- [ ] Neutral expression
+- [ ] Restrained voice
+- [ ] Leave space after the statement
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Misdirection and reversals
+
+##### Mechanics and patterns
+
+- [ ] Expected explanation replaced
+- [ ] Ambiguous setup resolved differently
+- [ ] Final word changes the meaning
+- [ ] Apparent problem becomes an advantage
+##### Timing and delivery
+
+- [ ] Guide the first interpretation
+- [ ] Delay the key detail
+- [ ] Make the reveal understandable
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Observational jokes
+
+##### Mechanics and patterns
+
+- [ ] Recognizable everyday habit
+- [ ] Tiny annoyance exaggerated
+- [ ] Unspoken social rule
+- [ ] Odd detail everyone overlooks
+##### Timing and delivery
+
+- [ ] Start with a concrete example
+- [ ] Use precise relatable details
+- [ ] Finish with a fresh comparison
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Absurdist and surreal jokes
+
+##### Mechanics and patterns
+
+- [ ] Impossible event treated as normal
+- [ ] Unrelated ideas joined by strange logic
+- [ ] Ordinary rule applied to an impossible world
+- [ ] Reality changes without explanation
+##### Timing and delivery
+
+- [ ] Commit to the internal logic
+- [ ] Keep character reactions consistent
+- [ ] Use the ending to reframe the setup
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Visual gags
+
+##### Mechanics and patterns
+
+- [ ] Background detail contradicts dialogue
+- [ ] Unexpected object reveal
+- [ ] Scale mismatch
+- [ ] Image completes a spoken phrase
+##### Timing and delivery
+
+- [ ] Control what is visible
+- [ ] Choose the revealing frame
+- [ ] Hold long enough to notice
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Slapstick and physical comedy
+
+##### Mechanics and patterns
+
+- [ ] Exaggerated movement
+- [ ] Prop mishap
+- [ ] Clumsy recovery
+- [ ] Chain reaction
+- [ ] Near miss followed by a harmless surprise
+##### Timing and delivery
+
+- [ ] Readable body staging
+- [ ] Anticipation before action
+- [ ] Reaction after the physical payoff
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Self-deprecating humor
+
+##### Mechanics and patterns
+
+- [ ] Small personal mistake
+- [ ] Overconfident setup meets reality
+- [ ] Contradiction in one’s own behavior
+- [ ] Harmless awkward confession
+##### Timing and delivery
+
+- [ ] Keep the target specific
+- [ ] Avoid turning the bit into self-loathing
+- [ ] End on a shared human observation
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Sarcasm and verbal irony
+
+##### Mechanics and patterns
+
+- [ ] Say the opposite of the visible situation
+- [ ] Overpraise an obviously tiny achievement
+- [ ] Polite words with a clear comic mismatch
+- [ ] Mock-serious agreement
+##### Timing and delivery
+
+- [ ] Make the intended meaning readable
+- [ ] Match the audience context
+- [ ] Compare sincere and sarcastic versions
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Situational and dramatic irony
+
+##### Mechanics and patterns
+
+- [ ] Outcome contradicts the plan
+- [ ] Audience knows something the character does not
+- [ ] Attempted solution creates the problem
+- [ ] Confident prediction immediately fails
+##### Timing and delivery
+
+- [ ] Establish the expectation
+- [ ] Give the audience the needed information
+- [ ] Pay off the contrast
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Parody and spoof
+
+##### Mechanics and patterns
+
+- [ ] Recognizable genre convention exaggerated
+- [ ] Commercial format used for a trivial object
+- [ ] Dramatic trailer for an ordinary task
+- [ ] Tutorial format applied to an absurd skill
+##### Timing and delivery
+
+- [ ] Establish the borrowed format
+- [ ] Choose a specific convention to exaggerate
+- [ ] Keep the joke legible without copying a full script
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Satire
+
+##### Mechanics and patterns
+
+- [ ] Exaggerated rule exposes a contradiction
+- [ ] Ironic comparison of stated goals and behavior
+- [ ] Fictional scenario highlights a real pattern
+- [ ] Mock announcement reveals an absurd incentive
+##### Timing and delivery
+
+- [ ] Choose a clear subject
+- [ ] Make the point through the situation
+- [ ] Distinguish the fictional scenario from a factual claim
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Rule of three
+
+##### Mechanics and patterns
+
+- [ ] Two ordinary items establish a pattern
+- [ ] Third item breaks the pattern
+- [ ] Third repetition changes the stakes
+- [ ] Three-step escalation
+##### Timing and delivery
+
+- [ ] Match the first two beats
+- [ ] Give the third beat emphasis
+- [ ] Avoid explaining the surprise
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Callbacks and running gags
+
+##### Mechanics and patterns
+
+- [ ] Return to an earlier line
+- [ ] Recurring prop
+- [ ] Repeated character mistake
+- [ ] Earlier detail becomes the final payoff
+##### Timing and delivery
+
+- [ ] Track the original setup
+- [ ] Vary each repetition
+- [ ] Use the strongest callback near the ending
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Misunderstanding and crossed wires
+
+##### Mechanics and patterns
+
+- [ ] One phrase has two interpretations
+- [ ] Characters assume different situations
+- [ ] Unclear pronoun creates confusion
+- [ ] Instruction followed in the wrong context
+##### Timing and delivery
+
+- [ ] Establish both interpretations
+- [ ] Escalate the consequences
+- [ ] Resolve or reveal the crossed assumptions
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Escalation and exaggeration
+
+##### Mechanics and patterns
+
+- [ ] Small problem grows through repeated attempts
+- [ ] Increasingly specific excuse
+- [ ] Ordinary claim becomes wildly exaggerated
+- [ ] Character doubles down on a silly rule
+##### Timing and delivery
+
+- [ ] Start with a readable baseline
+- [ ] Change the scale each beat
+- [ ] Finish at the strongest understandable version
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Meta and self-aware humor
+
+##### Mechanics and patterns
+
+- [ ] Character notices the video format
+- [ ] Narrator comments on the joke structure
+- [ ] Caption disagrees with the speaker
+- [ ] Creator interrupts an expected editing convention
+##### Timing and delivery
+
+- [ ] Establish the convention first
+- [ ] Choose the moment to acknowledge it
+- [ ] Return to the scene after the interruption
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
+#### Shaggy-dog stories and long-form anti-payoffs
+
+##### Mechanics and patterns
+
+- [ ] Over-detailed ordinary story
+- [ ] Repeated detours before a tiny ending
+- [ ] Elaborate setup for a simple pun
+- [ ] Deliberately disproportionate setup and payoff
+##### Timing and delivery
+
+- [ ] Make each detour intentional
+- [ ] Track audience expectations
+- [ ] Decide whether the ending rewards the long setup
+##### Reference studies
+
+- [ ] Original video or joke reference
+- [ ] Setup → pivot → punchline breakdown
+- [ ] Reusable script and visual blueprint
 ### Creator studies — Entertainment-led brand stories
 
 #### Wants and Needs

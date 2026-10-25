@@ -21,3 +21,5 @@ Start with an explicit shortlist of usable entries. If no usable implementation 
 For comment and reply requests, read `references/comments-and-replies.md`. Use actual video and thread context plus collected examples; distinguish example analysis from a newly drafted reply.
 
 For meme posts and reply media, use `references/memes-and-reactions.md`. Keep editing-style references, reusable blank templates, and ready-made reaction assets distinct.
+
+For joke construction and comedy references, read `references/comedy-formats.md` and search Storytelling → Comedy formats.

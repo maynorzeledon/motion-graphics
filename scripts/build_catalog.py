@@ -296,6 +296,8 @@ from comment_catalog import extend_comments
 extend_comments(group)
 from meme_catalog import extend_memes, enrich_memes
 extend_memes(group)
+from joke_catalog import extend_jokes
+extend_jokes(group)
 
 # Generate stable IDs; do not create speculative combinations across every subject.
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
