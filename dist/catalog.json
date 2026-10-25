@@ -64033,6 +64033,3452 @@
           ]
         }
       ]
+    },
+    {
+      "id": "comments-and-replies",
+      "name": "Comments and replies",
+      "children": [
+        {
+          "id": "comments-and-replies/gen-z-and-internet-humor",
+          "name": "Gen Z and internet humor",
+          "children": [
+            {
+              "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices",
+              "name": "Casual voices",
+              "children": [
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices/lowercase-conversational",
+                  "name": "Lowercase conversational",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "casual-voices"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices/dry-understatement",
+                  "name": "Dry understatement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "casual-voices"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices/playful-exaggeration",
+                  "name": "Playful exaggeration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "casual-voices"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices/self-aware-reaction",
+                  "name": "Self-aware reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "casual-voices"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices/mock-serious-analysis",
+                  "name": "Mock-serious analysis",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "casual-voices"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/casual-voices/wholesome-internet-humor",
+                  "name": "Wholesome internet humor",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "casual-voices"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies",
+              "name": "Absurdist replies",
+              "children": [
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies/unexpected-comparison",
+                  "name": "Unexpected comparison",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "absurdist-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies/overly-literal-interpretation",
+                  "name": "Overly literal interpretation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "absurdist-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies/escalate-one-tiny-detail",
+                  "name": "Escalate one tiny detail",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "absurdist-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies/invent-a-silly-explanation",
+                  "name": "Invent a silly explanation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "absurdist-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies/treat-a-small-moment-as-a-major-event",
+                  "name": "Treat a small moment as a major event",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "absurdist-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/absurdist-replies/surreal-callback",
+                  "name": "Surreal callback",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "absurdist-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies",
+              "name": "Internet language studies",
+              "children": [
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/slang-used-naturally",
+                  "name": "Slang used naturally",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/slang-free-alternative",
+                  "name": "Slang-free alternative",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/emoji-as-punctuation",
+                  "name": "Emoji as punctuation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/emoji-free-alternative",
+                  "name": "Emoji-free alternative",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/short-reaction-phrase",
+                  "name": "Short reaction phrase",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/context-specific-meme-reference",
+                  "name": "Context-specific meme reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/dated-slang-notes",
+                  "name": "Dated slang notes",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/gen-z-and-internet-humor/internet-language-studies/community-specific-vocabulary",
+                  "name": "Community-specific vocabulary",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "gen-z-and-internet-humor",
+                    "internet-language-studies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/brand-replies",
+          "name": "Brand replies",
+          "children": [
+            {
+              "id": "comments-and-replies/brand-replies/brand-personalities",
+              "name": "Brand personalities",
+              "children": [
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/playful-and-witty",
+                  "name": "Playful and witty",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/warm-and-helpful",
+                  "name": "Warm and helpful",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/premium-and-restrained",
+                  "name": "Premium and restrained",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/bold-challenger",
+                  "name": "Bold challenger",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/wholesome-and-supportive",
+                  "name": "Wholesome and supportive",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/technical-expert",
+                  "name": "Technical expert",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/minimal-and-direct",
+                  "name": "Minimal and direct",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/brand-personalities/friendly-local-business",
+                  "name": "Friendly local business",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "brand-personalities"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/brand-replies/community-interactions",
+              "name": "Community interactions",
+              "children": [
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/respond-to-a-joke",
+                  "name": "Respond to a joke",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/celebrate-a-customer",
+                  "name": "Celebrate a customer",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/answer-a-product-question",
+                  "name": "Answer a product question",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/acknowledge-useful-feedback",
+                  "name": "Acknowledge useful feedback",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/reply-to-a-creator-mention",
+                  "name": "Reply to a creator mention",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/join-a-relevant-trend",
+                  "name": "Join a relevant trend",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/thank-someone-naturally",
+                  "name": "Thank someone naturally",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/community-interactions/give-credit",
+                  "name": "Give credit",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "community-interactions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/brand-replies/service-and-sensitive-replies",
+              "name": "Service and sensitive replies",
+              "children": [
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/clarify-confusion",
+                  "name": "Clarify confusion",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/acknowledge-a-mistake",
+                  "name": "Acknowledge a mistake",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/apologize-with-a-concrete-next-step",
+                  "name": "Apologize with a concrete next step",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/explain-a-limitation",
+                  "name": "Explain a limitation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/move-private-details-to-support",
+                  "name": "Move private details to support",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/set-a-calm-boundary",
+                  "name": "Set a calm boundary",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/respond-to-criticism",
+                  "name": "Respond to criticism",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/brand-replies/service-and-sensitive-replies/follow-up-after-resolution",
+                  "name": "Follow up after resolution",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "brand-replies",
+                    "service-and-sensitive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/comedy-and-wordplay",
+          "name": "Comedy and wordplay",
+          "children": [
+            {
+              "id": "comments-and-replies/comedy-and-wordplay/joke-structures",
+              "name": "Joke structures",
+              "children": [
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/callback-to-the-video",
+                  "name": "Callback to the video",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/setup-and-punchline",
+                  "name": "Setup and punchline",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/literal-joke",
+                  "name": "Literal joke",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/double-meaning",
+                  "name": "Double meaning",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/word-substitution",
+                  "name": "Word substitution",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/unexpected-analogy",
+                  "name": "Unexpected analogy",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/rule-of-three",
+                  "name": "Rule of three",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/reversal",
+                  "name": "Reversal",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/anti-joke",
+                  "name": "Anti-joke",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/joke-structures/understatement",
+                  "name": "Understatement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "joke-structures"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/comedy-and-wordplay/delivery-styles",
+              "name": "Delivery styles",
+              "children": [
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/one-line-deadpan",
+                  "name": "One-line deadpan",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/short-dramatic-reaction",
+                  "name": "Short dramatic reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/over-specific-observation",
+                  "name": "Over-specific observation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/mock-formal-reply",
+                  "name": "Mock formal reply",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/friendly-self-deprecation",
+                  "name": "Friendly self-deprecation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/playful-compliment",
+                  "name": "Playful compliment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/gentle-situational-roast",
+                  "name": "Gentle situational roast",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/delivery-styles/unexpected-sincere-ending",
+                  "name": "Unexpected sincere ending",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "delivery-styles"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/comedy-and-wordplay/reference-patterns",
+              "name": "Reference patterns",
+              "children": [
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/reference-patterns/quote-a-specific-moment",
+                  "name": "Quote a specific moment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "reference-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/reference-patterns/notice-a-background-detail",
+                  "name": "Notice a background detail",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "reference-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/reference-patterns/connect-the-ending-to-the-opening",
+                  "name": "Connect the ending to the opening",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "reference-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/reference-patterns/continue-the-premise",
+                  "name": "Continue the premise",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "reference-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/reference-patterns/answer-the-unspoken-question",
+                  "name": "Answer the unspoken question",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "reference-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/comedy-and-wordplay/reference-patterns/subvert-an-expected-response",
+                  "name": "Subvert an expected response",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "comedy-and-wordplay",
+                    "reference-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/thoughtful-and-supportive",
+          "name": "Thoughtful and supportive",
+          "children": [
+            {
+              "id": "comments-and-replies/thoughtful-and-supportive/positive-replies",
+              "name": "Positive replies",
+              "children": [
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/positive-replies/specific-compliment",
+                  "name": "Specific compliment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "positive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/positive-replies/recognize-effort",
+                  "name": "Recognize effort",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "positive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/positive-replies/encourage-progress",
+                  "name": "Encourage progress",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "positive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/positive-replies/celebrate-a-milestone",
+                  "name": "Celebrate a milestone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "positive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/positive-replies/appreciate-a-useful-explanation",
+                  "name": "Appreciate a useful explanation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "positive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/positive-replies/support-a-difficult-moment",
+                  "name": "Support a difficult moment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "positive-replies"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions",
+              "name": "Useful contributions",
+              "children": [
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions/add-relevant-context",
+                  "name": "Add relevant context",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "useful-contributions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions/ask-a-genuine-question",
+                  "name": "Ask a genuine question",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "useful-contributions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions/offer-a-concise-clarification",
+                  "name": "Offer a concise clarification",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "useful-contributions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions/share-a-relevant-resource",
+                  "name": "Share a relevant resource",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "useful-contributions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions/summarize-a-useful-takeaway",
+                  "name": "Summarize a useful takeaway",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "useful-contributions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/useful-contributions/connect-two-ideas",
+                  "name": "Connect two ideas",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "useful-contributions"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction",
+              "name": "Disagreement and correction",
+              "children": [
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction/respectful-disagreement",
+                  "name": "Respectful disagreement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "disagreement-and-correction"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction/ask-for-evidence",
+                  "name": "Ask for evidence",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "disagreement-and-correction"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction/correct-a-factual-detail",
+                  "name": "Correct a factual detail",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "disagreement-and-correction"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction/acknowledge-uncertainty",
+                  "name": "Acknowledge uncertainty",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "disagreement-and-correction"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction/find-common-ground",
+                  "name": "Find common ground",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "disagreement-and-correction"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/thoughtful-and-supportive/disagreement-and-correction/clarify-a-misunderstanding",
+                  "name": "Clarify a misunderstanding",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "thoughtful-and-supportive",
+                    "disagreement-and-correction"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/video-context-and-audience",
+          "name": "Video context and audience",
+          "children": [
+            {
+              "id": "comments-and-replies/video-context-and-audience/entertainment-contexts",
+              "name": "Entertainment contexts",
+              "children": [
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/comedy-sketch",
+                  "name": "Comedy sketch",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/surreal-sketch",
+                  "name": "Surreal sketch",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/literal-joke-video",
+                  "name": "Literal joke video",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/meme-edit",
+                  "name": "Meme edit",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/gaming-highlight",
+                  "name": "Gaming highlight",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/sports-moment",
+                  "name": "Sports moment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/music-performance",
+                  "name": "Music performance",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/lyric-video",
+                  "name": "Lyric video",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/pet-video",
+                  "name": "Pet video",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/entertainment-contexts/unexpected-ending",
+                  "name": "Unexpected ending",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "entertainment-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/video-context-and-audience/informative-contexts",
+              "name": "Informative contexts",
+              "children": [
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/science-explainer",
+                  "name": "Science explainer",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/history-documentary",
+                  "name": "History documentary",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/map-video",
+                  "name": "Map video",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/technology-review",
+                  "name": "Technology review",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/product-demonstration",
+                  "name": "Product demonstration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/tutorial",
+                  "name": "Tutorial",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/school-project",
+                  "name": "School project",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/informative-contexts/news-explanation",
+                  "name": "News explanation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "informative-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts",
+              "name": "Human and brand contexts",
+              "children": [
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/personal-achievement",
+                  "name": "Personal achievement",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/travel-story",
+                  "name": "Travel story",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/food-and-recipe",
+                  "name": "Food and recipe",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/creative-process",
+                  "name": "Creative process",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/small-business-post",
+                  "name": "Small business post",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/customer-story",
+                  "name": "Customer story",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/creator-collaboration",
+                  "name": "Creator collaboration",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/video-context-and-audience/human-and-brand-contexts/serious-personal-update",
+                  "name": "Serious personal update",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "video-context-and-audience",
+                    "human-and-brand-contexts"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/platforms-and-thread-formats",
+          "name": "Platforms and thread formats",
+          "children": [
+            {
+              "id": "comments-and-replies/platforms-and-thread-formats/comment-formats",
+              "name": "Comment formats",
+              "children": [
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/top-level-comment",
+                  "name": "Top-level comment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/reply-to-creator",
+                  "name": "Reply to creator",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/reply-to-another-viewer",
+                  "name": "Reply to another viewer",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/pinned-comment",
+                  "name": "Pinned comment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/creator-follow-up",
+                  "name": "Creator follow-up",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/answer-to-a-question",
+                  "name": "Answer to a question",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/short-one-liner",
+                  "name": "Short one-liner",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/comment-formats/two-sentence-response",
+                  "name": "Two-sentence response",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "comment-formats"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders",
+              "name": "Platform reference folders",
+              "children": [
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/instagram-reels-examples",
+                  "name": "Instagram Reels examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/tiktok-examples",
+                  "name": "TikTok examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/youtube-shorts-examples",
+                  "name": "YouTube Shorts examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/youtube-long-form-examples",
+                  "name": "YouTube long-form examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/reddit-thread-examples",
+                  "name": "Reddit thread examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/facebook-post-examples",
+                  "name": "Facebook post examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/platform-reference-folders/x-reply-examples",
+                  "name": "X reply examples",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "platform-reference-folders"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns",
+              "name": "Conversation patterns",
+              "children": [
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns/keep-a-running-joke-going",
+                  "name": "Keep a running joke going",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "conversation-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns/answer-then-add-a-detail",
+                  "name": "Answer then add a detail",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "conversation-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns/reference-the-parent-comment",
+                  "name": "Reference the parent comment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "conversation-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns/clarify-your-earlier-reply",
+                  "name": "Clarify your earlier reply",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "conversation-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns/repair-a-misread-tone",
+                  "name": "Repair a misread tone",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "conversation-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/platforms-and-thread-formats/conversation-patterns/close-a-resolved-conversation",
+                  "name": "Close a resolved conversation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "platforms-and-thread-formats",
+                    "conversation-patterns"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/reference-examples-and-analysis",
+          "name": "Reference examples and analysis",
+          "children": [
+            {
+              "id": "comments-and-replies/reference-examples-and-analysis/example-packets",
+              "name": "Example packets",
+              "children": [
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/original-video-or-source-link",
+                  "name": "Original video or source link",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/video-transcript-or-summary",
+                  "name": "Video transcript or summary",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/relevant-timestamp",
+                  "name": "Relevant timestamp",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/comment-thread-screenshot",
+                  "name": "Comment-thread screenshot",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/parent-comment-text",
+                  "name": "Parent comment text",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/reply-text",
+                  "name": "Reply text",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/creator-or-brand-voice-notes",
+                  "name": "Creator or brand voice notes",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/example-packets/why-the-reply-fits",
+                  "name": "Why the reply fits",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "example-packets"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records",
+              "name": "Observed response records",
+              "children": [
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/like-count-at-observation",
+                  "name": "Like count at observation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/reply-count-at-observation",
+                  "name": "Reply count at observation",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/posting-date",
+                  "name": "Posting date",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/observation-date",
+                  "name": "Observation date",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/pinned-status",
+                  "name": "Pinned status",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/creator-response",
+                  "name": "Creator response",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/audience-context",
+                  "name": "Audience context",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/platform-context",
+                  "name": "Platform context",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/observed-response-records/uncertainty-about-why-it-performed",
+                  "name": "Uncertainty about why it performed",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "observed-response-records"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints",
+              "name": "Reusable blueprints",
+              "children": [
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints/video-detail-concise-reaction",
+                  "name": "Video detail → concise reaction",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "reusable-blueprints"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints/parent-comment-callback",
+                  "name": "Parent comment → callback",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "reusable-blueprints"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints/question-helpful-answer",
+                  "name": "Question → helpful answer",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "reusable-blueprints"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints/misunderstanding-clarification",
+                  "name": "Misunderstanding → clarification",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "reusable-blueprints"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints/brand-mention-personality-plus-usefulness",
+                  "name": "Brand mention → personality plus usefulness",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "reusable-blueprints"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/reference-examples-and-analysis/reusable-blueprints/setup-literal-visual-reference",
+                  "name": "Setup → literal visual reference",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "reference-examples-and-analysis",
+                    "reusable-blueprints"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/writing-and-selection-workflow",
+          "name": "Writing and selection workflow",
+          "children": [
+            {
+              "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context",
+              "name": "Understand the context",
+              "children": [
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context/watch-or-read-the-actual-content",
+                  "name": "Watch or read the actual content",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "understand-the-context"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context/identify-the-strongest-specific-detail",
+                  "name": "Identify the strongest specific detail",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "understand-the-context"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context/read-the-parent-comment",
+                  "name": "Read the parent comment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "understand-the-context"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context/identify-the-intended-audience",
+                  "name": "Identify the intended audience",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "understand-the-context"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context/check-whether-humor-fits",
+                  "name": "Check whether humor fits",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "understand-the-context"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/understand-the-context/choose-language-and-register",
+                  "name": "Choose language and register",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "understand-the-context"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates",
+              "name": "Draft candidates",
+              "children": [
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates/write-a-concise-version",
+                  "name": "Write a concise version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "draft-candidates"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates/write-a-witty-version",
+                  "name": "Write a witty version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "draft-candidates"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates/write-a-thoughtful-version",
+                  "name": "Write a thoughtful version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "draft-candidates"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates/write-a-brand-voice-version",
+                  "name": "Write a brand-voice version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "draft-candidates"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates/write-a-slang-free-version",
+                  "name": "Write a slang-free version",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "draft-candidates"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/draft-candidates/preserve-the-intended-meaning",
+                  "name": "Preserve the intended meaning",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "draft-candidates"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine",
+              "name": "Evaluate and refine",
+              "children": [
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/specificity-to-this-video",
+                  "name": "Specificity to this video",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/naturalness",
+                  "name": "Naturalness",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/brevity",
+                  "name": "Brevity",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/clarity-of-the-joke",
+                  "name": "Clarity of the joke",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/fit-with-parent-comment",
+                  "name": "Fit with parent comment",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/voice-consistency",
+                  "name": "Voice consistency",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/avoid-a-repeated-generic-line",
+                  "name": "Avoid a repeated generic line",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/avoid-invented-personal-experience",
+                  "name": "Avoid invented personal experience",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/check-factual-claims",
+                  "name": "Check factual claims",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/writing-and-selection-workflow/evaluate-and-refine/remove-forced-slang",
+                  "name": "Remove forced slang",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "writing-and-selection-workflow",
+                    "evaluate-and-refine"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comments-and-replies/languages-and-cultural-context",
+          "name": "Languages and cultural context",
+          "children": [
+            {
+              "id": "comments-and-replies/languages-and-cultural-context/language-variants",
+              "name": "Language variants",
+              "children": [
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/language-variants/english-casual",
+                  "name": "English casual",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "language-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/language-variants/spanish-casual",
+                  "name": "Spanish casual",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "language-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/language-variants/bilingual-reply",
+                  "name": "Bilingual reply",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "language-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/language-variants/english-deadpan",
+                  "name": "English deadpan",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "language-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/language-variants/spanish-wordplay",
+                  "name": "Spanish wordplay",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "language-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/language-variants/translate-the-intent-rather-than-each-word",
+                  "name": "Translate the intent rather than each word",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "language-variants"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            },
+            {
+              "id": "comments-and-replies/languages-and-cultural-context/voice-calibration",
+              "name": "Voice calibration",
+              "children": [
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/voice-calibration/match-the-audience-vocabulary",
+                  "name": "Match the audience vocabulary",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/voice-calibration/explain-a-local-reference-in-notes",
+                  "name": "Explain a local reference in notes",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/voice-calibration/keep-an-expression-in-its-original-language",
+                  "name": "Keep an expression in its original language",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/voice-calibration/record-regional-meaning",
+                  "name": "Record regional meaning",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/voice-calibration/neutral-language-alternative",
+                  "name": "Neutral-language alternative",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                },
+                {
+                  "id": "comments-and-replies/languages-and-cultural-context/voice-calibration/compare-sincere-and-sarcastic-readings",
+                  "name": "Compare sincere and sarcastic readings",
+                  "status": "planned",
+                  "priority": "normal",
+                  "tags": [
+                    "languages-and-cultural-context",
+                    "voice-calibration"
+                  ],
+                  "notes": "",
+                  "references": [],
+                  "preview": null,
+                  "code": null,
+                  "files": [],
+                  "license": null,
+                  "variants": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

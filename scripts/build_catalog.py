@@ -292,6 +292,8 @@ for name,items in {
 
 from catalog_expansion import extend, organize
 extend(group)
+from comment_catalog import extend_comments
+extend_comments(group)
 
 # Generate stable IDs; do not create speculative combinations across every subject.
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')

@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**3,529 collection entries · 23 categories · nested browser · portable AI instructions**
+**3,719 collection entries · 24 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -45,8 +45,13 @@ Card navigation now opens every folder level; use the breadcrumbs or the expanda
 21. Storytelling — creator studies, hooks, story progression, scripts, visual breakdowns, and payoffs.
 22. Captions and localization — caption styles, translation, and accessibility.
 23. Voiceover and narration — voice direction, recording, pronunciation, and timing.
+24. Comments and replies — Gen Z and internet humor, brand voices, wordplay, thoughtful replies, context, and thread analysis.
 
 Browse the full [text checklist](docs/CATALOG.md). Edit `scripts/build_catalog.py` and `scripts/catalog_expansion.py`, then run `npm run build` to regenerate the catalog and checklist. IDs derive from the full hierarchy: preserve existing names and IDs when possible because saved progress uses IDs.
+
+## Comments and replies
+
+Use the Comments and replies tab to collect examples with their original video, parent comment, reply, voice, and explanation. Each entry has dedicated fields for context, reply text, analysis, and observed response. Attach thread screenshots and reference clips using the file-role selector. See `templates/comment-study.json` and `skills/motion-atlas/references/comments-and-replies.md`. Actual examples and likes are not pre-filled; checklist entries are collection targets.
 
 ## Add a real reference later
 
@@ -68,7 +73,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,529 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—3,719 empty folders would add clutter.
 
 ## Use with an AI
 

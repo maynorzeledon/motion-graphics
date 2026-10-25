@@ -1,6 +1,6 @@
 ---
 name: motion-atlas
-description: Find, collect, and reuse motion design references and code from the Motion Atlas repository. Use for animation, motion graphics, maps, UI choreography, styles, typography, audio selection, and adding reference videos or implementations to this collection.
+description: Find, collect, and reuse motion design references and code from the Motion Atlas repository. Use for animation, motion graphics, maps, UI choreography, styles, typography, audio selection, comment/reply voice studies, and adding reference videos or implementations to this collection.
 ---
 
 # Motion Atlas
@@ -17,3 +17,5 @@ Locate the repository root by its `dist/catalog.json`. Read its `AGENTS.md`. If 
 8. When collecting, store preview and code together with a manifest and source notes. Preserve stable taxonomy IDs, update only relevant records, and keep large media as external pointers until storage is chosen.
 
 Start with an explicit shortlist of usable entries. If no usable implementation exists, state that and build from the reference or create an original recipe as requested. Adding entries improves retrieval; it does not train the AI model.
+
+For comment and reply requests, read `references/comments-and-replies.md`. Use actual video and thread context plus collected examples; distinguish example analysis from a newly drafted reply.

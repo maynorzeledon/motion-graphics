@@ -1,0 +1,28 @@
+{
+  "catalogId": "replace-with-comment-entry-id",
+  "studyType": "comment",
+  "platform": "",
+  "videoSource": "",
+  "videoContext": "",
+  "relevantTimestamp": null,
+  "parentComment": "",
+  "replyTone": "",
+  "replyText": "",
+  "replyAnalysis": "",
+  "brandVoice": {
+    "personality": "",
+    "vocabulary": "",
+    "boundaries": ""
+  },
+  "observedResponse": {
+    "likes": null,
+    "replies": null,
+    "pinned": null,
+    "postedAt": null,
+    "observedAt": null,
+    "source": null
+  },
+  "references": [],
+  "files": [],
+  "adaptationNotes": ""
+}
