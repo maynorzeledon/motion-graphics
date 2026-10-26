@@ -2269,6 +2269,43 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Four-panel story
 - [ ] Polished satire card
 - [ ] Cropped screenshot caption
+### Television formats and sketch detours
+
+#### News broadcast treatment
+
+- [ ] Anchor desk framing
+- [ ] Reporter stand-up composition
+- [ ] Lower-third and location strap
+- [ ] Breaking-news sting
+- [ ] Live split-screen
+- [ ] Headline ticker
+- [ ] Field-report audio texture
+#### Cooking show treatment
+
+- [ ] Host facing the counter camera
+- [ ] Overhead preparation insert
+- [ ] Ingredient and measurement cards
+- [ ] Food texture close-ups
+- [ ] Timer and challenge graphics
+- [ ] Tasting reaction coverage
+- [ ] Finished-dish beauty shot
+#### Reality show treatment
+
+- [ ] Confessional interview framing
+- [ ] Reaction punch-in
+- [ ] Participant name identifier
+- [ ] Challenge countdown
+- [ ] Dramatic pause before judgment
+- [ ] Recap montage
+- [ ] Return-from-break visual cue
+#### Brief genre-switch editing
+
+- [ ] Establish the borrowed look in one shot
+- [ ] Switch music and ambience with the genre
+- [ ] Match each program’s graphics hierarchy
+- [ ] Use a hard cut for an abrupt identity change
+- [ ] Carry one prop across the visual change
+- [ ] Return to the original framing for the callback
 ## Video formats and scenes
 
 ### Social formats
@@ -5321,6 +5358,179 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Impossible consequence
 - [ ] Straight-faced delivery
 - [ ] Recursive ending
+### Emotional short films
+
+#### Sadness and loss
+
+- [ ] Ordinary routine establishes a meaningful bond
+- [ ] Small absence changes a familiar routine
+- [ ] Character avoids a reminder before confronting it
+- [ ] Everyday object carries a shared memory
+- [ ] Unsent message reveals what remains unsaid
+- [ ] Attempt to reconnect arrives too late
+- [ ] Quiet acceptance changes the final repeated action
+- [ ] Final image reinterprets the opening image
+#### Joy and warmth
+
+- [ ] Small wish introduced without a speech
+- [ ] Repeated failed attempts make a tiny win matter
+- [ ] Unexpected kindness interrupts an ordinary day
+- [ ] Character notices an overlooked act of care
+- [ ] Reunion pays off an established separation
+- [ ] Shared ritual becomes a celebration
+- [ ] Private success receives a sincere acknowledgment
+- [ ] Ending gives space to enjoy the result
+#### Hope and resilience
+
+- [ ] Specific obstacle blocks a modest goal
+- [ ] First attempt fails for an understandable reason
+- [ ] Small help makes another attempt possible
+- [ ] Character chooses a meaningful action despite uncertainty
+- [ ] Progress is visible before the final outcome
+- [ ] Bittersweet ending preserves a sense of possibility
+#### Nostalgia and bittersweet change
+
+- [ ] Return to a place that has changed
+- [ ] Repeat a childhood ritual in the present
+- [ ] Old recording contrasts with current life
+- [ ] Object passes from one generation to another
+- [ ] Happy memory complicates a sad present
+- [ ] Departure preserves a small familiar ritual
+#### Emotional construction and study packets
+
+- [ ] Desired starting and ending emotion
+- [ ] Character want and unmet need
+- [ ] What the audience knows before the character
+- [ ] Emotional turning-point beat sheet
+- [ ] Visual motif and its changing meaning
+- [ ] Dialogue-free version of the same scene
+- [ ] Restraint versus melodrama reference comparison
+- [ ] Transcript with visual and sound cues
+### Horror short films
+
+#### Suspense and dread
+
+- [ ] Establish the normal room before changing one detail
+- [ ] Character hears a sound with no visible source
+- [ ] Audience notices the threat before the character
+- [ ] Repeated routine gains a disturbing variation
+- [ ] Safe space becomes unreliable
+- [ ] False relief creates room for a second discovery
+- [ ] Reveal one clue while withholding the cause
+- [ ] End on a consequence rather than an explanation
+#### Horror premise families
+
+- [ ] One-room unexplained presence
+- [ ] Object obeys an impossible rule
+- [ ] Doppelganger copies a familiar person
+- [ ] Phone message predicts the next event
+- [ ] Found recording contradicts a memory
+- [ ] Ordinary household task reveals something wrong
+- [ ] Loop traps a character in a repeated moment
+- [ ] Friendly instruction slowly becomes threatening
+#### Scare structures
+
+- [ ] Plant a visual detail then change it offscreen
+- [ ] Anticipation → pause → reveal
+- [ ] Apparent threat → relief → actual threat
+- [ ] Offscreen action leaves visible evidence
+- [ ] Character tests a rule and discovers its cost
+- [ ] Final-frame reveal changes the whole scene
+#### Horror reference packets
+
+- [ ] Threat rules and limitations
+- [ ] What remains unseen and why
+- [ ] Suspense map with release points
+- [ ] Character decisions and available information
+- [ ] Clue placement and payoff sheet
+- [ ] Sound expectation versus actual event
+- [ ] Ending interpretation and supporting evidence
+### Television and program storytelling
+
+#### News broadcast
+
+- [ ] Headline → essential facts → context → implications
+- [ ] Anchor hands over to a field reporter
+- [ ] Live interruption changes the running story
+- [ ] Eyewitness account adds a new fact
+- [ ] Expert explains what remains uncertain
+- [ ] Chronological recap distinguishes known from unconfirmed
+- [ ] Correction updates an earlier claim
+- [ ] Closing recap answers the opening question
+#### Cooking and kitchen shows
+
+- [ ] Introduce the finished dish and its appeal
+- [ ] Explain the ingredient that makes the recipe work
+- [ ] Preparation → technique → transformation → tasting
+- [ ] Common mistake interrupts the smooth demonstration
+- [ ] Substitute an ingredient and explain the consequence
+- [ ] Timed challenge threatens the planned result
+- [ ] Taste test resolves the cooking promise
+- [ ] Final serving connects food to a personal memory
+#### Reality shows
+
+- [ ] Introduce conflicting participant goals
+- [ ] Rule announcement creates a shared constraint
+- [ ] Private confessional reinterprets a public interaction
+- [ ] Reaction exposes an unspoken disagreement
+- [ ] Competition escalates through a setback
+- [ ] Strategic choice changes an alliance
+- [ ] Judgment or elimination resolves immediate stakes
+- [ ] Aftermath teases a new relationship problem
+#### Other recognizable show formats
+
+- [ ] Nature documentary explains an ordinary human habit
+- [ ] Sports commentary tracks a mundane task
+- [ ] Game show turns a decision into a contest
+- [ ] Courtroom scene weighs competing versions of events
+- [ ] Infomercial exaggerates a trivial inconvenience
+- [ ] Talk show interview reveals an unexpected motive
+- [ ] True-crime investigation reconstructs a missing snack
+- [ ] Soap opera heightens an everyday disagreement
+- [ ] School lesson treats an absurd rule as normal
+- [ ] Weather report predicts a character’s mood
+### Format-switching sketches
+
+#### Abrupt genre-switch structures
+
+- [ ] Ordinary conversation becomes a news report
+- [ ] Kitchen task becomes an elimination cooking show
+- [ ] Minor disagreement becomes a courtroom trial
+- [ ] Daily chore becomes a narrated wildlife scene
+- [ ] Small victory becomes a sports replay analysis
+- [ ] Confusing message becomes a true-crime investigation
+- [ ] Private thought becomes a reality-show confessional
+- [ ] Simple choice becomes a game-show final
+#### Make a brief switch feel authentic
+
+- [ ] Preserve the original scene problem across the switch
+- [ ] Give each format a recognizable speaker role
+- [ ] Use the new format to reveal one relevant fact
+- [ ] Change the vocabulary and sentence rhythm
+- [ ] Adopt the format’s information order
+- [ ] Let characters accept the new rules without explanation
+- [ ] Build a miniature setup and payoff inside the detour
+- [ ] Return with a consequence from the switched scene
+#### Transitions and escalation
+
+- [ ] Single word motivates the format change
+- [ ] Object becomes a prop in the new program
+- [ ] Character reaction triggers a confessional cutaway
+- [ ] Unanswered question triggers a reporter handoff
+- [ ] Repeat the switch with higher stakes
+- [ ] Escalate through two distinct program formats
+- [ ] Snap back to the original scene mid-sentence
+- [ ] End on a callback to the first detour
+#### Grantbeans and jercho1 reference collection
+
+- [ ] Upload an actual format-switching example
+- [ ] Timecode the entry and exit of every format
+- [ ] Transcribe the change in character voice
+- [ ] Identify the premise preserved across formats
+- [ ] Separate narrative detour from editing treatment
+- [ ] Record what makes the brief imitation legible
+- [ ] Map the switch to its punchline
+- [ ] Draft an original sketch using the observed structure
 ## Captions and localization
 
 ### Caption looks
@@ -5976,3 +6186,710 @@ Generated from scripts/build_catalog.py. Entries begin as planned. Creator folde
 - [ ] Discord emote reference
 - [ ] Small-size readability
 - [ ] Transparent-edge check
+## Personal B-roll
+
+### Tech and desk
+
+#### Opening and closing a laptop
+
+- [ ] Wide desk setup before sitting down
+- [ ] Side close-up of hand lifting the lid
+- [ ] Over-the-shoulder screen waking up
+- [ ] Rear hinge close-up as the laptop opens
+- [ ] POV looking over the opening screen
+- [ ] Top-down lid opening on the desk
+- [ ] Close-up of closing the lid to end a scene
+#### Typing and using a computer
+
+- [ ] Top-down hands on keyboard
+- [ ] Low keyboard-level finger movement
+- [ ] Over-the-shoulder typing with screen context
+- [ ] Side profile working at the desk
+- [ ] Mouse click macro
+- [ ] Wide shot with monitor glow
+- [ ] Hand reaching into frame for the trackpad
+#### Phone use
+
+- [ ] Over-the-shoulder unlocking the phone
+- [ ] POV taking phone out of pocket
+- [ ] Close-up setting phone face down
+- [ ] Top-down phone placed beside notebook
+- [ ] Side shot picking up a ringing phone
+- [ ] Screen reflection on face
+- [ ] Close-up plugging in a charger
+#### Desk setup and accessories
+
+- [ ] Overhead arranging a keyboard and mouse
+- [ ] Close-up connecting a cable
+- [ ] Desk-level monitor light switching on
+- [ ] Side angle putting on headphones
+- [ ] POV adjusting monitor angle
+- [ ] Wide empty-to-ready desk sequence
+#### Tech unboxing
+
+- [ ] Top-down sealed box on desk
+- [ ] Close-up cutting packing tape
+- [ ] Side shot lifting the box lid
+- [ ] Macro peeling protective film
+- [ ] POV lifting the product out
+- [ ] Wide first-use setup
+#### Troubleshooting and packing tech
+
+- [ ] Close-up unplugging and reconnecting a cable
+- [ ] Over-the-shoulder checking a device
+- [ ] Top-down placing laptop in a sleeve
+- [ ] Low angle packing a charger into a bag
+- [ ] Close-up zipping the tech compartment
+- [ ] POV checking the desk before leaving
+### Home and daily routine
+
+#### Light switches and lamps
+
+- [ ] Side close-up turning a wall switch on
+- [ ] Finger macro pressing the switch off
+- [ ] Wide room before and after the light change
+- [ ] POV approaching the switch
+- [ ] Lamp in foreground while hand reaches from behind
+- [ ] Close-up turning a bedside lamp knob
+- [ ] Doorway silhouette when the room goes dark
+#### Doors and rooms
+
+- [ ] Wide entering a room
+- [ ] Camera inside the room as the door opens
+- [ ] POV hand turning a handle
+- [ ] Low angle stepping across the threshold
+- [ ] Close-up door latch
+- [ ] Behind-the-shoulder closing a door
+#### Morning routine
+
+- [ ] Bedside close-up stopping an alarm
+- [ ] Wide sitting up in bed
+- [ ] POV opening curtains
+- [ ] Backlit silhouette at the window
+- [ ] Top-down laying out morning essentials
+- [ ] Detail of feet touching the floor
+#### Evening routine
+
+- [ ] Wide switching off desk lights
+- [ ] Close-up setting an alarm
+- [ ] Side shot putting a book down
+- [ ] Top-down phone placed away from the bed
+- [ ] Doorway view of entering the bedroom
+- [ ] Close-up pulling a blanket into frame
+#### Cleaning and chores
+
+- [ ] Low angle shoes beside a vacuum
+- [ ] Top-down wiping a desk
+- [ ] Close-up folding a towel
+- [ ] POV putting a cup in the cupboard
+- [ ] Wide room reset before and after
+- [ ] Close-up pulling laundry from a basket
+#### Everyday objects
+
+- [ ] Close-up keys placed on a table
+- [ ] POV opening a drawer
+- [ ] Side shot hanging a jacket
+- [ ] Top-down emptying pockets
+- [ ] Detail of a hand turning a faucet
+- [ ] Low shot picking up a bag
+### Walking and body movement
+
+#### Walking over and past the camera
+
+- [ ] Ground-level step directly over the lens
+- [ ] Low side angle walking past
+- [ ] Camera beside the path as shoes cross frame
+- [ ] Wide approaching then passing the camera
+- [ ] Behind view walking away
+- [ ] Low front view stopping before the lens
+- [ ] Foreground shoe wipe into the next shot
+#### Feet and clothing details
+
+- [ ] Close-up tying shoelaces
+- [ ] Ground-level first step
+- [ ] Side ankle-height footsteps
+- [ ] Top-down looking at your shoes
+- [ ] Trouser fabric moving while walking
+- [ ] Close-up stepping onto a stair
+#### Entering and exiting frames
+
+- [ ] Enter an empty wide frame
+- [ ] Walk out leaving the scene empty
+- [ ] Cross behind a foreground object
+- [ ] Step through a doorway toward the lens
+- [ ] Walk into a shaft of light
+- [ ] Stop at a marked position and look around
+#### Sitting and standing
+
+- [ ] Chair-level sitting at a desk
+- [ ] Side shot standing from a bench
+- [ ] POV pulling a chair back
+- [ ] Wide sitting down in a landscape
+- [ ] Low angle rising into frame
+- [ ] Close-up hand pushing off an armrest
+#### Turning and looking
+
+- [ ] Rear shot turning toward a view
+- [ ] Profile look off-camera
+- [ ] Over-the-shoulder discovering the scene
+- [ ] Low angle looking up
+- [ ] Detail of a hand shading the eyes
+- [ ] Wide pause before continuing
+#### Stairs and movement transitions
+
+- [ ] Low shot ascending stairs
+- [ ] Top-of-stairs approach
+- [ ] Side shot descending a few steps
+- [ ] POV hand on the railing
+- [ ] Wide walking up a ramp
+- [ ] Close-up foot landing on the next step
+### Outdoors and nature
+
+#### Trail and hike preparation
+
+- [ ] Low medium shot putting on a backpack
+- [ ] Close-up tightening a shoulder strap
+- [ ] Top-down checking trail essentials
+- [ ] Side shot filling a water bottle
+- [ ] POV studying a trail sign
+- [ ] Wide departing from the trailhead
+#### Walking through nature
+
+- [ ] Static wide crossing a trail
+- [ ] Rear medium walking between trees
+- [ ] Ground-level step over camera
+- [ ] Side profile against the landscape
+- [ ] Wide walking through tall grass
+- [ ] Foreground leaves with subject passing behind
+#### Landscape discovery
+
+- [ ] Over-the-shoulder view reveal
+- [ ] Ultra-wide tiny person in the scenery
+- [ ] Distant framing emphasizing mountains behind the subject
+- [ ] Low medium shot looking toward the horizon
+- [ ] Side wide pausing at a viewpoint
+- [ ] Foreground rock framing the subject
+#### Outdoor details
+
+- [ ] Macro hand touching bark
+- [ ] Close-up boots on gravel
+- [ ] POV looking up through branches
+- [ ] Detail of backpack swinging
+- [ ] Close-up adjusting a cap
+- [ ] Water bottle held against a landscape
+#### Weather and seasons
+
+- [ ] Close-up opening an umbrella
+- [ ] Side shot pulling on a jacket
+- [ ] Ground-level shoes crossing a puddle
+- [ ] Backlit walking through falling leaves
+- [ ] Hands warming around a cup outside
+- [ ] Wide subject under an overcast sky
+### Travel and commuting
+
+#### Packing and departure
+
+- [ ] Top-down folding clothes into a bag
+- [ ] Side shot placing a suitcase on the floor
+- [ ] Close-up suitcase zipper
+- [ ] POV checking a packing list
+- [ ] Doorway shot leaving with luggage
+- [ ] Low shot suitcase wheels rolling past
+#### Public transport
+
+- [ ] Platform-level shoes stopping at a line
+- [ ] Side shot sitting by a window
+- [ ] POV holding a transit ticket
+- [ ] Close-up hand gripping a suitcase handle
+- [ ] Over-the-shoulder checking a route map
+- [ ] Wide walking through a station
+#### Car journey setup
+
+- [ ] Close-up unlocking a parked car
+- [ ] Side shot opening the door
+- [ ] POV placing a bag on the passenger seat
+- [ ] Detail fastening a seatbelt
+- [ ] Static interior shot adjusting a mirror
+- [ ] Exterior walking away after parking
+#### Arriving somewhere
+
+- [ ] Wide enter a new location
+- [ ] POV opening a hotel-room door
+- [ ] Close-up setting keys down
+- [ ] Side shot putting a bag on a bench
+- [ ] Over-the-shoulder first look at a view
+- [ ] Wide establishing shot with you entering frame
+#### City exploration
+
+- [ ] Wide crossing a pedestrian street
+- [ ] Low shot walking along a pavement
+- [ ] Profile pausing outside a shop
+- [ ] POV checking a street sign
+- [ ] Foreground architecture framing a walk
+- [ ] Rear shot moving into a busy square
+### Food preparation and cooking
+
+#### Getting ingredients
+
+- [ ] POV opening the fridge
+- [ ] Top-down placing ingredients on the counter
+- [ ] Close-up taking produce from a bag
+- [ ] Side shot washing vegetables
+- [ ] Macro hands checking an ingredient
+- [ ] Wide arranging the cooking space
+#### Chopping and preparing
+
+- [ ] Top-down chopping-board action
+- [ ] Side close-up slicing ingredients
+- [ ] Low counter-level hands preparing food
+- [ ] POV mixing ingredients in a bowl
+- [ ] Macro seasoning falling onto food
+- [ ] Detail opening a jar
+#### Stove and oven
+
+- [ ] Close-up turning a stove control
+- [ ] Side shot placing a pan down
+- [ ] Over-the-shoulder stirring a pan
+- [ ] Macro steam rising from food
+- [ ] POV opening an oven door
+- [ ] Wide checking the oven with mitts
+#### Plating and serving
+
+- [ ] Top-down plate assembly
+- [ ] Low side angle spooning food onto a plate
+- [ ] Macro sauce drizzle
+- [ ] POV carrying a plate to the table
+- [ ] Wide setting two places
+- [ ] Close-up placing cutlery beside the dish
+#### Eating and tasting
+
+- [ ] Side profile taking the first bite
+- [ ] Close-up fork lifting food
+- [ ] POV plate on the table
+- [ ] Over-the-shoulder eating while facing a view
+- [ ] Reaction close-up after tasting
+- [ ] Wide relaxed meal scene
+#### Kitchen cleanup
+
+- [ ] POV rinsing a bowl
+- [ ] Close-up turning off the tap
+- [ ] Side shot drying a plate
+- [ ] Top-down wiping crumbs away
+- [ ] Wide returning the kitchen to a clean state
+- [ ] Detail hanging up a towel
+### Coffee and drinks
+
+#### Making coffee
+
+- [ ] Close-up scooping coffee
+- [ ] Top-down preparing a filter
+- [ ] Side macro hot water pouring
+- [ ] Low shot cup under the machine
+- [ ] POV stirring the cup
+- [ ] Wide carrying coffee to the desk
+#### Tea and cold drinks
+
+- [ ] Close-up kettle switch
+- [ ] Side shot pouring tea
+- [ ] Top-down tea bag entering a mug
+- [ ] Macro ice cubes dropping into a glass
+- [ ] POV filling a bottle
+- [ ] Close-up condensation on a held drink
+#### Drinking moments
+
+- [ ] Profile taking a sip at the window
+- [ ] Close-up cup lifted into frame
+- [ ] POV drink beside a laptop
+- [ ] Wide sitting with a mug outdoors
+- [ ] Detail cup set down after a sip
+- [ ] Over-the-shoulder café table view
+### Study and school
+
+#### Reading and research
+
+- [ ] Over-the-shoulder reading a book
+- [ ] Macro page turning
+- [ ] Top-down highlighting a passage
+- [ ] Side profile reading by a window
+- [ ] POV taking a book from a shelf
+- [ ] Wide library table setup
+#### Writing and solving problems
+
+- [ ] Top-down writing notes
+- [ ] Pen-tip macro
+- [ ] Over-the-shoulder solving an equation
+- [ ] Side shot erasing and rewriting
+- [ ] POV opening a notebook
+- [ ] Close-up checking off a completed task
+#### Study setup and breaks
+
+- [ ] Wide sitting down to study
+- [ ] Detail starting a study timer
+- [ ] Top-down arranging flashcards
+- [ ] Profile stretching at the desk
+- [ ] POV refilling a drink
+- [ ] Close-up shutting the notebook after finishing
+#### Going to class
+
+- [ ] Low angle putting on a backpack
+- [ ] POV holding a notebook while walking
+- [ ] Wide entering a study room
+- [ ] Close-up placing supplies on a desk
+- [ ] Side shot pulling out a chair
+- [ ] Detail packing materials away
+### Vlogs and personal routines
+
+#### Day-in-the-life coverage
+
+- [ ] Wide morning room establish
+- [ ] POV picking up your essentials
+- [ ] Low shot leaving the house
+- [ ] Side shot working on the main task
+- [ ] Close-up meaningful detail from the day
+- [ ] Wide end-of-day return
+#### Talking-head cutaways
+
+- [ ] Close-up hands gesturing
+- [ ] Side angle of the presenter preparing
+- [ ] POV arranging camera notes
+- [ ] Over-the-shoulder editing a video
+- [ ] Wide resetting the recording space
+- [ ] Detail placing a microphone down
+#### Diary and reflection
+
+- [ ] Profile looking out a window
+- [ ] Wide seated alone in a room
+- [ ] Hands resting on a notebook
+- [ ] Rear shot watching a sunset
+- [ ] POV writing a short journal entry
+- [ ] Close-up closing a journal
+#### Errands and appointments
+
+- [ ] POV checking a list
+- [ ] Close-up taking keys
+- [ ] Wide walking toward a storefront
+- [ ] Detail placing a purchase into a bag
+- [ ] Side shot waiting on a bench
+- [ ] Top-down unpacking items at home
+### Creative work and hobbies
+
+#### Filming yourself
+
+- [ ] Close-up extending tripod legs
+- [ ] POV placing a camera on a surface
+- [ ] Side shot checking the frame
+- [ ] Wide walking to your starting position
+- [ ] Detail pressing record
+- [ ] Behind-the-scenes wide of a solo setup
+#### Editing and designing
+
+- [ ] Over-the-shoulder timeline editing
+- [ ] Top-down sketching a layout
+- [ ] Side shot tablet and stylus use
+- [ ] Macro adjusting a physical control
+- [ ] POV reviewing a contact sheet
+- [ ] Wide focused creative desk scene
+#### Art and making
+
+- [ ] Close-up pencil touching paper
+- [ ] Top-down paint palette
+- [ ] Side shot working with a tool
+- [ ] Macro brush stroke
+- [ ] POV inspecting a finished object
+- [ ] Wide cleanup after making something
+#### Music and gaming
+
+- [ ] Close-up plugging in headphones
+- [ ] Side profile playing an instrument
+- [ ] Hands-on-keys detail
+- [ ] Top-down controller pickup
+- [ ] Over-the-shoulder gameplay context
+- [ ] Wide ending a session
+### Fitness and sports
+
+#### Workout preparation
+
+- [ ] Low angle tying trainers
+- [ ] Close-up filling a bottle
+- [ ] Top-down laying out workout gear
+- [ ] Side shot rolling out a mat
+- [ ] POV starting a timer
+- [ ] Wide entering the workout space
+#### Exercise details
+
+- [ ] Low side shot bodyweight movement
+- [ ] Close-up hand gripping equipment
+- [ ] Wide full movement for context
+- [ ] POV adjusting a resistance band
+- [ ] Detail wiping sweat with a towel
+- [ ] Side shot resetting between sets
+#### Running and recovery
+
+- [ ] Wide running across frame
+- [ ] Low shot trainers passing camera
+- [ ] Rear medium jogging away
+- [ ] Profile slowing to a walk
+- [ ] Close-up stretching a calf
+- [ ] Wide seated recovery with a drink
+#### Sport practice
+
+- [ ] Ground-level ball entering frame
+- [ ] Close-up adjusting gear
+- [ ] Side angle repeating a drill
+- [ ] Wide full practice action
+- [ ] POV picking up equipment
+- [ ] Detail packing up after practice
+### Getting ready and fashion
+
+#### Outfit preparation
+
+- [ ] Top-down outfit laid out
+- [ ] Close-up choosing a shirt
+- [ ] Side shot putting on a jacket
+- [ ] Detail fastening a watch
+- [ ] Low shot slipping into shoes
+- [ ] Wide finished outfit reveal
+#### Accessories and grooming
+
+- [ ] Close-up clipping a bag strap
+- [ ] POV picking up sunglasses
+- [ ] Side mirror-framed grooming shot
+- [ ] Detail adjusting a necklace
+- [ ] Macro fastening a button
+- [ ] Close-up putting away grooming tools
+#### Leaving and returning
+
+- [ ] Hallway wide final outfit check
+- [ ] POV grabbing keys from a hook
+- [ ] Low doorway step-out
+- [ ] Rear shot walking away with a bag
+- [ ] Close-up setting accessories down on return
+- [ ] Wide hanging up a jacket
+### Work and small business
+
+#### Focused desk work
+
+- [ ] Wide starting the workday
+- [ ] Side profile concentrating
+- [ ] Over-the-shoulder reviewing a document
+- [ ] Macro pen signing a page
+- [ ] Top-down sorting notes
+- [ ] Close-up closing laptop at the end
+#### Packing and shipping
+
+- [ ] Top-down laying out an order
+- [ ] Close-up folding tissue paper
+- [ ] Side shot placing an item in a box
+- [ ] Macro sealing tape
+- [ ] POV applying a shipping label
+- [ ] Low shot lifting the finished parcel
+#### Handmade product process
+
+- [ ] Close-up selecting materials
+- [ ] Side shot making a component
+- [ ] Top-down assembly
+- [ ] Macro quality check
+- [ ] POV turning the finished item in your hands
+- [ ] Wide product placed in its workspace
+### Mood and storytelling moments
+
+#### Focus and progress
+
+- [ ] Close-up starting a timer
+- [ ] Wide repeated work action
+- [ ] Detail crossing out a finished item
+- [ ] POV checking a progress list
+- [ ] Side shot small satisfied reaction
+- [ ] Wide scene after the task is complete
+#### Small frustrations
+
+- [ ] Close-up searching a cluttered drawer
+- [ ] POV checking empty pockets
+- [ ] Side shot pausing over a confusing task
+- [ ] Detail unplugged cable discovery
+- [ ] Reaction glance at the camera
+- [ ] Wide return to the task
+#### Calm and pauses
+
+- [ ] Wide stillness beside a window
+- [ ] Close-up hands around a cup
+- [ ] Profile watching the scenery
+- [ ] POV slow page turn
+- [ ] Detail shoes resting on a bench
+- [ ] Rear shot quiet pause outdoors
+### Camera positions and self-filming
+
+#### Ground and low angles
+
+- [ ] Camera at shoe level
+- [ ] Step-over-camera placement
+- [ ] Object-level shot from a table edge
+- [ ] Low angle looking up at the subject
+- [ ] Low side angle across the path
+- [ ] Lens hidden behind a foreground object
+#### Eye-level and side angles
+
+- [ ] Eye-level front shot
+- [ ] Profile from the side
+- [ ] Rear follow-style static shot
+- [ ] Three-quarter view
+- [ ] Over-the-shoulder framing
+- [ ] Camera outside a doorway
+#### High and overhead angles
+
+- [ ] Top-down desk action
+- [ ] High corner room view
+- [ ] Overhead food preparation
+- [ ] High angle looking down at hands
+- [ ] Top-of-stairs view
+- [ ] Overhead bag-packing view
+#### POV and object perspectives
+
+- [ ] Your-eye POV
+- [ ] POV looking down at your hands
+- [ ] Inside-an-open-cupboard perspective
+- [ ] Inside-a-bag packing view
+- [ ] Camera beside an opening laptop
+- [ ] Camera looking past a foreground cup
+#### Framing and lens choices
+
+- [ ] Wide shot establishes the place
+- [ ] Medium shot shows the action
+- [ ] Close-up isolates hands or an object
+- [ ] Extreme close-up emphasizes texture
+- [ ] Distant viewpoint compresses background layers
+- [ ] Foreground frame adds depth
+### Sequences and transitions
+
+#### Action coverage sequences
+
+- [ ] Wide setup → medium action → detail
+- [ ] Approach → action → leave frame
+- [ ] Object pickup → use → put down
+- [ ] Preparation → journey → arrival
+- [ ] Before task → effort → result
+- [ ] Same action from two matching angles
+#### Personal transitions
+
+- [ ] Close laptop → cut to leaving the room
+- [ ] Switch off light → cut to a darker scene
+- [ ] Hand covers lens → next location
+- [ ] Walk past lens → reveal next scene
+- [ ] Bag zip → suitcase zip match cut
+- [ ] Set down cup → cut to a different desk
+#### Continuity and planning
+
+- [ ] Match the hand used between shots
+- [ ] Repeat the action at a similar speed
+- [ ] Keep clothing and props consistent
+- [ ] Leave empty space before entering frame
+- [ ] Record a clean pause after the action
+- [ ] Capture ambient sound for the location
+- [ ] Keep framing space for captions
+#### Solo filming shot lists
+
+- [ ] One-person morning sequence
+- [ ] One-person desk-work sequence
+- [ ] One-person cooking sequence
+- [ ] One-person hike sequence
+- [ ] One-person travel-day sequence
+- [ ] One-person evening reset
+### Filming-yourself reference library
+
+#### Uploaded video studies
+
+- [ ] Uploaded reference — filming yourself outdoors
+- [ ] Action-to-angle breakdown
+- [ ] Personal shot-list blueprint
+### Tabletop paper explanations
+
+#### Overhead hands and paper
+
+- [ ] Locked overhead hands arranging labeled cards
+- [ ] Slide a new paper into frame to introduce an idea
+- [ ] Reorder paper cards to explain a sequence
+- [ ] Stack pages to show accumulation
+- [ ] Remove a sheet to reveal hidden information
+- [ ] Fold paper to demonstrate a dimension
+- [ ] Tear a paper example to show a limit
+- [ ] Draw connecting arrows between cards
+#### Drawing and writing demonstrations
+
+- [ ] Overhead drawing a diagram from blank paper
+- [ ] Oblique angle of pen and paper with face beyond
+- [ ] Macro pen tip forming a key symbol
+- [ ] Erase and redraw an incorrect assumption
+- [ ] Reveal a prepared drawing under a cover sheet
+- [ ] Trace a route with a finger
+- [ ] Compare two hand-drawn models side by side
+- [ ] Finish a drawing then look toward the lens
+#### Moving props to explain concepts
+
+- [ ] Slide coins to demonstrate probability
+- [ ] Sort colored objects into groups
+- [ ] Move tokens along a drawn timeline
+- [ ] Use string to connect distant points
+- [ ] Arrange blocks to demonstrate scale
+- [ ] Place a familiar object beside an unfamiliar one
+- [ ] Rotate a simple model toward the camera
+- [ ] Replace a paper diagram with its physical equivalent
+#### Table coverage and continuity
+
+- [ ] Presenter facing camera behind the table
+- [ ] True overhead with hands entering from below
+- [ ] Table-edge low angle with props in foreground
+- [ ] Over-the-shoulder diagram view
+- [ ] Close-up of a crucial prop change
+- [ ] Wide reset showing the whole demonstration
+- [ ] Hold completed layout for narration
+- [ ] Repeat one action for matching cuts
+### Vsauce-inspired physical explainer coverage
+
+#### Talking directly to the viewer
+
+- [ ] Eye-level direct-to-camera question
+- [ ] Medium presenter shot with room context
+- [ ] Tight close-up for a counterintuitive statement
+- [ ] Wide shot revealing the demonstration table
+- [ ] Presenter turns from a prop to the lens
+- [ ] Brief silent look after a surprising result
+- [ ] Presenter enters frame with the next object
+- [ ] Camera-side reaction to a failed prediction
+#### Presenter actions and discoveries
+
+- [ ] Search a shelf for a relevant book
+- [ ] Open a drawer and retrieve the demonstration prop
+- [ ] Walk to a board while continuing the explanation
+- [ ] Sit down to change the scale of a question
+- [ ] Look through a magnifying glass at an object
+- [ ] Measure an ordinary object
+- [ ] Compare a prediction with an observed result
+- [ ] Place the last prop down before the conclusion
+#### Everyday curiosity inserts
+
+- [ ] Close-up of an ordinary object before its explanation
+- [ ] POV inspecting an unexpected detail
+- [ ] Extreme close-up revealing texture or structure
+- [ ] Hands rotating an object to expose another side
+- [ ] Repeat an action in slow deliberate stages
+- [ ] Reflect an object in a mirror
+- [ ] Shine a flashlight across a surface
+- [ ] Show the same object from near and far
+#### Demonstration sequences
+
+- [ ] Question to face → hands reveal prop → result
+- [ ] Prediction → test → surprised reaction → explanation
+- [ ] Wide setup → overhead process → close-up evidence
+- [ ] Paper analogy → real object → analogy limit
+- [ ] Draw model → change one variable → redraw outcome
+- [ ] Presenter explanation → cutaway evidence → return to face
+#### Solo explainer filming kit
+
+- [ ] Clear overhead rig outside the hand workspace
+- [ ] Frame paper so writing remains readable
+- [ ] Record a clean tabletop before moving props
+- [ ] Mark paper and prop positions for continuity
+- [ ] Record each demonstration without narration as an insert
+- [ ] Capture a neutral presenter listening reaction
+- [ ] Leave framing space for diagram labels
+- [ ] Collect close-ups after the full demonstration

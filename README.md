@@ -2,7 +2,7 @@
 
 Your expandable motion design reference library. Start with a collection checklist; grow it into a searchable set of references, previews, reusable code, and finished scenes.
 
-**4,260 collection entries · 26 categories · nested browser · portable AI instructions**
+**4,923 collection entries · 27 categories · nested browser · portable AI instructions**
 
 ## Browse
 
@@ -48,6 +48,7 @@ Card navigation now opens every folder level; use the breadcrumbs or the expanda
 24. Comments and replies — Gen Z and internet humor, brand voices, wordplay, thoughtful replies, context, and thread analysis.
 25. Meme templates — blank image macros, editable caption slots, meme-news cards, and reusable joke layouts.
 26. Reply GIFs, images and stickers — reactions organized by emotion, intent, format, and use context.
+27. Personal B-roll — self-filmed everyday actions, specific camera angles, solo shot lists, and action sequences.
 
 Browse the full [text checklist](docs/CATALOG.md). Edit the catalog modules in `scripts/`, then run `npm run build` to regenerate the catalog and checklist. IDs derive from the full hierarchy: preserve existing names and IDs when possible because saved progress uses IDs.
 
@@ -79,7 +80,7 @@ entries/<entry-slug>/
   assets/            # dependencies used by this entry
 ```
 
-Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—4,260 empty folders would add clutter.
+Keep large source videos outside Git initially; record their URLs or storage paths. Device-local uploads are available for smaller references; export a backup before clearing browser data. Later we can choose Git LFS or object storage. A folder is only created when there is something to collect—4,923 empty folders would add clutter.
 
 ## Use with an AI
 
@@ -93,4 +94,4 @@ Search locally with `python3 scripts/search_catalog.py "globe"` or `rg "route" d
 
 `npm run check` validates JavaScript syntax and taxonomy structure. `python3 .../quick_validate.py skills/motion-atlas` can validate the optional skill metadata in an environment with the skill creator tooling.
 
-The catalog includes one user-supplied meme-news screenshot as a collected layout reference. It includes no copied third party code, fonts, music, or video. Names identify collection targets and references, not bundled assets or affiliation. When importing from other repositories, preserve each license and attribution in `THIRD_PARTY.md` and the entry metadata. Exact creator references can be added later; currently named styles are descriptive technique checklists.
+The catalog includes a user-supplied meme-news screenshot and a lightweight preview of a user-supplied filmmaking video as collected references. It includes no copied third party code, fonts, or music. Names identify collection targets and references, not bundled assets or affiliation. When importing from other repositories, preserve each license and attribution in `THIRD_PARTY.md` and the entry metadata. Exact creator references can be added later; currently named styles are descriptive technique checklists.

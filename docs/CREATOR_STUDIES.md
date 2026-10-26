@@ -38,3 +38,9 @@ Official profile checked: https://www.instagram.com/wantsandneedsbrand_/?hl=en
 Collection label: **Entertainment-led ads / delayed product reveal**. The initial study prompts follow the user’s requested focus: a sketch, challenge, or curiosity hook draws attention before a clothing or brand reveal. Record the actual first product appearance, first brand mention, reveal, and callback for each supplied example. These folders contain analysis prompts, not imported videos or a completed account-wide analysis.
 
 Use the Storytelling creator folder for narrative mechanics and the Styles creator folder for framing, transitions, staging, typography, and visual rhythm.
+
+## Explainer coverage and program detours
+
+Personal B-roll includes tabletop paper explanations and Vsauce-inspired physical explainer coverage: direct-to-camera presentation, hands and props, drawing, demonstrations, and solo filming sequences. These are requested shot ideas, not a verified shot analysis of a particular Vsauce video.
+
+Storytelling has separate Emotional short films, Horror short films, Television and program storytelling, and Format-switching sketches sections. The latter includes reference collection prompts for grantbeans and jercho1: upload an actual example, timecode each format change, identify the continuing premise, and map the detour to its payoff. News, cooking, reality, sports, courtroom, game-show, and other formats can provide short narrative detours. Store their visual treatment separately under Styles → Television formats and sketch detours.

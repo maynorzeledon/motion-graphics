@@ -9,3 +9,5 @@ __pycache__/
 *.wav
 *.blend
 !entries/**/previews/*.mp4
+
+!dist/references/personal-broll/*.mp4

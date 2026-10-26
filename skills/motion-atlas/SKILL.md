@@ -23,3 +23,5 @@ For comment and reply requests, read `references/comments-and-replies.md`. Use a
 For meme posts and reply media, use `references/memes-and-reactions.md`. Keep editing-style references, reusable blank templates, and ready-made reaction assets distinct.
 
 For joke construction and comedy references, read `references/comedy-formats.md` and search Storytelling → Comedy formats.
+
+For self-filmed daily-life coverage, use Personal B-roll and read `references/personal-broll.md`. Distinguish shot ideas from actual filmed footage.
